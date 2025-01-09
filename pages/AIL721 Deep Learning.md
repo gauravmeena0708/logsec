@@ -18,7 +18,10 @@
 - Types of Supervised Learning
 	- Regression Problem : Model predicts real values
 	- Classification problems: Model predicts discrete values
-	- Simplest model =>  => $f\left(x;\theta\right)=\theta0+\theta1.x$
+	- Simplest model => Linear Model => $f\left(x;\theta\right)=\theta0+\theta1.x$ => can only describe relationship as line.
+	- ((67800a13-8223-4782-b31d-07f321d2e6e3))
+	-
+	-
 	-
 - # Lecture 3
 - # Lecture 4
