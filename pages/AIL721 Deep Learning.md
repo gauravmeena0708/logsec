@@ -7,8 +7,8 @@
 	- $h=\sum_{i=1}^{M}wi.xi$
 	- $y=a\left\lbrack h\right\rbrack$
 - Minsly and Papert 1969
-- Rumelhart, Hinto and williams, 1986
--
+- Rumelhart, Hinton and williams, 1986 -> Backpropogation
+- Deep Learning -> Early 2000s
 -
 -
 - # Lecture 2
