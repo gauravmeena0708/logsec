@@ -2,4 +2,8 @@
 	-
 - # Lecture 2
 	- ## Structure
-		- Minor
+		- Minor 30
+		- Major 45
+		- Assignment 25
+	- ## Matter
+		-
