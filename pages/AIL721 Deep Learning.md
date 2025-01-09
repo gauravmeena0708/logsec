@@ -32,7 +32,8 @@
 		- Types of activation functions: ReLU, Sigmoid, tanh
 		- Data
 	- How many linear regions or segments with D hidden units under ReLU activation?
-	-
+		- ((67800c05-d458-46cb-bc66-d10e03fd838d))
+	- With enough hidden units(linear regions), we can describe any 1D
 	-
 - # Lecture 3
 - # Lecture 4
