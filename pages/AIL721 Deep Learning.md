@@ -22,7 +22,7 @@
 	- ((67800a13-8223-4782-b31d-07f321d2e6e3))
 - Piecewise Linear Function
 	- can be made with help of activation function
-	- Step or ReLU
+	- Step or ReLU function
 	-
 	-
 - # Lecture 3
