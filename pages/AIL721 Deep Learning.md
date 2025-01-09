@@ -16,7 +16,9 @@
 - Examples of Supervised learning
 	- Regression, Multivariate Regression, Binary Classification, Multiclass Classification
 - Types of Supervised Learning
-	-
+	- Regression Problem : Model predicts real values
+	- Classification problems: Model predicts discrete values
+	- Simplest model =>
 - # Lecture 3
 - # Lecture 4
 -
