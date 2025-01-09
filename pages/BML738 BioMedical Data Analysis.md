@@ -8,4 +8,6 @@
 	- ## Matter
 		- Paracetamol or Ibuprofen
 		- Body temperature data - effect of anger on body temperature
-		-
+		- Control Group - test group
+		- Paired study
+		- St
