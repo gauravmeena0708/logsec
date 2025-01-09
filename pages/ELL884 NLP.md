@@ -33,6 +33,9 @@
 		- Port Stemmer (1980)
 			- 7 Sets of manual sequential rules
 			- May not return valid stem word but guarantees if two word have same root they will be mapped similarly
+			- All words are of the form (C)(VC)^m (V) ---- where C is consonent,
+				- Trouble -> C(VC)^2
+				-
 			- TODO Watch a video on how do the [[portstemmer]] work?
 			-
 - # Lecture 3
