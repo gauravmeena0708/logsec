@@ -47,7 +47,11 @@
 	- How many parameters?
 	- $3D+\left(K-1\right)D^2+\left(K-1\right)D+1$
 	- Hyper-parameters
-		- Nu
+		- Number of layers
+		- Number of hidden units
+		- Learning rate
+		- Batch size or mini-batch size
+	- ##
 - # Lecture 4
 -
 -
