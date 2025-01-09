@@ -31,8 +31,10 @@
 		- Stemming Methods
 			- TODO Lemmatization, stemming, difference between these two?
 		- Port Stemmer (1980)
-			- 7 Sets of manual sequenrules
+			- 7 Sets of manual sequential rules
 			- May not return valid stem word but guarantees if two word have same root they will be mapped similarly
+			- TODO Watch a video on how do the [[portstemmer]] work?
+			-
 - # Lecture 3
 - # Lecture 4
 -
