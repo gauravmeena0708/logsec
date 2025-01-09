@@ -5,9 +5,10 @@
 		- Regular Expression
 			- Range - [wW], [a-z], [A-Za-z]
 			- Negation - [ ^Ss \] - neither S or s
-			- [ ^ A-Z ] - neither A-Z
-			- [e^] - look for either e or ^
-			- a^b - look for a,
+				- [ ^ A-Z ] - neither A-Z
+				- [e^] - look for either e or ^
+				- a^b - look for a, ^, b
+			- Optional - ? - Woodchucks?, Colou?rs? -> color, colors, colour, clou
 - # Lecture 3
 - # Lecture 4
 -
