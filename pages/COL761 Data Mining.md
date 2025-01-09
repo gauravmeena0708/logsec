@@ -12,7 +12,9 @@
 		- Mining data stream
 		- Anomaly Detection
 	- ## Structure
-		-
+		- Homework - 3-4 - 50%
+		- Minor                    - 20%
+		- Major                    -
 - # Lecture 2
 	-
 - # Lecture 3
