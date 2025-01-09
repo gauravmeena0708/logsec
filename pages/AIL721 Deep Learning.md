@@ -56,7 +56,7 @@
 	- Representation Learning
 		- Machine learning technique that helps system automatically learn to represent raw data for subsequent tasks
 	- ## Embedding Space?
-	-
+	- TODO Check python package Visual
 - # Lecture 4
 -
 -
