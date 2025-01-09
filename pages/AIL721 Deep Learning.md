@@ -4,8 +4,9 @@
 	- ((678007b3-effa-477d-a5ff-6f13341d227c))
 	- Based on computational models called neural networks
 - What are neural networks?
-	- $h=\sum_{i=1}^{M}w$
-	-
+	- $h=\sum_{i=1}^{M}wi.xi$
+	- $y=a\left\lbrack h\right\rbrack$
+-
 -
 -
 - # Lecture 2
