@@ -4,8 +4,10 @@
 	- ## Matter
 		- Regular Expression
 			- Range - [wW], [a-z], [A-Za-z]
-			- Negation - \[^Ss\] - neither S or s
-			-
+			- Negation - [ ^Ss \] - neither S or s
+			- [ ^ A-Z ] - neither A-Z
+			- [e^] - look for either e or ^
+			- a^b - look for a,
 - # Lecture 3
 - # Lecture 4
 -
