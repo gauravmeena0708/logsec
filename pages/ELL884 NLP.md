@@ -30,7 +30,9 @@
 			- Concatenative morphology is easy -  chapter 2 and 3
 		- Stemming Methods
 			- TODO Lemmatization, stemming, difference between these two?
-			-
+		- Port Stemmer (1980)
+			- 7 Sets of rules
+			- May not return valid stem word
 - # Lecture 3
 - # Lecture 4
 -
