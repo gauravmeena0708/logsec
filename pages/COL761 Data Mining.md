@@ -1,15 +1,20 @@
 # Lecture 1
-	- Definition
+	- ## Definition
 		- Extracting knowledge from the data - pattern, relationships
 		- overlaps with databases, ML, CS algo
-	- Syllabus
+	- ## Syllabus
 		- Association rule Mining
 		- Frequency Subgraph mining
 		- Searching and Indexing
 		- Clustering
 		- Random walks and page rank
 		- Deep learning for graphs
+		- Mining data stream
+		- Anomaly Detection
+	- ## Structure
+		-
 - # Lecture 2
+	-
 - # Lecture 3
 - # Lecture 4
 -
