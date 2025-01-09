@@ -24,6 +24,7 @@
 	- can be made with help of activation function
 	- Step or ReLU function
 	- ((67800ae7-0bf0-4a60-b1f4-366f4273117f))
+	- Unique excercise
 	-
 	-
 - # Lecture 3
