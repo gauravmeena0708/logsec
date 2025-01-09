@@ -34,6 +34,7 @@
 	- ## Matter
 		- ### Association Rule mining
 			- [[Association Rule Mining and Frequent Itemset Mining]]
+			- TODO Upload the assest and link the correct page
 - # Lecture 3
 - # Lecture 4
 -
