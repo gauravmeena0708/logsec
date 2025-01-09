@@ -13,7 +13,8 @@
 			- Multiple
 				- t* -> 0 or more '',t, tt, ttt
 				- b+ -> 1 or more
-			- any character - . -> beg.n -> begin
+			- any character - . -> beg.n -> begin, began, begon ....
+			- Finding all The - > (^| )[tT]he( |\.|$)
 - # Lecture 3
 - # Lecture 4
 -
