@@ -24,7 +24,8 @@
 				- Morphological rules -  can solve goose vs geese
 			- Why do we need to understand a language?
 				- some language adds prefix or suffix to root word like english, hindi, latin
-				- some lan
+				- some languages such as tagalog add infix  or circumfix (german)
+			- TODO Read about Automata Chapter 2 and 3 of Book
 - # Lecture 3
 - # Lecture 4
 -
