@@ -8,7 +8,10 @@
 				- [ ^ A-Z ] - neither A-Z
 				- [e^] - look for either e or ^
 				- a^b - look for a, ^, b
-			- Optional - ? - Woodchucks?, Colou?rs? -> color, colors, colour, clou
+			- Optional - ? - Woodchucks?, Colou?rs? -> color, colors, colour, colours
+			- OR - [a|b]
+			- Multiple
+				- t* - 0 or more '',t, tt,
 - # Lecture 3
 - # Lecture 4
 -
