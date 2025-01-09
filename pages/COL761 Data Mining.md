@@ -49,6 +49,9 @@
 			- If we are trying to form size k, we have to merge two subset which have atleast k-2 items common
 			- if we want to make size 3: we can merge {}1,2} + {2,3}
 	- ## Ordering of Itemset
+		- TODO what is lexicographical order
+		- Items are sorted in lexicographical order
+	-
 		-
 		-
 - # Lecture 3
