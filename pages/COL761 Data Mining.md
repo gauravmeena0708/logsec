@@ -28,7 +28,8 @@
 			- Any set having S>=s
 			- Monotonicity of freq of set
 				- if item A has not crossed s, A->B will not be counted
-			- for N items $2^{n}-1$
+			- for N items $2^{n}-1$ combination of subset can be possible
+			-
 - # Lecture 2
 	-
 - # Lecture 3
