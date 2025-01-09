@@ -26,6 +26,9 @@
 				- some language adds prefix or suffix to root word like english, hindi, latin
 				- some languages such as tagalog add infix  or circumfix (german)
 			- TODO Read about Automata Chapter 2 and 3 of Book
+			- TODO Read about basic terminologies
+			- Concatenative morphology is easy -  chapter 2 and 3
+		- Stemming
 - # Lecture 3
 - # Lecture 4
 -
