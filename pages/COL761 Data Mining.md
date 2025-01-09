@@ -20,8 +20,8 @@
 		- Get HPC access, Baadal access, Piazza, github repo
 	- ## Matter
 		- Association rule mining
-			- What is support? -
-			- what is confidence?
+			- What is support? - It should have happened in n transactions
+			- what is confidence? - Probability of A->B / Probability of A
 			-
 - # Lecture 2
 	-
