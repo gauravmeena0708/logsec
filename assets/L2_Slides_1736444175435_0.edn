@@ -15,4 +15,4 @@
                           :page 10},
                :content {:text "Linear models can only describe the input/output relationship as a line."},
                :properties {:color "yellow"}}],
- :extra {:page 10}}
+ :extra {:page 16}}
