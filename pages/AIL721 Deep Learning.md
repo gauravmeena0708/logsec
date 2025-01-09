@@ -33,7 +33,11 @@
 		- Data
 	- How many linear regions or segments with D hidden units under ReLU activation?
 		- ((67800c05-d458-46cb-bc66-d10e03fd838d))
-	- With enough hidden units(linear regions), we can describe any 1D
+	- With enough hidden units(linear regions), we can describe any 1D function with arbitrary accuracy
+	- Universal approximation theorem
+		- ((67800c6a-2978-4d79-b2bd-26cef992021e))
+		-
+	-
 	-
 - # Lecture 3
 - # Lecture 4
