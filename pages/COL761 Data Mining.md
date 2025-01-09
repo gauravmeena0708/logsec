@@ -33,7 +33,7 @@
 - # Lecture 2
 	- ## Matter
 		- ### Association Rule mining
-			-
+			- [[Association Rule Mining and Frequent Itemset Mining]]
 - # Lecture 3
 - # Lecture 4
 -
