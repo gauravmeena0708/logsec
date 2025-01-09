@@ -31,15 +31,15 @@
 			- for N items $2^{n}-1$ combination of subset can be possible
 			-
 - # Lecture 2
-	- ## Matter
-	- ### Association Rule mining
+	- ## Apriori## Association Rule mining
 		- [[Apriori Principle Association Rule Mining and Frequent Itemset Mining]]
 		- TODO Upload the assest and link the correct page here
 	- ## Frequent Itemset Mining
 		- Naive Approach
 			- Generate Candidate - > check support - if frequent accept else throw
-		- Total possible subsets - $2^{n}-1$
-		- Impractical
+			- Total possible subsets - $2^{n}-1$
+			- Impractical
+		-
 - # Lecture 3
 - # Lecture 4
 -
