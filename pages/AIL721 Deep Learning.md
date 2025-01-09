@@ -6,6 +6,8 @@
 - What are neural networks?
 	- $h=\sum_{i=1}^{M}wi.xi$
 	- $y=a\left\lbrack h\right\rbrack$
+- Minsly and Papert 1969
+- Rumelhart, Hinto and williams, 1986
 -
 -
 -
