@@ -54,6 +54,9 @@
 	- ## Key Benefits of Deep Neural Network
 	- Hierarchical Representation - Edges, face parts, faces
 	- Representation Learning
+		- Machine learning technique that helps system automatically learn to represent raw data for subsequent
+	- ## Embedding Space?
+	-
 - # Lecture 4
 -
 -
