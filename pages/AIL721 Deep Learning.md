@@ -36,10 +36,12 @@
 	- With enough hidden units(linear regions), we can describe any 1D function with arbitrary accuracy
 	- Universal approximation theorem
 		- ((67800c6a-2978-4d79-b2bd-26cef992021e))
-	- A deeper network can represent a given function with fewer parameters compared to
+	- A deeper network can represent a given function with fewer parameters compared to wider network
 	-
 	-
 - # Lecture 3
+- ![L3_slides.pdf](../assets/L3_slides_1736445139169_0.pdf)
+- Writing the basic
 - # Lecture 4
 -
 -
