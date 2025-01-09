@@ -31,6 +31,9 @@
 		- Number of parameters/weights
 		- Types of activation functions: ReLU, Sigmoid, tanh
 		- Data
+	- How many linear regions or segments with D hidden units under ReLU activation?
+	-
+	-
 - # Lecture 3
 - # Lecture 4
 -
