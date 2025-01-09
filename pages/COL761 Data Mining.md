@@ -47,7 +47,8 @@
 		- C1 -> F1 -> C2 -> F2 -> C3 -> F3 -> ...
 		- Important rule:
 			- If we are trying to form size k, we have to merge two subset which have atleast k-2 items common
-			- if we want to make size 4
+			- if we want to make size 3: we can merge {}1,2} + {2,3}
+	- ## Ordering o
 		-
 		-
 - # Lecture 3
