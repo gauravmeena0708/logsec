@@ -42,6 +42,7 @@
 			- Total possible subsets - $2^{n}-1$
 			- Impractical
 		- TODO Prove Fn X Fn will give all subsets of Fn+1
+		- TODO
 		-
 		-
 - # Lecture 3
