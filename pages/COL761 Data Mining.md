@@ -4,7 +4,11 @@
 		- overlaps with databases, ML, CS algo
 	- Syllabus
 		- Association rule Mining
-		- Frequency
+		- Frequency Subgraph mining
+		- Searching and Indexing
+		- Clustering
+		- Random walks and page rank
+		- Deep learning for graphs
 - # Lecture 2
 - # Lecture 3
 - # Lecture 4
