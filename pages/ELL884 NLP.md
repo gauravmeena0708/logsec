@@ -28,7 +28,9 @@
 			- TODO Read about Automata Chapter 2 and 3 of Book
 			- TODO Read about basic terminologies
 			- Concatenative morphology is easy -  chapter 2 and 3
-		- Stemming
+		- Stemming Methods
+			- TODO Lemmatization, stemming, difference between these two?
+			-
 - # Lecture 3
 - # Lecture 4
 -
