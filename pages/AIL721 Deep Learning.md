@@ -43,7 +43,9 @@
 - ![L3_slides.pdf](../assets/L3_slides_1736445139169_0.pdf)
 - Writing the basic quation from the figure
 	- ((67800d08-e073-4d85-9339-1e96d715f378))
-	-
+	- LATER ((67800d30-ffb3-4e4f-9c58-215ce8976b30))
+	- How many parameters?
+	- $3D+\left(K-1\right)D^2+\left(K-1\right)D$
 - # Lecture 4
 -
 -
