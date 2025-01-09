@@ -18,8 +18,10 @@
 		- Accuracy or Precision -> Minimize false +ve
 		- Recall  -> minimize false -ve
 		- Morphology
+			- TODO What is Morphology?
 			- Two kind of knowledge
-				- O
+				- Orthographic rules - can solve woodchucks vs woodchuck
+				- Morphological rules -  can solve goose vs geese
 - # Lecture 3
 - # Lecture 4
 -
