@@ -18,7 +18,11 @@
 		- Quizzes                 - 10%
 	- ## HW0
 		- Get HPC access, Baadal access, Piazza, github repo
-	-
+	- ## Matter
+		- Association rule mining
+			- What is support? -
+			- what is confidence?
+			-
 - # Lecture 2
 	-
 - # Lecture 3
