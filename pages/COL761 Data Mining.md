@@ -23,6 +23,7 @@
 			- What is support? - It should have happened in n transactions
 			- what is confidence? - Probability of A->B / Probability of A
 			-
+			-
 - # Lecture 2
 	-
 - # Lecture 3
