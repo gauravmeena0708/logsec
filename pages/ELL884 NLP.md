@@ -36,8 +36,7 @@
 			- All words are of the form (C)(VC)^m (V) ---- where C is consonent, V is vowel
 				- consonent are letter other than A, E, I, O, U and Y preceeded by consonent
 				- Trouble -> C(VC)^2
-				-
-				-
+				- Apple -> (VC)^2
 			- TODO Watch a video on how do the [[portstemmer]] work?
 			-
 - # Lecture 3
