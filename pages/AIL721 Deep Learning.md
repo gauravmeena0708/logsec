@@ -27,7 +27,10 @@
 	- Unique excercise - check pdf
 	- ((67800b64-eb73-46b0-8cde-e34830f019e4))
 	-
-	-
+	- What factors influence curves shape?
+		- Number of parameters/weights
+		- Types of activation functions: ReLU, Sigmoid, tanh
+		- Data
 - # Lecture 3
 - # Lecture 4
 -
