@@ -13,7 +13,10 @@
 -
 - # Lecture 2
 - ![L2_Slides.pdf](../assets/L2_Slides_1736444175435_0.pdf)
-- Examples of
+- Examples of Supervised learning
+	- Regression, Multivariate Regression, Binary Classification, Multiclass Classification
+- Types of Supervised Learning
+	-
 - # Lecture 3
 - # Lecture 4
 -
