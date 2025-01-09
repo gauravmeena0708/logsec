@@ -23,6 +23,9 @@
 			- What is support? - It should have happened in n transactions
 			- what is confidence? - Probability of A->B / Probability of A
 			- $S=\frac{\left|AUB\right|}{\left|T\right|}$
+			- $C=\frac{\left|AUB\right|}{\left|A\right|}$
+		- Frequent set mining
+			-
 			-
 - # Lecture 2
 	-
