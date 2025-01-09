@@ -2,6 +2,8 @@
 - ![L1.pdf](../assets/L1_1736443730816_0.pdf)
 - What is Deep Learning?
 	- ((678007b3-effa-477d-a5ff-6f13341d227c))
+	- Based on computational models called neural networks
+	-
 	-
 -
 -
