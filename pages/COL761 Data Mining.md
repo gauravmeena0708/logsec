@@ -51,7 +51,8 @@
 	- ## Ordering of Itemset
 		- TODO what is lexicographical order
 		- Items are sorted in lexicographical order
-	-
+	- Frequent Itemset mining needs more memory and can not be done in RAM
+	- Association rule mining can be done with less memory and with RAM
 		-
 		-
 - # Lecture 3
