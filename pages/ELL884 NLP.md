@@ -15,6 +15,8 @@
 				- b+ -> 1 or more
 			- any character - . -> beg.n -> begin, began, begon ....
 			- Finding all The - > (^| )[tT]he( |\.|$)
+		- Accuracy or Precision -> Minimize false +ve
+		- C
 - # Lecture 3
 - # Lecture 4
 -
