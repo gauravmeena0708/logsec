@@ -3,7 +3,9 @@
 - # Lecture 2
 	- ## Matter
 		- Regular Expression
-			- Range
+			- Range - [wW], [a-z], [A-Za-z]
+			- Negation - \[^Ss\] - neither S or s
+			-
 - # Lecture 3
 - # Lecture 4
 -
