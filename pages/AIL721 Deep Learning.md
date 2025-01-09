@@ -1,6 +1,8 @@
 # Lecture 1
 - ![L1.pdf](../assets/L1_1736443730816_0.pdf)
-- ((6780078a-974d-4d33-a2d3-84ae55d4c318))
+- What is Deep Learning?
+	- ((678007b3-effa-477d-a5ff-6f13341d227c))
+	-
 -
 -
 - # Lecture 2
