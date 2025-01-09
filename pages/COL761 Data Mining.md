@@ -14,7 +14,10 @@
 	- ## Structure
 		- Homework - 3-4 - 50%
 		- Minor                    - 20%
-		- Major                    -
+		- Major                    -  20%
+		- Quizzes                 - 10%
+	- ## HW0
+		- Get HPC access, Baadal access, Piazza, github repo
 - # Lecture 2
 	-
 - # Lecture 3
