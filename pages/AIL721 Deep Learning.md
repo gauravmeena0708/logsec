@@ -41,7 +41,9 @@
 	-
 - # Lecture 3
 - ![L3_slides.pdf](../assets/L3_slides_1736445139169_0.pdf)
-- Writing the basic
+- Writing the basic quation from the figure
+	- ((67800d08-e073-4d85-9339-1e96d715f378))
+	-
 - # Lecture 4
 -
 -
