@@ -25,8 +25,8 @@
 			- $S=\frac{\left|AUB\right|}{\left|T\right|}$
 			- $C=\frac{\left|AUB\right|}{\left|A\right|}$
 		- Frequent set mining
-			-
-			-
+			- Any set having S>=s
+			- Monotonicity of freq of set
 - # Lecture 2
 	-
 - # Lecture 3
