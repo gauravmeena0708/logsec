@@ -22,6 +22,9 @@
 			- Two kind of knowledge
 				- Orthographic rules - can solve woodchucks vs woodchuck
 				- Morphological rules -  can solve goose vs geese
+			- Why do we need to understand a language?
+				- some language adds prefix or suffix to root word like english, hindi, latin
+				- some lan
 - # Lecture 3
 - # Lecture 4
 -
