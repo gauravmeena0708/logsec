@@ -31,7 +31,8 @@
 			- for N items $2^{n}-1$ combination of subset can be possible
 			-
 - # Lecture 2
-	-
+	- ## Matter
+		-
 - # Lecture 3
 - # Lecture 4
 -
