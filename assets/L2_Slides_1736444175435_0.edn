@@ -26,5 +26,17 @@
                           :rects (),
                           :page 17},
                :content {:text "[:span]", :image 1736444613865},
-               :properties {:color "yellow"}}],
- :extra {:page 17}}
+               :properties {:color "yellow"}}
+              {:id #uuid "67800ae7-0bf0-4a60-b1f4-366f4273117f",
+               :page 17,
+               :position {:bounding {:x1 4,
+                                     :y1 43,
+                                     :x2 630,
+                                     :y2 329,
+                                     :width 637,
+                                     :height 358.3125},
+                          :rects (),
+                          :page 17},
+               :content {:text "[:span]", :image 1736444645993},
+               :properties {:color "red"}}],
+ :extra {:page 18}}
