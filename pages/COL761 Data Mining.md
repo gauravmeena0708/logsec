@@ -48,7 +48,7 @@
 		- Important rule:
 			- If we are trying to form size k, we have to merge two subset which have atleast k-2 items common
 			- if we want to make size 3: we can merge {}1,2} + {2,3}
-	- ## Ordering o
+	- ## Ordering of Itemset
 		-
 		-
 - # Lecture 3
