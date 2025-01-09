@@ -12,6 +12,8 @@
 -
 -
 - # Lecture 2
+- ![L2_Slides.pdf](../assets/L2_Slides_1736444175435_0.pdf)
+- Examples of
 - # Lecture 3
 - # Lecture 4
 -
