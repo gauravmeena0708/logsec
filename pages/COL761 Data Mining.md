@@ -22,7 +22,7 @@
 		- Association rule mining
 			- What is support? - It should have happened in n transactions
 			- what is confidence? - Probability of A->B / Probability of A
-			-
+			- $S=\frac{\left|AUB\right|}{\left|T\right|}$
 			-
 - # Lecture 2
 	-
