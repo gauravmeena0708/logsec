@@ -32,7 +32,8 @@
 			-
 - # Lecture 2
 	- ## Matter
-		-
+		- ### Association Rule mining
+			-
 - # Lecture 3
 - # Lecture 4
 -
