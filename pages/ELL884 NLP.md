@@ -11,7 +11,9 @@
 			- Optional - ? - Woodchucks?, Colou?rs? -> color, colors, colour, colours
 			- OR - [a|b]
 			- Multiple
-				- t* - 0 or more '',t, tt,
+				- t* -> 0 or more '',t, tt, ttt
+				- b+ -> 1 or more
+			- any character - . -> beg.n -> begin
 - # Lecture 3
 - # Lecture 4
 -
