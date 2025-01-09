@@ -11,6 +11,8 @@
 		- Control Group - test group
 		- Paired study
 		- Statistical significance
+		- In cancer Cells, as they are aggressive, more blood flow will be there
+		- Gait Analysis
 	- ## Data
 		- Qualitative vs Quantitative
-		-
+		- Subjective vs Objective
