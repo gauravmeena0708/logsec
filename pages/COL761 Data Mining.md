@@ -1,6 +1,10 @@
 # Lecture 1
 	- Definition
-		- Extracting knowledge
+		- Extracting knowledge from the data - pattern, relationships
+		- overlaps with databases, ML, CS algo
+	- Syllabus
+		- Association rule Mining
+		- Frequency
 - # Lecture 2
 - # Lecture 3
 - # Lecture 4
