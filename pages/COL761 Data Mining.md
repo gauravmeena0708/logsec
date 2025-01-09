@@ -43,7 +43,7 @@
 			- Impractical
 		- TODO Prove Fn X Fn will give all subsets of Fn+1
 		- TODO while calculating C3, Why discarding the size 4 is advised?
-			- if size 4 is frequent
+			- if size 4 is frequent. All its subset of size 3 must be frequent. Hence Size 3 subsets must have been generated. Hence, all combos of size 4 will be generated
 		-
 		-
 - # Lecture 3
