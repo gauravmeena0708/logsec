@@ -16,7 +16,10 @@
 			- any character - . -> beg.n -> begin, began, begon ....
 			- Finding all The - > (^| )[tT]he( |\.|$)
 		- Accuracy or Precision -> Minimize false +ve
-		- Recall or
+		- Recall  -> minimize false -ve
+		- Morphology
+			- Two kind of knowledge
+				- O
 - # Lecture 3
 - # Lecture 4
 -
