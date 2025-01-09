@@ -34,7 +34,10 @@
 	- ## Matter
 		- ### Association Rule mining
 			- [[Association Rule Mining and Frequent Itemset Mining]]
-			- TODO Upload the assest and link the correct page
+			- TODO Upload the assest and link the correct page here
+		- Naive Approach
+			- Generate Candidate - > check support - if frequent accept else throw
+			- Total
 - # Lecture 3
 - # Lecture 4
 -
