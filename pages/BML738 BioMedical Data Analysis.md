@@ -10,4 +10,7 @@
 		- Body temperature data - effect of anger on body temperature
 		- Control Group - test group
 		- Paired study
-		- St
+		- Statistical significance
+	- ## Data
+		- Qualitative vs Quantitative
+		-
