@@ -51,7 +51,9 @@
 		- Number of hidden units
 		- Learning rate
 		- Batch size or mini-batch size
-	- ##
+	- ## Key Benefits of Deep Neural Network
+	- Hierarchical Representation - Edges, face parts, faces
+	- Representation Learning
 - # Lecture 4
 -
 -
