@@ -1,4 +1,4 @@
-# Data Mining Notes: Apriori Principle, Association Rule Mining, and Frequent Itemset Mining
+## Data Mining Notes: Apriori Principle, Association Rule Mining, and Frequent Itemset Mining
 - ## 1. Apriori Principle
 - ### Definition
   The **Apriori Principle** states:
