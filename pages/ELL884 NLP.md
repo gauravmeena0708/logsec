@@ -67,7 +67,9 @@
 			- N = 884,647, V = 29,066, Possible biagrams = 9,00000000
 			- But actually shakespeare had only 3,00,000 bigrams, 99.99% matrix is zeroes -> very very sparse
 			-
-		-
+	- ## Zero mitigation - Smoothing techniques
+		- ### Adding Ones - One Smoothing
+			- $=count\left(Iam\right)$/
 		-
 		-
 - # Lecture 4
