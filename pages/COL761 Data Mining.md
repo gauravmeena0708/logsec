@@ -24,7 +24,7 @@
 			- what is confidence? - Probability of A->B / Probability of A
 			- $S=\frac{\left|AUB\right|}{\left|T\right|}$
 			- $C=\frac{\left|AUB\right|}{\left|A\right|}$
-		- Frequent set mining
+		- Frequent Itemset mining
 			- Any set having S>=s
 			- Monotonicity of freq of set
 				- if item A has not crossed s, A->B will not be counted
@@ -47,7 +47,7 @@
 		- C1 -> F1 -> C2 -> F2 -> C3 -> F3 -> ...
 		- Important rule:
 			- If we are trying to form size k, we have to merge two subset which have atleast k-2 items common
-			- if we want to make size 3: we can merge {}1,2} + {2,3}
+			- if we want to make size 3: we can merge {1,2} + {2,3}
 	- ## Ordering of Itemset
 		- TODO what is lexicographical order
 		- Items are sorted in lexicographical order
