@@ -54,7 +54,6 @@
 	- Frequent Itemset mining needs more memory and can not be done in RAM
 	- Association rule mining can be done with less memory and with RAM
 		-
-		-
 - # Lecture 3
 - # Lecture 4
 -
