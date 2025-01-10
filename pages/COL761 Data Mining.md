@@ -56,4 +56,5 @@
 		-
 - # Lecture 3
 - # Lecture 4
--
+- Earlier algo: BFS
+- New algo: DFS
