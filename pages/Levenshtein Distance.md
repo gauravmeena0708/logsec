@@ -127,6 +127,4 @@
         ```logseq
         {{query (page "Page with String" string::"example")}}
         ```
-- ## Conclusion
-  
-  While you can't implement the full Levenshtein distance algorithm directly in Logseq, using an external script and storing the result as a property provides a practical solution. The approximate comparisons within Logseq queries are too limited for most real-world use cases of Levenshtein distance.
+-
