@@ -82,7 +82,10 @@
 				- size 3-> ADE: 2
 					- Further try recursion but it ends hence returns null
 			- Use recursion to build conditional FP tree on C
+				- A gets prunned
+				- null
 			- Use recursion to build conditional FP tree on A
+				-
 		-
 	- #Homework Proove that sorting using freq will help in shorter tree
 	- #Homework Code FP tree and conditional FP via code
