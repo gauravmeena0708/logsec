@@ -40,7 +40,7 @@
 			- **Substitution**: `D[i-1, j-1] + cost`, where `cost` is `0` if the characters are the same, and `1` if they are different.
 		- 4. **Final answer**:
 			- After filling the matrix, the value in `D[n, m]` will contain the Levenshtein distance between the two strings.
-	- ### Pseudocode
+	- ### Pseudocode  
 	  
 	  	```python 
 	  
@@ -76,8 +76,7 @@
   The Levenshtein distance between two strings *a* and *b* is the minimum number of single-character edits (insertions, deletions, or substitutions) required to change *a* into *b*.
 -
 - ## Algo
-  
-  1.  
+    
   
     *   **Example (Python):**
   
