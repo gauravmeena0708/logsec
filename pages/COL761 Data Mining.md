@@ -57,7 +57,7 @@
 - # Lecture 3
 - # Lecture 4
 - Earlier algo: BFS
-- New algo: DFS
+- New algo: DFS -  Frequent Pattern Tree
 - ![Frequent Pattern Mining.pdf](../assets/Frequent_Pattern_Mining_1736504057586_0.pdf)
 - Read ((6780f312-526d-4617-9ed2-e8a8e8718f38))
 -
