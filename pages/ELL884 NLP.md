@@ -40,5 +40,7 @@
 			- TODO Watch a video on how do the [[portstemmer]] work?
 			-
 - # Lecture 3
+	- ## Matter
+	-
 - # Lecture 4
 -
