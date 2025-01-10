@@ -43,20 +43,20 @@
 	- ### Pseudocode
 	  
 	  	```python 
-
-	  	def levenshtein_distance(s1, s2):
+	  
+	  def levenshtein_distance(s1, s2):
 	    	n = len(s1)
 	    	m = len(s2)
-			# Create a matrix to store the distances
+	      # Create a matrix to store the distances
 	    	D = [[0] * (m + 1) for _ in range(n + 1)]
-			# Initialize base cases
+	      # Initialize base cases
 	  
-	  		for i in range(n + 1):
+	  	for i in range(n + 1):
 	        	D[i][0] = i
-	    		for j in range(m + 1):
-	        		D[0][j] = j
-			
-			# Fill the matrix 
+	    	for j in range(m + 1):
+	        	D[0][j] = j
+	  
+	      # Fill the matrix 
 	    	for i in range(1, n + 1):
 	        	for j in range(1, m + 1):
 	            	cost = 0 if s1[i - 1] == s2[j - 1] else 1
@@ -66,7 +66,6 @@
 	                	D[i - 1][j - 1] + cost  # Substitution
 	            	)
 	    	## Return the Levenshtein distance
-     		return D[n][m]
-
-	    ```
-	
+	    	return D[n][m]
+	  
+	  ```
