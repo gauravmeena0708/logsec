@@ -71,6 +71,15 @@
 		- ### Adding Ones - One Smoothing
 			- $=\frac{count\left(I\ am\right)+1}{Count\left(I\right)+\left|V\right|}$
 			- $=\frac{count\left(I\ am\right)+\alpha}{Count\left(I\right)+\left|V\right|}$
+	- ## Markov assumption
+		- **First Order**
+			- In a **first-order Markov process**, the future state depends only on the current state and not on any earlier states. This means that the process has **no memory** beyond the current state, which is the essence of the Markov property.
+			- $P(X_{n+1}\mid X_{n},X_{n-1},\dots,X_0)=P(X_{n+1}\mid X_{n})$
+		- **Second Order**
+			- In a **second-order Markov process**, the future state depends on the two most recent states, i.e., the current state and the previous state.
+			- $P(X_{n+1}\mid X_{n},X_{n-1})=P(X_{n+1}\mid X_{n},X_{n-1})$
+			-
+			-
 		-
 - # Lecture 4
 -
