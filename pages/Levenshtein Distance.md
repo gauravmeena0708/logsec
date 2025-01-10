@@ -97,13 +97,8 @@
 		  ```
 - **Time complexity** of the Levenshtein distance algorithm is **O(n * m)**
 - **Space complexity** is also **O(n * m)**
-- ## What is Levenshtein Distance?
-	- The Levenshtein distance between two strings *a* and *b* is the minimum number of single-character edits (insertions, deletions, or substitutions) required to change *a* into *b*.
 -
-- ## Algo
-    
-  
-    *   **Example (Python):**
+- **Example (Python):**
   
     ```python
     def levenshtein(s1, s2):
