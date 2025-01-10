@@ -49,6 +49,12 @@
 			- Spelling Correction
 			- Speech Recognition
 		- How Naive Bayes Formula is applied word by word in [[N-Grams]] ?
-		-
+		- **Issues with larger context**
+			- Data sparsity - larger matrix but mostly items will be zero and few combinations will be there in corpus
+			- Issue of over-fitting -> It will give the sentences already available in corpus
+		- **Why do we use sampling?**
+			- Data sparsity
+			- High Computational cost
+			-
 - # Lecture 4
 -
