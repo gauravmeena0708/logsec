@@ -66,6 +66,9 @@
 	- TODO What advantage will frequency based order  give?
 	- |**Month**|**Savings**|
 	  | -------- | ------- |
-	  | A  | $250    |
-	  | February | $80     |
-	  | March    | $420    |
+	  | A  | 7   |
+	  | B | 8     |
+	  | C    | 7    |
+	  |D|5|
+	  |E|3|
+	-
