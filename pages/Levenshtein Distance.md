@@ -24,8 +24,8 @@
 	- Where:
 		- `D[i, j]` is the distance between the first `i` characters of `s1` and the first `j` characters of `s2`.
 		- The `cost` is `0` if the characters are the same, and `1` if they are different.
-	  
-	  ---
+		  
+		  ---
 	- ### Levenshtein Distance Algorithm
 		- The following is a step-by-step explanation of the **dynamic programming** algorithm used to calculate the Levenshtein distance:
 		- 1. **Initialize a matrix**:
@@ -40,26 +40,24 @@
 			- **Substitution**: `D[i-1, j-1] + cost`, where `cost` is `0` if the characters are the same, and `1` if they are different.
 		- 4. **Final answer**:
 			- After filling the matrix, the value in `D[n, m]` will contain the Levenshtein distance between the two strings.
-
 	- ### Pseudocode
 	  
 	  ``python
 	  def levenshtein_distance(s1, s2):
 	    n = len(s1)
 	    m = len(s2)``
-
 	- # Create a matrix to store the distances
 	    D = [[0] * (m + 1) for _ in range(n + 1)]
 	- # Initialize base cases
-		
-		``for i in range(n + 1):
+	  
+	  ``for i in range(n + 1):
 	        D[i][0] = i
 	    for j in range(m + 1):
 	        D[0][j] = j``
-
 	- # Fill the matrix 
-
-		``for i in range(1, n + 1):
+	  
+	  ```python
+	- for i in range(1, n + 1):
 	        for j in range(1, m + 1):
 	            cost = 0 if s1[i - 1] == s2[j - 1] else 1
 	            D[i][j] = min(
@@ -67,6 +65,6 @@
 	                D[i][j - 1] + 1,   # Insertion
 	                D[i - 1][j - 1] + cost  # Substitution
 	            )
-			## Return the Levenshtein distance
-	    	return D[n][m]``
+- ## Return the Levenshtein distance
+     	return D[n][m]```
 	-
