@@ -71,4 +71,62 @@
 	  ```
 - **Time complexity** of the Levenshtein distance algorithm is **O(n * m)**
 - **Space complexity** is also **O(n * m)**
--
+- # Levenshtein Distance Formula (Logseq Compatible)
+  
+  This page describes how to calculate the Levenshtein distance within Logseq, even though Logseq doesn't have built-in functions for string manipulation like Python. We'll outline the concept and then discuss how you might *approximate* it or use external tools.
+- ## What is Levenshtein Distance?
+  
+  The Levenshtein distance between two strings *a* and *b* is the minimum number of single-character edits (insertions, deletions, or substitutions) required to change *a* into *b*.
+- ## Mathematical Definition
+  
+  The Levenshtein distance `lev(a, b)` between two strings *a* of length |*a*| and *b* of length |*b*| is given by:
+  
+  *   If min(|*a*|, |*b*|) = 0, then `lev(a, b)` = max(|*a*|, |*b*|). (If one string is empty, the distance is the length of the other string.)
+  *   Otherwise, `lev(a, b)` = min(
+    *   `lev(a[1..|a|], b) + 1` (Deletion)
+    *   `lev(a, b[1..|b|]) + 1` (Insertion)
+    *   `lev(a[1..|a|], b[1..|b|]) + cost` (Substitution)
+        *   Where `cost` is 0 if `a[1]` = `b[1]` and 1 otherwise.
+- ## Logseq Limitations
+  
+  Logseq itself does *not* have the capability to perform string manipulation or recursion needed to directly implement this formula within its queries or blocks. There's no way to iterate through strings, compare characters, or perform recursive calls.
+- ## Workarounds and Approximations
+  
+  1.  **External Tools:** The most practical approach is to use an external programming language (like Python, JavaScript, etc.) to calculate the Levenshtein distance. You could then store the result as a property in your Logseq pages.
+  
+    *   **Example (Python):**
+  
+    ```python
+    def levenshtein(s1, s2):
+        if len(s1) < len(s2):
+            return levenshtein(s2, s1)
+  
+        if len(s2) == 0:
+            return len(s1)
+  
+        previous_row = range(len(s2) + 1)
+        for i, c1 in enumerate(s1):
+            current_row = [i + 1]
+            for j, c2 in enumerate(s2):
+                insertions = previous_row[j + 1] + 1
+                deletions = current_row[j] + 1
+                substitutions = previous_row[j] + (c1 != c2)
+                current_row.append(min(insertions, deletions, substitutions))
+            previous_row = current_row
+        return previous_row[-1]
+  
+    string1 = "kitten"
+    string2 = "sitting"
+    distance = levenshtein(string1, string2)
+    print(f"Levenshtein distance between '{string1}' and '{string2}' is: {distance}") # Output: 3
+    ```
+  
+  2.  **Approximate Comparisons (Limited):** You could use very basic string comparisons in Logseq queries, but these won't give you the Levenshtein distance. For example, you could check for exact matches or use `contains` to see if one string is a substring of another. This is a very weak approximation.
+  
+    *   **Example (Logseq Query - NOT Levenshtein):**
+        ```logseq
+        {{query (page "Page with String" string::"example")}}
+        ```
+- ## Conclusion
+  
+  While you can't implement the full Levenshtein distance algorithm directly in Logseq, using an external script and storing the result as a property provides a practical solution. The approximate comparisons within Logseq queries are too limited for most real-world use cases of Levenshtein distance.
