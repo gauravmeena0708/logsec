@@ -69,8 +69,8 @@
 			-
 	- ## Zero mitigation - Smoothing techniques
 		- ### Adding Ones - One Smoothing
-			- $=count\left(Iam\right)$/
-		-
+			- $=\frac{count\left(I\ am\right)+1}{Count\left(I\right)+\left|V\right|}$
+			- $=\frac{count\left(I\ am\right)+\alpha}{Count\left(I\right)+\left|V\right|}$
 		-
 - # Lecture 4
 -
