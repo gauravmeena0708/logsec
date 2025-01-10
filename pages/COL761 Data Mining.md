@@ -56,8 +56,9 @@
 		-
 - # Lecture 3
 - # Lecture 4
-- Earlier algo: BFS
-- New algo: DFS -  Frequent Pattern Tree
+- [[Jan 10th, 2025]]
+- Earlier algo: BFS -> Apriori Algo
+- New algo: DFS -  Frequent Pattern Tree Algo
 - ![Frequent Pattern Mining.pdf](../assets/Frequent_Pattern_Mining_1736504057586_0.pdf)
 - Read ((6780f312-526d-4617-9ed2-e8a8e8718f38))
 - while adding {B, C, D} we link the different Bs as it will help in making the conditional FP trees
