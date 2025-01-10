@@ -58,7 +58,7 @@
 	-
 	-
 	- # Fill the matrix
-	    ``for i in range(1, n + 1):
+	- ``for i in range(1, n + 1):
 	        for j in range(1, m + 1):
 	            cost = 0 if s1[i - 1] == s2[j - 1] else 1
 	            D[i][j] = min(
