@@ -74,7 +74,7 @@
 	- Start from lowest (least freq)->E and try to build all size 2, 3....
 		- Conditional FP Tree
 		- ((6780f9b6-12e4-472e-a73c-a449665e901d))
-		-
+		- Header file helps in going to the leaves that contain E
 		-
 	- #Homework Proove that sorting using freq will help in shorter tree
 	-
