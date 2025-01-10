@@ -72,4 +72,6 @@
 	  |D|5|
 	  |E|3|
 	- Start from lowest (least freq)->E and try to build all size 2, 3....
+		- Conditional FP F
+	- #Homework Proove that sorting using freq will help in shorter tree
 	-
