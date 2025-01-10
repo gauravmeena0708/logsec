@@ -74,19 +74,10 @@
 - ## What is Levenshtein Distance?
   
   The Levenshtein distance between two strings *a* and *b* is the minimum number of single-character edits (insertions, deletions, or substitutions) required to change *a* into *b*.
-- ## Mathematical Definition
+-
+- ## Algo
   
-  The Levenshtein distance `lev(a, b)` between two strings *a* of length |*a*| and *b* of length |*b*| is given by:
-  
-  *   If min(|*a*|, |*b*|) = 0, then `lev(a, b)` = max(|*a*|, |*b*|). (If one string is empty, the distance is the length of the other string.)
-  *   Otherwise, `lev(a, b)` = min(
-    *   `lev(a[1..|a|], b) + 1` (Deletion)
-    *   `lev(a, b[1..|b|]) + 1` (Insertion)
-    *   `lev(a[1..|a|], b[1..|b|]) + cost` (Substitution)
-        *   Where `cost` is 0 if `a[1]` = `b[1]` and 1 otherwise.
-- ## Workarounds and Approximations
-  
-  1.  **External Tools:** The most practical approach is to use an external programming language (like Python, JavaScript, etc.) to calculate the Levenshtein distance. You could then store the result as a property in your Logseq pages.
+  1.  
   
     *   **Example (Python):**
   
