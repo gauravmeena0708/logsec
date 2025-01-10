@@ -87,9 +87,6 @@
     *   `lev(a, b[1..|b|]) + 1` (Insertion)
     *   `lev(a[1..|a|], b[1..|b|]) + cost` (Substitution)
         *   Where `cost` is 0 if `a[1]` = `b[1]` and 1 otherwise.
-- ## Logseq Limitations
-  
-  Logseq itself does *not* have the capability to perform string manipulation or recursion needed to directly implement this formula within its queries or blocks. There's no way to iterate through strings, compare characters, or perform recursive calls.
 - ## Workarounds and Approximations
   
   1.  **External Tools:** The most practical approach is to use an external programming language (like Python, JavaScript, etc.) to calculate the Levenshtein distance. You could then store the result as a property in your Logseq pages.
