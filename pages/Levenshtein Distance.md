@@ -11,7 +11,7 @@
 	- **Substitution**: Replace one character with another.
 - ### Formula
 	- Given two strings, `s1` of length `n` and `s2` of length `m`, the Levenshtein distance is defined by the following recursive relation: 
-
+	  
 	  ``D[i, j] =
 	  if i = 0 then j
 	  else if j = 0 then i
@@ -21,8 +21,7 @@
 	  D[i, j-1] + 1, // Insertion
 	  D[i-1, j-1] + cost // Substitution (if s1[i-1] ≠ s2[j-1])
 	  )``
--
-	- Where:
+- Where:
 	- `D[i, j]` is the distance between the first `i` characters of `s1` and the first `j` characters of `s2`.
 	- The `cost` is `0` if the characters are the same, and `1` if they are different.
 	  
