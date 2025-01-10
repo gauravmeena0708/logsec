@@ -63,5 +63,9 @@
 			- A **structural zero** is a situation where a **morpheme is absent** because its absence is required by the grammatical structure or rules of the language.
 		- Generalisation and zero
 		- Shanon Visualisation
+		- >: Hi
+		-
+		-
+		-
 - # Lecture 4
 -
