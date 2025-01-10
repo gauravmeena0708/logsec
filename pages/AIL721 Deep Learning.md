@@ -9,7 +9,7 @@
 - Minsly and Papert 1969
 - Rumelhart, Hinton and williams, 1986 -> Backpropogation
 - Deep Learning -> Early 2000s
-- to
+- todo
 -
 -
 - # Lecture 2
