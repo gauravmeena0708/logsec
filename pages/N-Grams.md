@@ -1,0 +1,2 @@
+- $P(C\vert X)=P(X)P(X\vert C)P(C)$
+-

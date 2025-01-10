@@ -41,12 +41,14 @@
 			-
 - # Lecture 3
 	- ## Matter
-	- [[Levenshtein Distance]]
+	- TODO do [[Levenshtein Distance]]
 	- Statistical language Models
-		- N-Grams
+		- TODO [[N-Grams]]
 		- Benefits:
 			- Machine Translation
 			- Spelling Correction
 			- Speech Recognition
+		- How Naive Bayes Formula is applied word by word in N-gram?
+		-
 - # Lecture 4
 -
