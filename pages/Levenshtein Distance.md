@@ -12,6 +12,7 @@ For example:
 - **Insertion**: Insert a character into the string.
 - **Deletion**: Delete a character from the string.
 - **Substitution**: Replace one character with another.
-	- ### Formula 
-	  Given two strings, `s1` of length `n` and `s2` of length `m`, the Levenshtein distance is defined by the following recursive relation:
+	- ### Formula
+		- Given two strings, `s1` of length `n` and `s2` of length `m`, the Levenshtein distance is defined by the following recursive relation:
+	-
 	-
