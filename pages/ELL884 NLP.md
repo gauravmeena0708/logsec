@@ -63,7 +63,10 @@
 			- A **structural zero** is a situation where a **morpheme is absent** because its absence is required by the grammatical structure or rules of the language.
 		- Generalisation and zero
 		- Shanon Visualisation
-		- >: Hi
+		- Shakespeare as a corpus
+			- N = 884,647, V = 29,066, Possible biagrams = 9,00000000
+			- But actually shakespeare had only 3,00,000 bigrams, 99.99% matrix is zeroes -> very very sparse
+			-
 		-
 		-
 		-
