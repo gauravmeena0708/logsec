@@ -41,6 +41,7 @@
 			-
 - # Lecture 3
 	- ## Matter
+	- [[Levenshtein Distance]]
 	-
 - # Lecture 4
 -
