@@ -40,10 +40,8 @@
 			- **Substitution**: `D[i-1, j-1] + cost`, where `cost` is `0` if the characters are the same, and `1` if they are different.
 		- 4. **Final answer**:
 			- After filling the matrix, the value in `D[n, m]` will contain the Levenshtein distance between the two strings.
-	- ### Pseudocode  
-
-	-   
-	  	```python 
+	- ### Pseudocode
+	- ```python 
 	  
 	  def levenshtein_distance(s1, s2):
 	    	n = len(s1)
@@ -100,8 +98,7 @@
 - **Time complexity** of the Levenshtein distance algorithm is **O(n * m)**
 - **Space complexity** is also **O(n * m)**
 - ## What is Levenshtein Distance?
-  
-  The Levenshtein distance between two strings *a* and *b* is the minimum number of single-character edits (insertions, deletions, or substitutions) required to change *a* into *b*.
+	- The Levenshtein distance between two strings *a* and *b* is the minimum number of single-character edits (insertions, deletions, or substitutions) required to change *a* into *b*.
 -
 - ## Algo
     
