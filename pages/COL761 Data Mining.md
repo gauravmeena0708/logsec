@@ -88,7 +88,9 @@
 			- Use recursion to build conditional FP tree on A
 				- null
 		- Check with conditional FP on D
-		-
+	- ### Benefit
+		- Access of dataset is only two times in FP Tree Algo
+		- But in
 	- #Homework Proove that sorting using freq will help in shorter tree
 	- #Homework Code FP tree and conditional FP via code
 	-
