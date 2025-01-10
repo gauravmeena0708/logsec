@@ -6,3 +6,10 @@ file-path:: ../assets/Frequent_Pattern_Mining_1736504057586_0.pdf
   hl-page:: 20
   hl-color:: red
   id:: 6780f312-526d-4617-9ed2-e8a8e8718f38
+- [:span]
+  ls-type:: annotation
+  hl-page:: 22
+  hl-color:: red
+  id:: 6780f596-09d2-4ec0-b50e-c914e4bbece2
+  hl-type:: area
+  hl-stamp:: 1736504725294
