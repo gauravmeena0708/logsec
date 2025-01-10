@@ -63,3 +63,4 @@
 - while adding {B, C, D} we link the different Bs as it will help in making the conditional FP trees
 	- ((6780f596-09d2-4ec0-b50e-c914e4bbece2))
 	- Tree can be loaded into memory even if the dataset is large as tree reduces the size
+	- TODO What advantage will frequency based order  give?
