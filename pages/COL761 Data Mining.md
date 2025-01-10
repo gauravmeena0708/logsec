@@ -64,11 +64,12 @@
 	- ((6780f596-09d2-4ec0-b50e-c914e4bbece2))
 	- Tree can be loaded into memory even if the dataset is large as tree reduces the size
 	- TODO What advantage will frequency based order  give?
-	- |**Month**|**Savings**|
+	- |**Node**|**Freq**|
 	  | -------- | ------- |
 	  | A  | 7   |
 	  | B | 8     |
 	  | C    | 7    |
 	  |D|5|
 	  |E|3|
+	- Start from lowest (least freq)->E and try to build all size 2, 3....
 	-
