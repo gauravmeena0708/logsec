@@ -52,9 +52,13 @@
 		- **Issues with larger context**
 			- Data sparsity - larger matrix but mostly items will be zero and few combinations will be there in corpus
 			- Issue of over-fitting -> It will give the sentences already available in corpus
+			- High computational cost
+			- **Limited contextual understanding** of long-range dependencies.
 		- **Why do we use sampling?**
-			- Data sparsity
-			- High Computational cost
-			-
+			- It is used to ensure **diversity**, **creativity**, and **control** in the generated outputs.
+			- We use [[Temperature Sampling]] sometime to incorporate the control over the creativity and deterministic outcome
+			- To avoid repetition
+		- TODO Contingent Zero vs Structural Zero
+		-
 - # Lecture 4
 -
