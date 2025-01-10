@@ -75,6 +75,7 @@
 		- Conditional FP Tree
 		- ((6780f9b6-12e4-472e-a73c-a449665e901d))
 		- Header file helps in going to the leaves that contain E
+		- In above B is deleted as B does not satisfy freq criteria
 		-
 	- #Homework Proove that sorting using freq will help in shorter tree
 	- #Homework Code FP tree and conditional FP via code
