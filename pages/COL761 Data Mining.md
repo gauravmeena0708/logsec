@@ -78,6 +78,9 @@
 		- In above B is deleted as B does not satisfy freq criteria
 		- Freq AE:2, CE:2, DE:2
 			- Use recursion to build conditional FP tree on D
+			- ((6780fc9c-6a64-42ec-9fce-46184acf5c7e))
+			- size 3-> ADE: 2
+				- Further try recursion but th
 		-
 		-
 	- #Homework Proove that sorting using freq will help in shorter tree
