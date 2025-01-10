@@ -40,6 +40,47 @@
 			- TODO Watch a video on how do the [[portstemmer]] work?
 			-
 - # Lecture 3
+	- ## Matter
+	- TODO do [[Levenshtein Distance]]
+	- Statistical language Models
+		- TODO [[N-Grams]]
+		- Benefits:
+			- Machine Translation
+			- Spelling Correction
+			- Speech Recognition
+		- How Naive Bayes Formula is applied word by word in [[N-Grams]] ?
+		- **Issues with larger context**
+			- Data sparsity - larger matrix but mostly items will be zero and few combinations will be there in corpus
+			- Issue of over-fitting -> It will give the sentences already available in corpus
+			- High computational cost
+			- **Limited contextual understanding** of long-range dependencies.
+		- **Why do we use sampling?**
+			- It is used to ensure **diversity**, **creativity**, and **control** in the generated outputs.
+			- We use [[Temperature Sampling]] sometime to incorporate the control over the creativity and deterministic outcome
+			- To avoid repetition
+		- TODO Contingent Zero vs Structural Zero
+			- A **contingent zero** refers to a situation where a **morpheme is absent** in a particular context but could potentially have a realization in other contexts.
+			- A **structural zero** is a situation where a **morpheme is absent** because its absence is required by the grammatical structure or rules of the language.
+		- Generalisation and zero
+		- Shanon Visualisation
+		- Shakespeare as a corpus
+			- N = 884,647, V = 29,066, Possible biagrams = 9,00000000
+			- But actually shakespeare had only 3,00,000 bigrams, 99.99% matrix is zeroes -> very very sparse
+			-
+	- ## Zero mitigation - Smoothing techniques
+		- ### Adding Ones - One Smoothing
+			- $=\frac{count\left(I\ am\right)+1}{Count\left(I\right)+\left|V\right|}$
+			- $=\frac{count\left(I\ am\right)+\alpha}{Count\left(I\right)+\left|V\right|}$
+	- ## Markov assumption
+		- **First Order**
+			- In a **first-order Markov process**, the future state depends only on the current state and not on any earlier states. This means that the process has **no memory** beyond the current state, which is the essence of the Markov property.
+			- $P(X_{n+1}\mid X_{n},X_{n-1},\dots,X_0)=P(X_{n+1}\mid X_{n})$
+		- **Second Order**
+			- In a **second-order Markov process**, the future state depends on the two most recent states, i.e., the current state and the previous state.
+			- $P(X_{n+1}\mid X_{n},X_{n-1})=P(X_{n+1}\mid X_{n},X_{n-1})$
+			-
+			-
+		-
 - # Lecture 4
 -
 -
