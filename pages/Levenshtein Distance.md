@@ -71,9 +71,6 @@
 	  ```
 - **Time complexity** of the Levenshtein distance algorithm is **O(n * m)**
 - **Space complexity** is also **O(n * m)**
-- # Levenshtein Distance Formula (Logseq Compatible)
-  
-  This page describes how to calculate the Levenshtein distance within Logseq, even though Logseq doesn't have built-in functions for string manipulation like Python. We'll outline the concept and then discuss how you might *approximate* it or use external tools.
 - ## What is Levenshtein Distance?
   
   The Levenshtein distance between two strings *a* and *b* is the minimum number of single-character edits (insertions, deletions, or substitutions) required to change *a* into *b*.
