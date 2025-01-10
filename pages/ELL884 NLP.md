@@ -48,7 +48,7 @@
 			- Machine Translation
 			- Spelling Correction
 			- Speech Recognition
-		- How Naive Bayes Formula is applied word by word in N-gram?
+		- How Naive Bayes Formula is applied word by word in [[N-Grams]] ?
 		-
 - # Lecture 4
 -

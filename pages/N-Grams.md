@@ -1,6 +1,14 @@
 - Naive Bayes formula -> $P(C\vert X)=\frac{P\left(X\right)P(X\vert C)}{P\left(C\right)}$
-- For unigram $P(C|X)=\frac{P(C)\prod_{i=1}^{n}P(w_{i}|C)}{P(X)}$
-- Using MLE $P(w_{i}|C)=\frac{\text{count}(w_{i},C)}{\text{count}(C)}$
+- For unigram
+	- $P(C|X)=\frac{P(C)\prod_{i=1}^{n}P(w_{i}|C)}{P(X)}$
+- Using MLE
+	- $P(w_{i}|C)=\frac{\text{count}(w_{i},C)}{\text{count}(C)}$
+- Using naive bayes, for Bigram
+	- $P("Iamgoingtoeat")=P(I)\cdot P(am\vert I)\cdot P(going\vert am)\cdot P(to\vert going)\cdot P(eat\vert to)$
+- Using Naive bayes for Tri-gram
+	- $P(Iamgoingtoeat)=P(I)\cdot P(am\vert I)\cdot P(going\vert I,am)\cdot P(to\vert am,going)\cdot P(eat\vert going,to)$
+-
+-
 - ## Maximum Likelihood Estimation for Unigrams and Bigrams
   
   For **unigrams**, the MLE formula for the probability of a word \( w_i \) in a class \( C \) is:
