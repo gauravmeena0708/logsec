@@ -42,6 +42,11 @@
 - # Lecture 3
 	- ## Matter
 	- [[Levenshtein Distance]]
-	-
+	- Statistical language Models
+		- N-Grams
+		- Benefits:
+			- Machine Translation
+			- Spelling Correction
+			- Speech Recognition
 - # Lecture 4
 -
