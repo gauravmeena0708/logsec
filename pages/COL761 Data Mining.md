@@ -89,9 +89,10 @@
 				- null
 		- Check with conditional FP on D
 	- ### Benefit
-		- Access of dataset is only two times in FP Tree Algo
-		- But in
+		- Access of dataset is only two times in FP Tree Algo, no candidate generation
+		- But in Apriori alg dataset access is multiple times, no conditional FP tree
 	- #Homework Proove that sorting using freq will help in shorter tree
 	- #Homework Code FP tree and conditional FP via code
+	- #Homework whether candidate generation is faster or conditional FP tree
 	-
 	-
