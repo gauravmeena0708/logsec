@@ -50,10 +50,10 @@
 	- # Create a matrix to store the distances
 	    D = [[0] * (m + 1) for _ in range(n + 1)]
 	- # Initialize base cases
-	- for i in range(n + 1):
+	- ``for i in range(n + 1):
 	        D[i][0] = i
 	    for j in range(m + 1):
-	        D[0][j] = j
+	        D[0][j] = j``
 	-
 	-
 	-
@@ -65,8 +65,6 @@
 	                D[i - 1][j] + 1,   # Deletion
 	                D[i][j - 1] + 1,   # Insertion
 	                D[i - 1][j - 1] + cost  # Substitution
-	            )``
-	-
-	- # Return the Levenshtein distance
-	    return D[n][m]
+	            ) ## Return the Levenshtein distance
+	    return D[n][m]``
 	-
