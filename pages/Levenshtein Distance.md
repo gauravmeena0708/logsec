@@ -34,13 +34,12 @@
 			- For the first row (`i = 0`), the distance is the number of insertions required to transform an empty string into the first `j` characters of `s2`, so `D[0, j] = j`.
 			- For the first column (`j = 0`), the distance is the number of deletions required to transform the first `i` characters of `s1` into an empty string, so `D[i, 0] = i`.
 		- 3. **Fill the matrix**:
-		- For each pair of indices `(i, j)`, compute the minimum of the following three options:
-		- **Deletion**: `D[i-1, j] + 1`
-		- **Insertion**: `D[i, j-1] + 1`
-		- **Substitution**: `D[i-1, j-1] + cost`, where `cost` is `0` if the characters are the same, and `1` if they are different.
-		  
-		  4. **Final answer**:
-		  After filling the matrix, the value in `D[n, m]` will contain the Levenshtein distance between the two strings.
+			- For each pair of indices `(i, j)`, compute the minimum of the following three options:
+			- **Deletion**: `D[i-1, j] + 1`
+			- **Insertion**: `D[i, j-1] + 1`
+			- **Substitution**: `D[i-1, j-1] + cost`, where `cost` is `0` if the characters are the same, and `1` if they are different.
+		- 4. **Final answer**:
+			- After filling the matrix, the value in `D[n, m]` will contain the Levenshtein distance between the two strings.
 	- ### Pseudocode
 	  
 	  ```python
