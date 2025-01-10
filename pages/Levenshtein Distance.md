@@ -12,7 +12,8 @@
 - ### Formula
 	- Given two strings, `s1` of length `n` and `s2` of length `m`, the Levenshtein distance is defined by the following recursive relation: 
 	  
-	  ``D[i, j] =
+	  ```python
+	  D[i, j] =
 	  if i = 0 then j
 	  else if j = 0 then i
 	  else
@@ -20,7 +21,8 @@
 	  D[i-1, j] + 1, // Deletion
 	  D[i, j-1] + 1, // Insertion
 	  D[i-1, j-1] + cost // Substitution (if s1[i-1] ≠ s2[j-1])
-	  )``
+	  )
+	  ```
 	- Where:
 		- `D[i, j]` is the distance between the first `i` characters of `s1` and the first `j` characters of `s2`.
 		- The `cost` is `0` if the characters are the same, and `1` if they are different.
@@ -124,11 +126,5 @@
     distance = levenshtein(string1, string2)
     print(f"Levenshtein distance between '{string1}' and '{string2}' is: {distance}") # Output: 3
     ```
-  
-  2.  **Approximate Comparisons (Limited):** You could use very basic string comparisons in Logseq queries, but these won't give you the Levenshtein distance. For example, you could check for exact matches or use `contains` to see if one string is a substring of another. This is a very weak approximation.
-  
-    *   **Example (Logseq Query - NOT Levenshtein):**
-        ```logseq
-        {{query (page "Page with String" string::"example")}}
-        ```
+-
 -
