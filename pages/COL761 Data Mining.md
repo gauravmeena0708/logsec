@@ -77,4 +77,6 @@
 		- Header file helps in going to the leaves that contain E
 		-
 	- #Homework Proove that sorting using freq will help in shorter tree
+	- #Homework Code FP tree and conditional FP via code
+	-
 	-
