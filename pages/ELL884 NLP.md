@@ -59,6 +59,8 @@
 			- We use [[Temperature Sampling]] sometime to incorporate the control over the creativity and deterministic outcome
 			- To avoid repetition
 		- TODO Contingent Zero vs Structural Zero
-		-
+			- A **contingent zero** refers to a situation where a **morpheme is absent** in a particular context but could potentially have a realization in other contexts.
+			- A **structural zero** is a situation where a **morpheme is absent** because its absence is required by the grammatical structure or rules of the language.
+			-
 - # Lecture 4
 -
