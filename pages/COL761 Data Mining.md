@@ -60,6 +60,6 @@
 - New algo: DFS -  Frequent Pattern Tree
 - ![Frequent Pattern Mining.pdf](../assets/Frequent_Pattern_Mining_1736504057586_0.pdf)
 - Read ((6780f312-526d-4617-9ed2-e8a8e8718f38))
-- we link the different Bs as it will help in making the conditional FP trees
+- while adding {B, C, D} we link the different Bs as it will help in making the conditional FP trees
 	- ((6780f596-09d2-4ec0-b50e-c914e4bbece2))
 	- Tree can be loaded into memory even if the dataset is large as tree reduces the size
