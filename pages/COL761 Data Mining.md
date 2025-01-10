@@ -85,7 +85,7 @@
 				- A gets prunned
 				- null
 			- Use recursion to build conditional FP tree on A
-				-
+				- null
 		-
 	- #Homework Proove that sorting using freq will help in shorter tree
 	- #Homework Code FP tree and conditional FP via code
