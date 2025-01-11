@@ -19,5 +19,6 @@
 		- Read the dataset
 		- Get Data Types
 		- Get General Desc
-		- Plot for Discrete Valued variables
+		- Plots for Discrete Valued variables
+		- Plots for Continuous Valued Variables
 		-
