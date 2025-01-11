@@ -5,6 +5,9 @@
 		- Data Transformation - process of data consolidation
 		- Data Integration - Merging data from different sources
 		- Data Normalization - express the data in same measurement, scale and range
-		- Missing value imputation - fill mis
-		- Noise Identification and removal
+		- Missing value imputation - handle missing values
+		- Noise Identification and removal - to detect random errors or variances
 	- DataReduction
+		- Feature Selection - remove redundent attributes
+		- Instanceselection
+		- Descretization
