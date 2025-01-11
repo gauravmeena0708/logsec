@@ -8,6 +8,7 @@
 		- Missing value imputation - handle missing values
 		- Noise Identification and removal - to detect random errors or variances
 	- DataReduction
-		- Feature Selection - remove redundent attributes
-		- Instanceselection
-		- Descretization
+		- Feature Selection - remove redundant attributes
+		- Instance selection - identifying the subset of rows to achieve the target
+		- Descretization - Transformation from continuous values to discrete values
+		- Feature
