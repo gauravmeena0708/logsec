@@ -12,4 +12,8 @@
 			- Feature Selection - remove redundant attributes
 			- Instance selection - identifying the subset of rows to achieve the target
 			- Descretization - Transformation from continuous values to discrete values
-			- Feature Extraction/Instance Generation -
+			- Feature Extraction/Instance Generation
+- ## Video 2
+	- {{video https://www.youtube.com/watch?v=0QJc6PrZiQs}}
+	- Steps:
+		-
