@@ -9,7 +9,7 @@
 		- Introduction to large Language Models by Tanmoy Chakraborty
 		-
 	- {{video https://www.youtube.com/watch?v=808M7q8QX0E&list=PLaZQkZp6WhWyvdiP49JG-rjyTPck_hvEu&index=1}}
-	-
+	- regexpal.com
 - # Lecture 2
 	- ## Matter
 		- Regular Expression
