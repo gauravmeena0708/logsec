@@ -1,14 +1,15 @@
-- {{video https://www.youtube.com/watch?v=ifGJk2S3Y4U}}
-- Main two steps:
-	- Data Preprocessing
-		- Data Cleaning - correcting bad data, filtering incorrect data, removing unnecessary details
-		- Data Transformation - process of data consolidation
-		- Data Integration - Merging data from different sources
-		- Data Normalization - express the data in same measurement, scale and range
-		- Missing value imputation - handle missing values
-		- Noise Identification and removal - to detect random errors or variances
-	- DataReduction
-		- Feature Selection - remove redundant attributes
-		- Instance selection - identifying the subset of rows to achieve the target
-		- Descretization - Transformation from continuous values to discrete values
-		- Feature Extraction/Instance Generation -
+- Video 1
+	- {{video https://www.youtube.com/watch?v=ifGJk2S3Y4U}}
+	- Main two steps:
+		- Data Preprocessing
+			- Data Cleaning - correcting bad data, filtering incorrect data, removing unnecessary details
+			- Data Transformation - process of data consolidation
+			- Data Integration - Merging data from different sources
+			- Data Normalization - express the data in same measurement, scale and range
+			- Missing value imputation - handle missing values
+			- Noise Identification and removal - to detect random errors or variances
+		- DataReduction
+			- Feature Selection - remove redundant attributes
+			- Instance selection - identifying the subset of rows to achieve the target
+			- Descretization - Transformation from continuous values to discrete values
+			- Feature Extraction/Instance Generation -
