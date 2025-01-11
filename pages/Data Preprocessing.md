@@ -11,4 +11,4 @@
 		- Feature Selection - remove redundant attributes
 		- Instance selection - identifying the subset of rows to achieve the target
 		- Descretization - Transformation from continuous values to discrete values
-		- Feature
+		- Feature Extraction/Instance Generation -
