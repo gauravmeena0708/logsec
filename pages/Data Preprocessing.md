@@ -2,7 +2,7 @@
 - Main two steps:
 	- Data Preprocessing
 		- Data Cleaning - correcting bad data, filtering incorrect data, removing unnecessary details
-		- Data Transformation
+		- Data Transformation - process of data consolidation
 		- Data Integration
 		- Data Normalization
 		- Missing value imputation
