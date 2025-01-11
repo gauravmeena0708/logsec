@@ -16,4 +16,8 @@
 - ## Video 2
 	- {{video https://www.youtube.com/watch?v=0QJc6PrZiQs}}
 	- Steps:
+		- Read the dataset
+		- Get Data Types
+		- Get General Desc
+		- Plot for Discrete Valued variables
 		-
