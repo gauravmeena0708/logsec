@@ -2,5 +2,9 @@
 - Main two steps:
 	- Data Preprocessing
 		- Data Cleaning,
-		-
+		- Data Transformation
+		- Data Integration
+		- Data Normalization
+		- Missing value imputation
+		- Noise Identification and removal
 	- DataReduction
