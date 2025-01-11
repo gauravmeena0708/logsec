@@ -3,8 +3,8 @@
 	- Data Preprocessing
 		- Data Cleaning - correcting bad data, filtering incorrect data, removing unnecessary details
 		- Data Transformation - process of data consolidation
-		- Data Integration
-		- Data Normalization
-		- Missing value imputation
+		- Data Integration - Merging data from different sources
+		- Data Normalization - express the data in same measurement, scale and range
+		- Missing value imputation - fill mis
 		- Noise Identification and removal
 	- DataReduction
