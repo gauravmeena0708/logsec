@@ -1,4 +1,4 @@
-- Video 1
+- Video 1 #DataProcessing #DataCleaning
 	- {{video https://www.youtube.com/watch?v=ifGJk2S3Y4U}}
 	- Main two steps:
 		- Data Preprocessing
@@ -21,4 +21,6 @@
 		- Get General Desc
 		- Plots for Discrete Valued variables
 		- Plots for Continuous Valued Variables
+		- Correlation between two variables
+		-
 		-
