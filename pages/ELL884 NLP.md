@@ -4,6 +4,10 @@
 	- https://lcs2.in/nlp2402
 	- TA : Sahil Mishra, Aswini, Anwoy, Vaibhav
 	- Libraries nltk, sk-learn, Spacy, Stanza, Shallow Parser (Indian Language), Universal Parser(Multi-lingual), CMU ARK, Stanford CoreNLP
+	- Books
+		- Speech Language Processing by Daniel Jurafsky
+		- Introduction to large Language Models by Tanmoy Chakraborty
+		-
 	-
 - # Lecture 2
 	- ## Matter
