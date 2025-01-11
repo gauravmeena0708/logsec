@@ -1,2 +1,6 @@
 - {{video https://www.youtube.com/watch?v=ifGJk2S3Y4U}}
--
+- Main two steps:
+	- Data Preprocessing
+		- Data Cleaning,
+		-
+	- DataReduction
