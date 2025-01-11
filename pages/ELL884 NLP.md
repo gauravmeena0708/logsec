@@ -1,5 +1,10 @@
 # Lecture 1
-	- ##
+	- ![lec1.pdf](../assets/lec1_1736626507309_0.pdf)
+	- NLP - Natural Language Processing
+	- https://lcs2.in/nlp2402
+	- TA : Sahil Mishra, Aswini, Anwoy, Vaibhav
+	- Libraries nltk, sk-learn, Spacy, Stanza, Shallow Parser (Indian Language), Universal Parser(Multi-lingual), CMU ARK, Stanford CoreNLP
+	-
 - # Lecture 2
 	- ## Matter
 		- Regular Expression
