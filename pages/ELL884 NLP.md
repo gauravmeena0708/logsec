@@ -11,6 +11,7 @@
 		-
 	- {{video https://www.youtube.com/watch?v=808M7q8QX0E&list=PLaZQkZp6WhWyvdiP49JG-rjyTPck_hvEu&index=1}}
 	- regexpal.com, book link - https://web.stanford.edu/~jurafsky/slp3/ed3bookaug20_2024.pdf
+	- {{youtube-timestamp 16}}
 	-
 - # Lecture 2
 	- ## Matter
