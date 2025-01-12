@@ -39,4 +39,5 @@
 	  Common Bigrams - [('30 wala', 2), ('axis bank', 2)]
 	  Common Trigrams - []
 	- ## Visualizations
-		-
+		- Wordcloud
+		- M
