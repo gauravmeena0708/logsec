@@ -26,4 +26,4 @@
 	- lives-in:: Chittor
 	  birthday:: 10-12-1990
 - Arvind
-	-
+	- birthday:: 24-02-1988
