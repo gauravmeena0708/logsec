@@ -12,3 +12,8 @@
 	- Username
 	- Wordcloud
 	- Total Messages
+	- Total Emojis
+	- Total Links
+	- Total Media
+	- Total Youtube Links
+	-
