@@ -2,6 +2,7 @@
 	- ![lec1.pdf](../assets/lec1_1736626507309_0.pdf)
 	- NLP - Natural Language Processing
 	- https://lcs2.in/nlp2402
+	- https://web.stanford.edu/~jurafsky/slp3/
 	- TA : Sahil Mishra, Aswini, Anwoy, Vaibhav
 	- Libraries nltk, sk-learn, Spacy, Stanza, Shallow Parser (Indian Language), Universal Parser(Multi-lingual), CMU ARK, Stanford CoreNLP
 	- Books
