@@ -11,4 +11,4 @@
 - User Specific
 	- Username
 	- Wordcloud
-	-
+	- Total Messages
