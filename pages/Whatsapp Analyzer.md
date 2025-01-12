@@ -17,3 +17,26 @@
 	- Total Media
 	- Total Youtube Links
 	-
+	- Total Messages - 122
+	  Total Words - 553
+	  Unique Users - 1
+	  Total Emojis - 19
+	  Total URLs - 3
+	  Total YouTube URLs - 1
+	  Total Media - 23
+	  Total Edits - 1
+	  Total Deletes - 0
+	  Average Message Length - 4.532786885245901
+	  Positive Messages - 6
+	  Negative Messages - 3
+	  Morning Messages - 28
+	  Mid-day Messages - 31
+	  Evening Messages - 7
+	  Night Messages - 56
+	  Most Active Period - 'Night'
+	  Unique Words Count - 248
+	  Common Unigrams - [('toh', 7), ('bank', 4), ('chahiye', 4), ('sale', 4), ('bottle', 3), ('gaurav', 3), ('happy', 3), ('kitna', 3), ('leke', 3), ('liye', 3)]
+	  Common Bigrams - [('30 wala', 2), ('axis bank', 2)]
+	  Common Trigrams - []
+	- ## Visualizations
+		-
