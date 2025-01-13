@@ -27,5 +27,15 @@
 	- Chennai Audit team - Inoperative Account
 	- 2.5 lakh to 15 lakh per annum
 	- Group A - Clerical or managerial - OIC workload
-	- Establishment LC/Identification -
+	- Establishment LC/Identification - blackmail of marking as dead
+	- Delegation/work clarity in ISD
+	- SMS -> Claim is under process and will be settled shortly
+	- Split of IBM and Kyndryl
+- ## Ideas
+	- Policy for policy creation, management and obsolescence
+	- Policy for audit of policy before change/impact assessment test
+	- Version control system for policy management
+	- Standard format of policy change circulars- "This word" to "that word"
+	-
+	-
 	-
