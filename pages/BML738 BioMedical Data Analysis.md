@@ -22,4 +22,10 @@
 	- Biomedical Data Sources
 		- Height, Weight, Glucose level
 		- ECG, Cancer imaging
+		- Gait Data, sensor output
+	- types:
+		- Direct measurement, semi-quantitative, quantitative
+		- needs to be summarised
+	- Population vs. sample data
+		-
 -
