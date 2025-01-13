@@ -27,5 +27,10 @@
 		- Direct measurement, semi-quantitative, quantitative
 		- needs to be summarised
 	- Population vs. sample data
+		- Example -Exit Polls vs Actual election results
+		- Sample selection is very important
+			- should be representative
+			- should not be biased
+		- Sample data is used to draw inferences about the population
 		-
 -
