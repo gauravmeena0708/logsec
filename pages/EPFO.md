@@ -31,6 +31,7 @@
 	- Delegation/work clarity in ISD
 	- SMS -> Claim is under process and will be settled shortly
 	- Split of IBM and Kyndryl
+	- KR Puram fraud Investigation
 - ## Ideas
 	- Policy for policy creation, management and obsolescence
 	- Policy for audit of policy before change/impact assessment test
@@ -43,6 +44,8 @@
 	- Public APIs for data analysis
 	- Unique Identifier of establishment, central database, centralized pension
 	- Github
+	- Gamification
+	- Brand ambassador and collaboration with fininfluencers
 	-
 	- The document you provided outlines several issues and ideas related to the Employees' Provident Fund Organization (EPFO). Based on its contents, here are additional suggestions for potential issues and ideas to explore:
 	- ### Issues
