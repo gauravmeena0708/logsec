@@ -18,3 +18,8 @@
 	- ## Data
 		- Qualitative vs Quantitative
 		- Subjective vs Objective
+- # Lecture 3
+	- Biomedical Data Sources
+		- Height, Weight, Glucose level
+		- ECG, Cancer imaging
+-
