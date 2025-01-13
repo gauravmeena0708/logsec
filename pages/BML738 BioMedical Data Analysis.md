@@ -33,7 +33,7 @@
 			- should not be biased
 		- Sample data is used to draw inferences about the population
 		- statistics
-			- Descriptive
+			- Descriptive - mean, median, mode, std dev
 			- Inferential
 			-
 		-
