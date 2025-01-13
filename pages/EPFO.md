@@ -1,0 +1,13 @@
+# Problems
+- ## Policy
+	- Adhoc Policy making
+	- Circulars - No version control
+- ## IT System
+	- Decentralized
+	- IT manpower
+- ## Manpower
+- ## Hiring
+- ## Ministry
+- ## Claim Processing
+	- Simplify claims and their processing
+	-
