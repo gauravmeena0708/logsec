@@ -17,5 +17,15 @@
 		- coverage of all eligible employees
 		- 7Q penalties
 		- Handle legal cases more efficiently
-	- ## HR skill
+- ## HR skills and environment
+	- policy to measure social security and work life balance
+- ## Examples
+	- More than 24hours workload in KR Puram
+	- Security team at IIT - Principal employer is liable but can't pay
+	- Pt. Madan Mohan Malviya - daily wagers membership
+	- Pension to IW/Higher wages
+	- Chennai Audit team - Inoperative Account
+	- 2.5 lakh to 15 lakh per annum
+	- Group A - Clerical or managerial - OIC workload
+	- Establishment LC/Identification -
 	-
