@@ -10,4 +10,12 @@
 - ## Ministry
 - ## Claim Processing
 	- Simplify claims and their processing
+	- Remove purpose based claims like electricity, illness, handicap etc. (users may optionally write select the reason from list or select any other reason)
+- ## Compliance
+	- Simplify the membership and contribution requirement
+	- solves:
+		- coverage of all eligible employees
+		- 7Q penalties
+		- Handle legal cases more efficiently
+	- ## HR skill
 	-
