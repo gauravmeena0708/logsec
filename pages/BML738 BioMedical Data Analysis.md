@@ -33,7 +33,9 @@
 			- should not be biased
 		- Sample data is used to draw inferences about the population
 		- statistics
-			- Descriptive - mean, median, mode, std dev, range, percentile, quartile, variance, expected value, skewness(left skewed or right ske, kurtosis
+			- Descriptive - mean, median, mode, std dev, range, percentile, quartile, variance, expected value, skewness(left skewed or right skewed), kurtosis(narrow peak or wide flat), inter quartile range
+			- plots - Box and whisker plot(whisker is Q1-1.5IQR )
+			-
 			- Inferential
 			-
 		-
