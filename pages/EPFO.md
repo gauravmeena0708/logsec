@@ -36,6 +36,12 @@
 	- Policy for audit of policy before change/impact assessment test
 	- Version control system for policy management
 	- Standard format of policy change circulars- "This word" to "that word"
-	-
+		- Reduction of discretion
+	- EDLI
+	- Separation of managerial and clerical tasks
+	- Establishment health monitoring, ratings
+	- Public APIs for data analysis
+	- Unique Identifier of establishment, central database, centralized pension
+	- Github
 	-
 	-
