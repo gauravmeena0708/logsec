@@ -9,6 +9,10 @@
 	  University:: University of Utah
 	  Title:: Foundations of Data Analysis
 	  Topics::
+	- Link::
+	  University::
+	  Title::
+	  Topics::
 - [[AIL721 Deep Learning]]
 	- Link:: https://www.youtube.com/playlist?list=PLbuogVdPnkCrnLNqZPnTuG_s19TNDoad0
 	  University:: University of Utah
