@@ -5,10 +5,10 @@
 	- Visualization for Data Science - https://www.youtube.com/playlist?list=PLbuogVdPnkCp3PgjdTDgEKcEeWhygoKPb
 	- University:: University of Utah
 - [[Data Analysis]]
-	- Foundations of Data Analysis - https://www.youtube.com/playlist?list=PLbuogVdPnkCqwPNYh6kX3TiTbu3WyoXcV
-	- Topics:: Probablity, Bayes Rule, CLT
+	- Link:: https://www.youtube.com/playlist?list=PLbuogVdPnkCpPYXq21ofChxEjiSzrJO79
 	  University:: University of Utah
-	-
+	  Title:: Foundations of Data Analysis
+	  Topics::
 - [[AIL721 Deep Learning]]
 	- Link:: https://www.youtube.com/playlist?list=PLbuogVdPnkCrnLNqZPnTuG_s19TNDoad0
 	  University:: University of Utah
