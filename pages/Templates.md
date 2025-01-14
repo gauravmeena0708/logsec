@@ -13,4 +13,10 @@
 	- What could be improved:
 	- Insights:
 -
--
+- Youtube Playlist
+  template:: playlist
+  template-including-parent:: false
+	- Link::
+	  University::
+	  Title::
+	  Topics::
