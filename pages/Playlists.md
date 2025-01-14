@@ -9,9 +9,9 @@
 	  University:: University of Utah
 	  Title:: Foundations of Data Analysis
 	  Topics::
-	- Link::
-	  University::
-	  Title::
+	- Link:: https://www.youtube.com/playlist?list=PLUl4u3cNGP61ATaGTFcSp7bhogloD2wHP
+	  University:: MIT
+	  Title:: Data analysis for social scientist
 	  Topics::
 - [[AIL721 Deep Learning]]
 	- Link:: https://www.youtube.com/playlist?list=PLbuogVdPnkCrnLNqZPnTuG_s19TNDoad0
