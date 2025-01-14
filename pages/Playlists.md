@@ -1,0 +1,3 @@
+- [[ELL884 NLP]]
+	- https://www.youtube.com/playlist?list=PLbuogVdPnkCrPZ4Vc-GRnk730SLhC1L43
+	-
