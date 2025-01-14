@@ -1,6 +1,7 @@
 - Daily Journal Template
   template:: temp1
   template-including-parent:: false
+	- Date: <%today%>
 	- ## Tasks
 	- [ ] Task 1
 	- [ ] Task 2
@@ -11,4 +12,5 @@
 	- What went well:
 	- What could be improved:
 	- Insights:
+-
 -
