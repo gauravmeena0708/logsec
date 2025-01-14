@@ -1,4 +1,6 @@
 - Daily Journal Template
+  template:: temp1
+  template-including-parent:: false
 	- ## Tasks
 	- [ ] Task 1
 	- [ ] Task 2
