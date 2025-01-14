@@ -1,4 +1,5 @@
 - Daily Journal Template
+	- **Date:** {{date}}
 	- ## Tasks
 	- [ ] Task 1
 	- [ ] Task 2
@@ -9,3 +10,4 @@
 	- What went well:
 	- What could be improved:
 	- Insights:
+-
