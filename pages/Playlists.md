@@ -1,3 +1,5 @@
 - [[ELL884 NLP]]
 	- https://www.youtube.com/playlist?list=PLbuogVdPnkCrPZ4Vc-GRnk730SLhC1L43
+- Visualisation
+	- Visualization for Data Science - https://www.youtube.com/playlist?list=PLbuogVdPnkCp3PgjdTDgEKcEeWhygoKPb
 	-
