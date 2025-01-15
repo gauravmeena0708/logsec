@@ -10,7 +10,8 @@
 	- ## Establishment Identity Verification
 		- A pensioner getting pension of 1000 Rs. per month has to file LC every year.
 		- But there is no proper system for ensuring identity and running condition of Establishment.
-		- Even without Human intervention, system can be made where establishment has to submit its ownership information and it should be verified with third party or sister agency data such as Income tax. GST etc
+		- Even without Human intervention, system can be made where establishment has to submit its ownership information and it should be verified with third party or sister agency data such as Income tax. GST etc.
+		- This should be common for all sister agencies and mandatory to access the business's bank account and other facilities
 	- ## IT System
 		- Decentralized
 		- IT manpower
