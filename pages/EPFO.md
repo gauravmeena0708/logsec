@@ -14,10 +14,18 @@
 		- This should be common for all sister agencies and mandatory to access the business's bank account and other facilities
 	- ## IT System
 		- Decentralized -different databases, different portals for compliance, Claim, Pension, Grievance
-		- IT manpower
-	- ## Manpower
-	- ## Hiring
+		- IT manpower - out of about 600 only ~30 in place. That too with old knowledge
+		- No proper intranet vs internet, vpn etc
+		- No clarity in responsibility of people posted in ISD
+	- ## Manpower and Hiring
+		- Irregular Hiring
+		- Unorganised Service
+		- Theoretically impossible workload
+		- No policy of work life balance
+		- No history of work and activities done by an employees (it should directly come in APAR, like settled X Claims, Resolved n grievances)
+		- Inter-batch rivalries or batch wise interests
 	- ## Ministry
+		- Focus on actual need of social security vs banking
 - ## Claim Processing
 	- Simplify claims and their processing
 	- Remove purpose based claims like electricity, illness, handicap etc. (users may optionally write select the reason from list or select any other reason)
