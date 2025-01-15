@@ -13,7 +13,7 @@
 		- Even without Human intervention, system can be made where establishment has to submit its ownership information and it should be verified with third party or sister agency data such as Income tax. GST etc.
 		- This should be common for all sister agencies and mandatory to access the business's bank account and other facilities
 	- ## IT System
-		- Decentralized
+		- Decentralized -different databases, different portals for compliance, Claim, Pension, Grievance
 		- IT manpower
 	- ## Manpower
 	- ## Hiring
