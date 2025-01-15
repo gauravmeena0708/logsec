@@ -68,7 +68,4 @@
 	- Unique Identifier of establishment, central database, centralized pension
 	- Github
 	- Gamification
-	- Brand ambassador and collaboration with fininfluencers
-	-
-	- The document you provided outlines several issues and ideas related to the Employees' Provident Fund Organization (EPFO). Based on its contents, here are additional suggestions for potential issues and ideas to explore:
 	-
