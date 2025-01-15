@@ -68,4 +68,3 @@
 	- Unique Identifier of establishment, central database, centralized pension
 	- Github
 	- Gamification
-	-
