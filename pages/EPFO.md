@@ -1,24 +1,46 @@
 # Problems
-- ## Policy
-	- Adhoc Policy making
-	- Circulars - No version control
-- ## IT System
-	- Decentralized
-	- IT manpower
-- ## Manpower
-- ## Hiring
-- ## Ministry
-- ## Claim Processing
-	- Simplify claims and their processing
-	- Remove purpose based claims like electricity, illness, handicap etc. (users may optionally write select the reason from list or select any other reason)
-- ## Compliance
-	- Simplify the membership and contribution requirement
-	- solves:
-		- coverage of all eligible employees
-		- 7Q penalties
-		- Handle legal cases more efficiently
-- ## HR skills and environment
-	- policy to measure social security and work life balance
+	- ## Core Problems
+		- Database is not centralised
+		- Double entry book keeping system not in place
+		- Old Fragmented Policies and Manual of accounting Procedure
+	- ## Policy
+		- Adhoc Policy making - There is no policy of policy making.
+		- Circulars - No version control.  Irrational changes.
+		- Policy Circulars should have a standard format and should convey in What document "Which words" have been replaced with "Which words"
+		- Rules - Hard to understand by common man. Need of experts or consultant
+	- ## Establishment Identity Verification
+		- A pensioner getting pension of 1000 Rs. per month has to file LC every year.
+		- But there is no proper system for ensuring identity and running condition of Establishment.
+		- Even without Human intervention, system can be made where establishment has to submit its ownership information and it should be verified with third party or sister agency data such as Income tax. GST etc.
+		- This should be common for all sister agencies and mandatory to access the business's bank account and other facilities
+	- ## IT System
+		- Decentralized -different databases, different portals for compliance, Claim, Pension, Grievance
+		- IT manpower - out of about 600 only ~30 in place. That too with old knowledge
+		- No proper intranet vs internet, vpn etc
+		- No clarity in responsibility of people posted in ISD
+	- ## Manpower and Hiring
+		- Irregular Hiring
+		- Unorganised Service
+		- Theoretically impossible workload
+		- No policy of work life balance
+		- No history of work and activities done by an employees (it should directly come in APAR, like settled X Claims, Resolved n grievances)
+		- Inter-batch rivalries or batch wise interests
+		- Social security of its own employees
+	- ## Ministry
+		- Focus on actual need of social security vs banking organisation
+		- Long term gains vs short term gains
+		- Need of social security
+		-
+	- ## Claim Processing
+		- Simplify claims and their processing
+		- Remove purpose based claims like electricity, illness, handicap etc. (users may optionally write select the reason from list or select any other reason)
+	- ## Compliance
+		- Simplify the membership and contribution requirement.
+		- Increase awareness through TV and other Media such as youtube -> collaboration with Fin-influncers
+		- solves:
+			- coverage of all eligible employees
+			- 7Q penalties
+			- Handle legal cases more efficiently
 - ## Examples
 	- More than 24hours workload in KR Puram
 	- Security team at IIT - Principal employer is liable but can't pay
@@ -32,6 +54,7 @@
 	- SMS -> Claim is under process and will be settled shortly
 	- Split of IBM and Kyndryl
 	- KR Puram fraud Investigation
+	- Social security of its own employees - Insurance, Medical cost?
 - ## Ideas
 	- Policy for policy creation, management and obsolescence
 	- Policy for audit of policy before change/impact assessment test
@@ -45,46 +68,4 @@
 	- Unique Identifier of establishment, central database, centralized pension
 	- Github
 	- Gamification
-	- Brand ambassador and collaboration with fininfluencers
 	-
-	- The document you provided outlines several issues and ideas related to the Employees' Provident Fund Organization (EPFO). Based on its contents, here are additional suggestions for potential issues and ideas to explore:
-	- ### Issues
-	- **Complex Claim Settlement Requirements**:
-		- Identify bottlenecks in the current claim settlement processes and address them.
-		- Explore the redundancy of existing claim categories.
-	- **Awareness and Compliance**:
-		- Increase employer and employee awareness about EPFO benefits and penalties for non-compliance.
-		- Address regional disparities in compliance levels.
-	- **Employee Overburden and Skills Gap**:
-		- Review workloads and redistribute responsibilities among staff to enhance productivity.
-		- Conduct regular skill enhancement programs for EPFO employees.
-	- **Inoperative Accounts**:
-		- Develop measures to identify and activate dormant accounts.
-		- Establish better communication channels to inform members about their account status.
-	- **Data Reporting and Work Delegation**:
-		- Streamline reporting processes to reduce redundancies.
-		- Clearly define and communicate work delegations to avoid confusion among employees.
-	- **Handling of Special Cases**:
-		- Formulate clear guidelines for high-priority cases, such as pension for international workers or higher-wage earners.
-	- ### Ideas
-	- **Digital Transformation**:
-		- Leverage advanced automation tools for seamless claim processing.
-		- Implement blockchain technology for secure and transparent record-keeping.
-	- **Policy Enhancements**:
-		- Introduce a dynamic policy review framework to ensure timely updates and effectiveness.
-		- Standardize policy communication formats to ensure clarity.
-	- **Centralized Systems**:
-		- Develop a unified database for establishments, ensuring better tracking and analysis of contributions.
-		- Roll out centralized pension disbursal mechanisms.
-	- **Technology Integration**:
-		- Establish APIs for real-time data sharing and analytics to improve decision-making.
-		- Use artificial intelligence to predict trends and manage inoperative accounts proactively.
-	- **Stakeholder Engagement**:
-		- Organize forums and workshops to gather feedback from stakeholders and improve service delivery.
-		- Collaborate with employers to simplify membership and contribution requirements.
-	- **Workforce Management**:
-		- Introduce health monitoring and rating systems for establishments to improve employer accountability.
-		- Separate management from clerical tasks for greater operational efficiency.
-	- **Improved Member Communication**:
-		- Create mobile app updates to notify members of claim statuses in real time.
-		- Enhance SMS/email notifications with specific timelines and next steps for members.
