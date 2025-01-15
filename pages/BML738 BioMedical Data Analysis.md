@@ -1,6 +1,7 @@
 # Lecture 1
 	-
 - # Lecture 2
+  collapsed:: true
 	- ## Structure
 		- Minor 30
 		- Major 45
@@ -19,6 +20,7 @@
 		- Qualitative vs Quantitative
 		- Subjective vs Objective
 - # Lecture 3
+  collapsed:: true
 	- Biomedical Data Sources
 		- Height, Weight, Glucose level
 		- ECG, Cancer imaging
