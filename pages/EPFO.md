@@ -1,13 +1,17 @@
 # Problems
-- ## Policy
-	- Adhoc Policy making
-	- Circulars - No version control
-- ## IT System
-	- Decentralized
-	- IT manpower
-- ## Manpower
-- ## Hiring
-- ## Ministry
+	- ## Core Problems
+		- Database is not centralised
+		- Double entry book keeping system not in place
+		- Old Fragmented Policies and Manual of accounting Procedure
+	- ## Policy
+		- Adhoc Policy making
+		- Circulars - No version control
+	- ## IT System
+		- Decentralized
+		- IT manpower
+	- ## Manpower
+	- ## Hiring
+	- ## Ministry
 - ## Claim Processing
 	- Simplify claims and their processing
 	- Remove purpose based claims like electricity, illness, handicap etc. (users may optionally write select the reason from list or select any other reason)
@@ -85,6 +89,3 @@
 	- **Workforce Management**:
 		- Introduce health monitoring and rating systems for establishments to improve employer accountability.
 		- Separate management from clerical tasks for greater operational efficiency.
-	- **Improved Member Communication**:
-		- Create mobile app updates to notify members of claim statuses in real time.
-		- Enhance SMS/email notifications with specific timelines and next steps for members.
