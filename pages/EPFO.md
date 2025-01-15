@@ -4,8 +4,13 @@
 		- Double entry book keeping system not in place
 		- Old Fragmented Policies and Manual of accounting Procedure
 	- ## Policy
-		- Adhoc Policy making
-		- Circulars - No version control
+		- Adhoc Policy making - There is no policy of policy making.
+		- Circulars - No version control.  Irrational changes.
+		- Rules - Hard to understand by common man. Need of experts or consultant
+	- ## Establishment Identity Verification
+		- A pensioner getting pension of 1000 Rs. per month has to file LC every year.
+		- But there is no proper system for ensuring identity and running condition of Establishment.
+		- Even without Human intervention, system can be made where establishment has to submit its ownership information and it should be verified with third party or sister agency data such as Income tax. GST etc
 	- ## IT System
 		- Decentralized
 		- IT manpower
