@@ -97,9 +97,11 @@
 - # Lecture 4
 -
 	- {{video https://www.youtube.com/watch?v=tOMjTCO0htA}}
-	- {{youtube-timestamp 24}} - Subword tokenization
+	- {{youtube-timestamp 24}} - 3 types of Subword tokenization
 		- Byte pair encoding
 		- Unigram language modeling
 		- Word Piece
+	- {{youtube-timestamp 442}} Morpheme is smallest meaning bearing unit of language
 -
--
+- {{video https://www.youtube.com/watch?v=bFfWbQoVmIA}}
+	-
