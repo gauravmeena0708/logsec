@@ -51,4 +51,43 @@
 			- Inferential
 			-
 		-
+- # Lecture 4 [[BML738 BioMedical Data Analysis]]
+	- {{today}}
+	- Box and whisker plot
+		- Q3+1.5IQR, Q3, Q2(median), Q1, Q1-1.5IQR
+	- Histogram
+		- label range, frequency of each label (for descrete data)
+		- types: standard or normalized(freq/ y axis-> 0 to 1)... normalized freq becomes probability
+		- Frequency distribution follow normal or gaussian distribution
+		- For example, the PDF(probability density function) of a normal distribution is:
+		  $$f_{X}(x)=\frac{1}{\sqrt{2\pi\sigma^2}}\exp\left(-\frac{(x-\mu)^2}{2\sigma^2}\right),$$
+		- for standard normal distribution $z=\frac{x-\mu}{\sigma}$  N(0,1)
+		- **68-95-99.7 Rule** or the **Empirical Rule**.
+			- one std dev = 68.27
+			  two std dev = 95.45
+			  thre std dev = 99.73
+		- Instead of using min max... use 1st percentile - 99th percentile
+		- Skewness
+			- Positive skewness -> mean>median
+			- negative skewness ->mean < median
+			- Non-parametric measure = 3(mean-median)/SD
+			-
+		- Kurtosis
+			- whether data is heavy tailed or light tailed
+			- The kurtosis of a random variable \( X \) is given by:
+			  \[
+			  \text{Kurtosis} = \frac{\mathbb{E}[(X - \mu)^4]}{\sigma^4},
+			  \]
+			- **Leptokurtic, mesokurtic, platykurtic**
+		- Repeatability or Reproducibility of a measurement
+			- Repeatability -> same experiment with same setup -> same result
+			- Reproducibility -> same result can be obtained by diff team using same instrument
+		- | **Aspect**         | **Reproducibility**                         | **Repeatability**                         |
+		  |---------------------|---------------------------------------------|-------------------------------------------|
+		  | **Focus**          | Between different setups or conditions      | Within the same setup or conditions       |
+		  | **Scope**          | Measures generalizability                  | Measures precision                        |
+		  | **Variability**    | Includes operator, environment, and equipment changes | Assumes identical operator, environment, and equipment |
+		  | **Purpose**        | Validates reliability across studies        | Validates precision in one setup          |
+			-
+	-
 -
