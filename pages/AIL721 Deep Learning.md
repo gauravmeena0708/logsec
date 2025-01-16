@@ -60,6 +60,7 @@
 	- TODO Check python package Visualtorch and torchview
 - # Lecture 4
 - in notebook [[Jan 10th, 2025]]
+-
 - # Lecture 5
 	- [[Jan 15th, 2025]]
 	-
