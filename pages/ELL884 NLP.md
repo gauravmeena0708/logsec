@@ -96,4 +96,14 @@
 		-
 - # Lecture 4
 -
+	- {{video https://www.youtube.com/watch?v=tOMjTCO0htA}}
+	- {{youtube-timestamp 24}} - 3 types of Subword tokenization
+		- Byte pair encoding
+		- Unigram language modeling
+		- Word Piece
+	- {{youtube-timestamp 442}} Morpheme is smallest meaning bearing unit of language
 -
+- {{video https://www.youtube.com/watch?v=bFfWbQoVmIA}}
+	- Lemmatization reduces a word to its base or dictionary form (called the lemma). It considers the word's meaning and part of speech eg: *"better"* → *"good"* (semantic lemmatization)
+	- Stemming reduces(crudly) a word to its base or root form by chopping off prefixes or suffixes without considering the word's context or grammatical correctness. eg *"flies"* → *"fli"*
+	-
