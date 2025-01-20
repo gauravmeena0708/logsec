@@ -17,13 +17,3 @@
   
   ```
 - draw [[draws/2025-01-12-09-47-47.excalidraw]]
--
-- Properties
-- Gaurav
-	- lives-in:: Delhi
-	  Birthday:: 07-08-1990
-- Meera
-	- lives-in:: Chittor
-	  birthday:: 10-12-1990
-- Arvind
-	- birthday:: 24-02-1988
