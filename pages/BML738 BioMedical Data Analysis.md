@@ -89,5 +89,9 @@
 		  | **Variability**    | Includes operator, environment, and equipment changes | Assumes identical operator, environment, and equipment |
 		  | **Purpose**        | Validates reliability across studies        | Validates precision in one setup          |
 			-
-	-
+	- ## Lecture 5
+		- Review
+			- Data distribution
+			- Skewness, kurtosis
+			- Reproducibility vs repeatibility
 -
