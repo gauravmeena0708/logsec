@@ -1,4 +1,4 @@
 - **Definition** : A measure of uncertainty or randomness in a distribution
 - Types:
 	- High Entropy: Uniform Distribution
-	- Low Entropy:
+	- Low Entropy: Distribution concentrated around a few values (low uncertainty)
