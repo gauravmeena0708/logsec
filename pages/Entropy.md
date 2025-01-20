@@ -14,4 +14,6 @@
 	- $D_{\text{KL}}(P\|Q)$ is the [[KLD]] :
 		- $D_{\text{KL}}(P\|Q)=\int p(x)\log\frac{p(x)}{q(x)}\,dx$
 		-
--
+- ## Explanation 2
+	- Entropy is measure of surprise after set of events : entropy adds if probability multiplies
+	- Pro
