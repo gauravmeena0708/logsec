@@ -1,4 +1,5 @@
 - **Definition** : A measure of uncertainty or randomness in a distribution
+- ENTROPY is expected value of surprise = $\sum_{\placeholder{x}}^{}xP\left(X=x\right)$
 - Types:
 	- High Entropy: Uniform Distribution
 	- Low Entropy: Distribution concentrated around a few values (low uncertainty)
