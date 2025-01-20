@@ -16,4 +16,6 @@
 		-
 - ## Explanation 2
 	- Entropy is measure of surprise after set of events : entropy adds if probability multiplies
-	- Pro
+	- for rare events - probablity reduces, surprise increases..
+	- Lowest Entropy/Surprise - Uniform distribution
+	- Highest Entropy/Surprise -
