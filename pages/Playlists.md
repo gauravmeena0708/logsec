@@ -23,3 +23,5 @@
 	  University:: Illinois
 	  Title:: Data Patterns
 	  Topics::
+- [[DataProcessing]] [[Data Analysis]]
+	- TODO
