@@ -27,4 +27,7 @@
 		- To just measure the surprise caused by q we can write it as
 			- [[KLD]] = H(P,Q) - H(P)
 			- $\int p(x)\log\frac{1}{q(x)}\,dx$ - $\int p(x)\log\frac{1}{p(x)}\,dx$
-			- $\int p(x)\log\frac{p}{p(x)}\,dx$
+			- or KLD = $\int p(x)\log\frac{p(x)}{q(x)}\,dx$
+	- ## KLD
+		- Hence, KLD is the true measure of models correctness
+		- However, H(P,P) surprise inherent in is fixed
