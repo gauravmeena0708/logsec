@@ -121,3 +121,4 @@
 			- keep the count of things we have never seen once
 			- Frequency of frequency
 		- Kneser ney
+	- [[KLD]], [[Entropy]]
