@@ -1,10 +1,15 @@
 - Measure of How one probability distribution is different from a second, reference distribution.
 - **Measure of difference between two distributions**
 - X = {x1, x2, x3...xn} -> diff between $p_{\theta}\left(X_1\right)\&q_{\phi}\left(x1\right)$
-- as probabilities are very small and which will need to be multiplied with other small numbers... we take log of the same
+- As probabilities are very small and which will need to be multiplied with other small numbers... we take log of the same hence we want the average/expected difference between p and q
+	- $\log P\theta-\log Q\phi$
 	- llikelihood ratio = $\frac{p_{\theta}(x)}{q_{\phi}(x)}$
 	- log likelihood ratio $log \frac{p_{\theta}(x)}{q_{\phi}(x)}$
+	- Weighted log liklihood ratio $p_{\theta}(x)\log\frac{p_{\theta}(x)}{q_{\phi}(x)}$
+	- For continuous variable $\int p_{\theta}(x)\log\frac{p_{\theta}(x)}{q_{\phi}(x)}\,dx$
+	-
+	-
 - $D_{\text{KL}}(P_{\theta}\|Q_{\phi})=\int p_{\theta}(x)\log\frac{p_{\theta}(x)}{q_{\phi}(x)}\,dx$
-- Wighted log liklihood ratio $p_{\theta}(x)\log\frac{p_{\theta}(x)}{q_{\phi}(x)}$
+-
 -
 -
