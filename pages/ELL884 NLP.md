@@ -111,3 +111,6 @@
 	- Laplace-Smoothed bigrams
 		- Bigrams which appeared lot of time -> their freq is decreased after smoothening
 	- Backoff and interpolation
+	- Stupid Back off
+	- when some unigram etc are not in training but are their in test case
+		- unk token
