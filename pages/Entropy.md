@@ -7,7 +7,11 @@
 	- used as loss function to train model
 - $H(P,Q)=H(P)+D_{\text{KL}}(P\|Q)$
 - Where:
-	- H(P,Q)isthecross-entropy:
+	- H(P,Q) is the cross-entropy:
 		- $H(P,Q)=-\int p(x)\log q(x)\,dx$
-		- \item H(P)istheentropyofP:H(P)=-\int p(x)\log p(x)\,dx\item D_{\text{KL}}(P\|Q)istheKLdivergence:D_{\text{KL}}(P\|Q)=\int p(x)\log\frac{p(x)}{q(x)}\,dx\end{itemize}$
+	- H(P) is the entropy of P :
+		- $H(P)=-\int p(x)\log p(x)\,dx$
+	- $D_{\text{KL}}(P\|Q)$ is the [[KLD]] :
+		- $D_{\text{KL}}(P\|Q)=\int p(x)\log\frac{p(x)}{q(x)}\,dx$
+		-
 -
