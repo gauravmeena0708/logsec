@@ -113,4 +113,10 @@
 	- Backoff and interpolation
 	- Stupid Back off
 	- when some unigram etc are not in training but are their in test case
-		- unk token
+		- out of vocabulary -> unk token
+		- method 1 -> replace lower frequency count with unk while training
+			- then in test all OOV treated as per UNK probability
+	- Advance Smoothing
+		- Good TUning
+			-
+		- Kneser ney
