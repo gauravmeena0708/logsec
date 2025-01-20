@@ -21,4 +21,5 @@
 		- Highest Entropy/Surprise - all data points near few points in space
 	- Surprise of individual state - $\log\frac{1}{p_{s}(x)}$
 	- Average surprise -> $\int p(x)\log\frac{1}{p(x)}\,dx$
-	-
+	- ## Cross Entropy
+		- If P and Q are same -> $H\left(P,Q\right)=H\left(P,P\right)=H\left(Q,Q\right)$
