@@ -117,6 +117,7 @@
 		- method 1 -> replace lower frequency count with unk while training
 			- then in test all OOV treated as per UNK probability
 	- Advance Smoothing
-		- Good TUning
-			-
+		- Good TUring
+			- keep the count of things we have never seen once
+			- Frequency of frequency
 		- Kneser ney
