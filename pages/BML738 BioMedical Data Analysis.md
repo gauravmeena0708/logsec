@@ -1,5 +1,5 @@
 # Lecture 1
-	-
+	- [[Data Analysis]]
 - # Lecture 2
   collapsed:: true
 	- ## Structure
