@@ -107,3 +107,5 @@
 	- Lemmatization reduces a word to its base or dictionary form (called the lemma). It considers the word's meaning and part of speech eg: *"better"* → *"good"* (semantic lemmatization)
 	- Stemming reduces(crudly) a word to its base or root form by chopping off prefixes or suffixes without considering the word's context or grammatical correctness. eg *"flies"* → *"fli"*
 	- {{youtube-timestamp 318}} Sentence segmentation. !,? are easy . is hard. hence first tokenization then sentences
+- ## Lecture 5
+	- Laplace-Smoothed bigrams
