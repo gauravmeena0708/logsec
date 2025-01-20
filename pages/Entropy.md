@@ -2,3 +2,12 @@
 - Types:
 	- High Entropy: Uniform Distribution
 	- Low Entropy: Distribution concentrated around a few values (low uncertainty)
+- **Cross Entropy**
+	- measures how well a model q(x) predicts data distributed according to p(x)
+	- used as loss function to train model
+- $H(P,Q)=H(P)+D_{\text{KL}}(P\|Q)$
+- Where:
+	- H(P,Q)isthecross-entropy:
+		- $H(P,Q)=-\int p(x)\log q(x)\,dx$
+		- \item H(P)istheentropyofP:H(P)=-\int p(x)\log p(x)\,dx\item D_{\text{KL}}(P\|Q)istheKLdivergence:D_{\text{KL}}(P\|Q)=\int p(x)\log\frac{p(x)}{q(x)}\,dx\end{itemize}$
+-
