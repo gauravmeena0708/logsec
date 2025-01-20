@@ -3,6 +3,7 @@
 - Types:
 	- High Entropy: Uniform Distribution
 	- Low Entropy: Distribution concentrated around a few values (low uncertainty)
+	- For uniform dist -> entropy is 1
 - **Cross Entropy**
 	- measures how well a model q(x) predicts data distributed according to p(x)
 	- used as loss function to train model
