@@ -94,6 +94,8 @@
 			- Data distribution
 			- Skewness, kurtosis
 			- Reproducibility vs repeatability
-		- coefficient of variation
+		- Coefficient of variation (CV)
+			- $CV=\frac{\sigma}{\mu}\cdot100$
 			- In lab, the CV is preferred when the SD increases in proportion to concentration
+			- at some places CV may be correct and constant and at other places SD
 -
