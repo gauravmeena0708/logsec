@@ -22,6 +22,8 @@
 	- Are both same? NO
 		- The KL divergence from $Q$ to $P$ is defined as:
 		- $D_{\text{KL}}(Q\|P)=\int q(x)\log\frac{q(x)}{p(x)}\,dx$
+		- Forward KL is not equal to Backward KL
+		-
 		-
 	-
 - $D_{\text{KL}}(P_{\theta}\|Q_{\phi})=\int p_{\theta}(x)\log\frac{p_{\theta}(x)}{q_{\phi}(x)}\,dx$
