@@ -13,7 +13,8 @@
 		- $H(P)=-\int p(x)\log p(x)\,dx$
 	- $D_{\text{KL}}(P\|Q)$ is the [[KLD]] :
 		- $D_{\text{KL}}(P\|Q)=\int p(x)\log\frac{p(x)}{q(x)}\,dx$
-		-
+	- ## Surprise
+		- surprise = $\log\left(\frac{1}{P\left(x\right)}\right)$
 - ## Explanation 2
 	- Entropy is measure of surprise after set of events : entropy adds if probability multiplies
 		- for rare events - probablity reduces, surprise increases..
