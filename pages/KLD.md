@@ -1,3 +1,4 @@
 - Measure of How one probability distribution is different from a second, reference distribution.
 - **Measure of difference between two distributions**
--
+- X = {x1, x2, x3...xn} -> diff between $p_{\theta}\left(X_1\right)\&q_{\phi}\left(x1\right)$
+- as probabilities are very small ... we take log of the same
