@@ -3,5 +3,8 @@
 	- By ensuring the latent space follows a known distribution, we can sample from it to generate new data
 - How the [[Generative AI]] works?
 	- We start from a basic distribution. $q\theta$
-	- Loop -> find the difference between $P$
+	- Loop -> find the difference between $P_{\theta}$ and $Q_{\phi}$ by either cross [[Entropy]] or [[KLD]]
+		- adjust $Q_{\phi}$ with loss and again find loss ... and continue
+		- once loss is minimized -> Generate samples from $Q_{\phi}
+	-
 		-
