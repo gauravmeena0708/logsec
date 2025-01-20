@@ -19,4 +19,6 @@
 		- for rare events - probablity reduces, surprise increases..
 		- Lowest Entropy/Surprise - Uniform distribution
 		- Highest Entropy/Surprise - all data points near few points in space
-	- Surprise of in
+	- Surprise of individual state - $\log\frac{1}{p_{s}(x)}$
+	- Average surprise -> $\int p(x)\log\frac{1}{p(x)}\,dx$
+	-
