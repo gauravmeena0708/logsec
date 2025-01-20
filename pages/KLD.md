@@ -2,7 +2,9 @@
 - **Measure of difference between two distributions**
 - X = {x1, x2, x3...xn} -> diff between $p_{\theta}\left(X_1\right)\&q_{\phi}\left(x1\right)$
 - as probabilities are very small and which will need to be multiplied with other small numbers... we take log of the same
-- log ptheta(x1) - log qphi(x1) or likelihood ratio = $\frac{p_{\theta}(x)}{q_{\phi}(x)}$
--
+	- llikelihood ratio = $\frac{p_{\theta}(x)}{q_{\phi}(x)}$
+	- log likelihood ratio $log \frac{p_{\theta}(x)}{q_{\phi}(x)}$
 - $D_{\text{KL}}(P_{\theta}\|Q_{\phi})=\int p_{\theta}(x)\log\frac{p_{\theta}(x)}{q_{\phi}(x)}\,dx$
+- Wighted log liklihood ratio $p_{\theta}(x)\log\frac{p_{\theta}(x)}{q_{\phi}(x)}$
+-
 -
