@@ -109,3 +109,5 @@
 	- {{youtube-timestamp 318}} Sentence segmentation. !,? are easy . is hard. hence first tokenization then sentences
 - ## Lecture 5
 	- Laplace-Smoothed bigrams
+		- Bigrams which appeared lot of time -> their freq is decreased after smoothening
+	- Backoff and interpolation
