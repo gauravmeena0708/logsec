@@ -98,4 +98,7 @@
 			- $CV=\frac{\sigma}{\mu}\cdot100$
 			- In lab, the CV is preferred when the SD increases in proportion to concentration
 			- at some places CV may be correct and constant and at other places SD
+		- Correlation coeff
+			- Two types - Pearson and spearman
+			-
 -
