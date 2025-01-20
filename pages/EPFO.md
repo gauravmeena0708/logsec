@@ -101,3 +101,4 @@
 		- **Unified Portal:** Login, select "Online Services," click "Claim," verify bank account details, select the reason for leaving service, upload Form 15G if needed, enter address, upload a cheque, enter Aadhaar-linked OTP, and submit the claim.
 		  
 		  The notes seem to be a guide or personal study material for someone trying to understand the EPFO system and its various processes. It covers many practical aspects and common queries related to UAN, claims, and related procedures.
+- TODO [[Data Analysis]]
