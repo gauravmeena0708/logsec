@@ -30,4 +30,5 @@
 			- or KLD = $\int p(x)\log\frac{p(x)}{q(x)}\,dx$
 	- ## KLD
 		- Hence, KLD is the true measure of models correctness
-		- However, H(P,P) surprise inherent in is fixed
+		- However, H(P,P) surprise inherent in actual Dist P is fixed
+		- Hence, in most of the cases our optimization goal becomes minimization of cross entropy
