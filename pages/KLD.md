@@ -25,6 +25,8 @@
 		- Forward KL is not equal to Backward KL
 		- Forward KL - mean seeking behaviour
 		- Backward KL - mode seeking behaviour
+	- If you are using cross entropy -> you are essentially using Forward KL (atleast the component)
+	- KL divergence is also called -> relative entropy
 		-
 		-
 	-
