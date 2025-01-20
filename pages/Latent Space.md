@@ -1,3 +1,5 @@
 - [[Latent Space]]
 	- Generative models often maps to a latent space (secret/hidden space) eg N(0,1).
 	- By ensuring the latent space follows a known distribution, we can sample from it to generate new data
+- How the [[Generative AI]] works?
+	-
