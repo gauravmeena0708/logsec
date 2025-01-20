@@ -20,6 +20,11 @@
 		- Lowest Entropy/Surprise - Uniform distribution
 		- Highest Entropy/Surprise - all data points near few points in space
 	- Surprise of individual state - $\log\frac{1}{p_{s}(x)}$
-	- Average surprise -> $\int p(x)\log\frac{1}{p(x)}\,dx$
+	- Average surprise -> H(P,P) = $\int p(x)\log\frac{1}{p(x)}\,dx$
 	- ## Cross Entropy
 		- If P and Q are same -> $H\left(P,Q\right)=H\left(P,P\right)=H\left(Q,Q\right)$
+		- If we use q to model p. the surprise is $\int p(x)\log\frac{1}{q(x)}\,dx$
+		- To just measure the surprise caused by q we can write it as
+			- [[KLD]] = H(P,Q) - H(P)
+			- $\int p(x)\log\frac{1}{q(x)}\,dx$ - $\int p(x)\log\frac{1}{p(x)}\,dx$
+			- $\int p(x)\log\frac{p}{p(x)}\,dx$
