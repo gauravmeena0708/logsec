@@ -33,3 +33,8 @@
 		- Hence, KLD is the true measure of models correctness
 		- However, H(P,P) surprise inherent in actual Dist P is fixed
 		- Hence, in most of the cases our optimization goal becomes minimization of cross entropy
+	- ## Resources
+	- {{video https://www.youtube.com/watch?v=YtebGVx-Fxw}}
+	- {{video https://www.youtube.com/watch?v=ErfnhcEV1O8}}
+	- {{video https://www.youtube.com/watch?v=9_eZHt2qJs4}}
+	-
