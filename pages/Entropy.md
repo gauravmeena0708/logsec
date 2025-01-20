@@ -1,0 +1,1 @@
+- **Definition** : A measure of uncertainty or randomness in a distribution
