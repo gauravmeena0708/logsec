@@ -23,6 +23,8 @@
 		- The KL divergence from $Q$ to $P$ is defined as:
 		- $D_{\text{KL}}(Q\|P)=\int q(x)\log\frac{q(x)}{p(x)}\,dx$
 		- Forward KL is not equal to Backward KL
+		- Forward KL - mean seeking behaviour
+		- Backward KL - mode seeking behaviour
 		-
 		-
 	-
