@@ -100,5 +100,12 @@
 			- at some places CV may be correct and constant and at other places SD
 		- Correlation coeff
 			- Two types - Pearson and spearman
+			- | Feature                          | Pearson's Correlation Coefficient | Spearman's Rank Correlation Coefficient |
+			  |----------------------------------|------------------------------------|-----------------------------------------|
+			  | **Type of Relationship**         | Linear                           | Monotonic                              |
+			  | **Data Requirements**            | Continuous and normally distributed | Ranked or non-parametric data          |
+			  | **Scale Sensitivity**            | Sensitive to outliers            | Less sensitive to outliers             |
+			  | **Calculation Basis**            | Raw data values                  | Ranks of data values                   |
+			  | **Use Cases**                    | Measuring linear relationships in scientific or engineering data | Understanding ordinal or monotonic relationships in non-parametric data |
 			-
 -
