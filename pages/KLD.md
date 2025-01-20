@@ -16,7 +16,7 @@
 		- The integral or summation is from -inf to +inf
 	- Law of Large numbers
 		- The average of large number of samples should be close to the expected value and will become closer to the expected value as more trials are performed
-		-
+		- $\bar{X}_{n}=\frac{1}{n}\sum_{i=1}^{n}X_{i},\quad\bar{X}_{n}\xrightarrow{P}\mu\quad\text{(Weak Law)},\quad\text{and}\quad\bar{X}_{n}\xrightarrow{\text{a.s.}}\mu\quad\text{(Strong Law)}.$
 	-
 - $D_{\text{KL}}(P_{\theta}\|Q_{\phi})=\int p_{\theta}(x)\log\frac{p_{\theta}(x)}{q_{\phi}(x)}\,dx$
 -
