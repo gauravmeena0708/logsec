@@ -93,5 +93,7 @@
 		- Review
 			- Data distribution
 			- Skewness, kurtosis
-			- Reproducibility vs repeatibility
+			- Reproducibility vs repeatability
+		- coefficient of variation
+			- In lab, the CV is preferred when the SD increases in proportion to concentration
 -
