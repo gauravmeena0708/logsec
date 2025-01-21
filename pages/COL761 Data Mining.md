@@ -97,4 +97,5 @@
 - ## Lecture 5
 - ## Lecture 6
 	- Isomorphic graphs -> Graph having similar structure
+	- Size of graph -> number of edges in graph
 	-
