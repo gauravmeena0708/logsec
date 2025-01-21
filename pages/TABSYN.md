@@ -5,4 +5,15 @@
 		- Transformer Decoder
 		- Detokenizer
 		- Training the VAE
-	- Latent Diffusion -> Learns the distribution of latent vectors
+	- Latent Diffusion -> Learns the distribution of latent vectors and generates synthetic data from learnt distribution
+		- Forward Diffusion Process
+		- Reverse Diffusion Process
+		- Sampling(Generating synthetic data)
+	- Evaluation matrics
+		- Low order statistics
+			- Column wise Distribution similarity
+				- Kolmogorov-smirnov test(KST) - For numerical columns difference between CDFs
+				- Total Variation Distance (TVD) - For categorical cols->avg diff in probs for each cat
+			- Pairwise column correlation
+				- Pearson correlation coefficient - Linear Correlation between pairs
+				- Contingency Similarity - difference between th
