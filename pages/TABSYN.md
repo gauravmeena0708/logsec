@@ -16,4 +16,14 @@
 				- Total Variation Distance (TVD) - For categorical cols->avg diff in probs for each cat
 			- Pairwise column correlation
 				- Pearson correlation coefficient - Linear Correlation between pairs
-				- Contingency Similarity - difference between th
+				- Contingency Similarity - difference between their contingency tables
+				- combined numerical-categorical correlation: group num&cat via bucketing, -> cont. sim
+			- Classifier two sample tests - measures difficulty to classify real and synthetic. high->good
+		- Higher order Stats
+			- Alpha precision - measures fidility - >
+			- Beta Recall
+		- Downstream tasks
+			- Machine learning efficiency
+			- Missing value imputation
+		- Privacy Detection
+			- Distance to closest record
