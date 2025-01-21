@@ -1,3 +1,4 @@
+- It is a [[Generative AI]] method for generating synthetic tabular data after training from the real tabular data that includes both categorical and Numerical Data
 - Steps
 	- Autoencoding using VAE -> Data to simplified, continuous representation [[Latent Space]]
 		- Feature tokenizer
