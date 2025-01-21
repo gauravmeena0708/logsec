@@ -6,7 +6,7 @@
 		- Transformer Decoder
 		- Detokenizer
 		- Training the VAE
-	- Latent Diffusion -> Learns the distribution of latent vectors and generates synthetic data from learnt distribution. Learning using [[KLD]] weight
+	- Latent Diffusion -> Learns the distribution of latent vectors and generates synthetic data from learnt distribution. Learning using [[KLD]] weights
 		- Forward Diffusion Process
 		- Reverse Diffusion Process
 		- Sampling(Generating synthetic data)
