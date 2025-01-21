@@ -20,10 +20,16 @@
 				- combined numerical-categorical correlation: group num&cat via bucketing, -> cont. sim
 			- Classifier two sample tests - measures difficulty to classify real and synthetic. high->good
 		- Higher order Stats
-			- Alpha precision - measures fidility - >
-			- Beta Recall
+			- Alpha precision - measures fidelity -> if each synthetic sample is close to real data
+			- Beta Recall - measures coverage -> if synthetic data cover entire real distribution
 		- Downstream tasks
-			- Machine learning efficiency
-			- Missing value imputation
+			- Machine learning efficiency - train model(XGBoost) on synthetic and evaluate on real data
+			- Missing value imputation - use tab syn to fill missing values and evaluate accuracy wrt real
 		- Privacy Detection
-			- Distance to closest record
+			- Distance to closest record (DCR) - access potential privacy risks
+	- Results
+		- Performance - better in most esp column wise and pair wise
+		- Fast
+		- Effective for downstream tasks such as MLE, missing value imputation
+	- Ablation Studies
+		-
