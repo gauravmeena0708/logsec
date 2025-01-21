@@ -32,4 +32,8 @@
 		- Fast
 		- Effective for downstream tasks such as MLE, missing value imputation
 	- Ablation Studies
-		-
+		- Adaptive B VAE
+		- Linear Noise Schedule
+		- Comparison of different encoding methods
+		- Impact of quality of VAE
+		- Privacy protection
