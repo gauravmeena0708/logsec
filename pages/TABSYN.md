@@ -1,5 +1,5 @@
 - Steps
-	- Autoencoding using VAE -> Data to simplified, continuous representation(latent space)
+	- Autoencoding using VAE -> Data to simplified, continuous representation [[Latent Space]]
 		- Feature tokenizer
 		- Transformer Encoder
 		- Transformer Decoder

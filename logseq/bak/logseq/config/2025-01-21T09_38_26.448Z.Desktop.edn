@@ -422,5 +422,4 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :feature/enable-whiteboards? false
- :graph/settings {:journal? false
- :builtin-pages? false}}
+ :graph/settings {:journal? true}}
