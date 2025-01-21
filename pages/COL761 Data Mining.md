@@ -94,5 +94,7 @@
 	- #Homework Proove that sorting using freq will help in shorter tree
 	- #Homework Code FP tree and conditional FP via code
 	- #Homework whether candidate generation is faster or conditional FP tree
-	-
+- ## Lecture 5
+- ## Lecture 6
+	- Isomorphic graphs -> Graph having similar structure
 	-
