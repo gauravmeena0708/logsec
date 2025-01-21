@@ -1,0 +1,8 @@
+- Steps
+	- Autoencoding using VAE -> Data to simplified, continuous representation(latent space)
+		- Feature tokenizer
+		- Transformer Encoder
+		- Transformer Decoder
+		- Detokenizer
+		- Training the VAE
+	- Latent Diffusion -> Learns the distribution of latent vectors
