@@ -112,4 +112,5 @@
 - Bland-altman plot for comparing tests or one test w.r.t golf standard
 - z table, t table, f table
 - 95% CI= 1.96 SD from z table
+- TODO Steps to construct Bland and Altman methodology
 -
