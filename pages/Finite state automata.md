@@ -1,0 +1,4 @@
+- Used for modeling real world processes/states.
+- It is probability based
+- https://www.researchgate.net/publication/332883745/figure/fig4/AS:755740780281858@1557194051819/Example-of-a-simplified-finite-state-machine-simulating-a-users-movements-based-on-some.png
+- it is the basis of Marko
