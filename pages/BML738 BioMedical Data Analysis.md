@@ -113,4 +113,6 @@
 - z table, t table, f table
 - 95% CI= 1.96 SD from z table
 - TODO Steps to construct Bland and Altman methodology
--
+- t test tells us whether it is ok to have outliers
+	- 1 tailed
+	- 2 tailed - paired. Unpaired
