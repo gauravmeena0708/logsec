@@ -108,4 +108,8 @@
 			  | **Calculation Basis**            | Raw data values                  | Ranks of data values                   |
 			  | **Use Cases**                    | Measuring linear relationships in scientific or engineering data | Understanding ordinal or monotonic relationships in non-parametric data |
 			-
+- # Lecture [[Jan 23rd, 2025]]
+- Bland-altman plot for comparing tests or one test w.r.t golf standard
+- z table, t table, f table
+- 95% CI= 1.96 SD from z table
 -
