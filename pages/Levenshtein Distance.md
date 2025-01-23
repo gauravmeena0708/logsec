@@ -4,6 +4,7 @@
 		- kitten → sitten (substitution of k → s)
 		- sitten → sittin (substitution of e → i)
 		- sittin → sitting (insertion of g)
+	- It is also called Edit Distance
 - ### Operations in Levenshtein Distance
 	- There are three allowed operations:
 	- **Insertion**: Insert a character into the string.
