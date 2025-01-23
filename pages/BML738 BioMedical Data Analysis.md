@@ -116,3 +116,13 @@
 - t test tells us whether it is ok to have outliers
 	- 1 tailed
 	- 2 tailed - paired. Unpaired
+- | **Aspect**         | **Z-Test**                                                                 | **T-Test**                                                    | **F-Test**                                                  |
+  |---------------------|---------------------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------------|
+  | **Purpose**         | Compares sample mean to population mean with known population variance.  | Compares means of one or two samples (independent or paired). | Compares variances of two or more groups.                 |
+  | **Distribution**    | Standard normal distribution (Z-distribution).                          | T-distribution (varies with degrees of freedom).             | F-distribution (varies with degrees of freedom).          |
+  | **Usage**           | Large sample sizes (n > 30) or known population variance.               | Small sample sizes (n ≤ 30) or unknown population variance.  | Testing equality of variances or in ANOVA.                |
+  | **Example**         | Testing if a coin is biased.                                            | Testing if two teaching methods yield the same average score.| Testing variance of production in different plants.        |
+  | **Assumptions**     | Normal distribution, known variance.                                    | Normal distribution, independent samples, equal variances.   | Independent samples, variances are normally distributed.  |
+  | **Test Statistic**  | \( Z = \frac{\bar{X} - \mu}{\sigma / \sqrt{n}} \)                       | \( t = \frac{\bar{X} - \mu}{s / \sqrt{n}} \)                | \( F = \frac{\text{Variance of group 1}}{\text{Variance of group 2}} \) |
+  | **Applications**    | Hypothesis testing, quality control.                                    | Hypothesis testing, comparing means.                         | Analysis of Variance (ANOVA), regression analysis.         |
+-
