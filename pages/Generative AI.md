@@ -1,0 +1,5 @@
+- 3 popular methods
+	- [[VAE]]
+	- [[GAN]]
+	- [[Diffusion]]
+	-
