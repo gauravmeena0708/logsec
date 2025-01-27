@@ -53,8 +53,15 @@
 			- Variables
 				- Univariate
 				- Multivariate
-			-
-			- Inferential
+		- Data Types
+			- Categorical - No Hierarchy, Ordinal
+			- Quantitative - Discrete, Continuous
+		- Data Issues
+			- Different Standards
+			- Bias
+			- Accuracy of Info
+			- Null/Missing values
+		- Inferential
 			-
 		-
 - # Lecture 4 [[BML738 BioMedical Data Analysis]]
