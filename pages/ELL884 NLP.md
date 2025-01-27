@@ -18,8 +18,10 @@
 	- ((6797be1a-3b26-4991-952d-6dcb22bd0beb))
 	- Type I error: False Positive
 	- Type II error: False Negative
-	- Accuracy or Precision:-> Minimising False Positive
-	- Coverage or Recall -> Minimizing False negative
+		- Accuracy or Precision:-> Minimising False Positive
+		- Coverage or Recall -> Minimising False negative
+	- Orthographic rules -> for breaking words in stem and modifier
+	- Morphology-> Study of Word Structure. Can help in distinguishing goose and geese
 	- ## Matter
 		- Regular Expression
 			- Range - [wW], [a-z], [A-Za-z]
@@ -46,7 +48,7 @@
 				- some languages such as tagalog add infix  or circumfix (german)
 			- TODO Read about Automata Chapter 2 and 3 of Book
 			- TODO Read about basic terminologies
-			- Concatenative morphology is easy -  chapter 2 and 3
+			- **Concatenative morphology is easy** -  chapter 2 and 3
 		- Stemming Methods
 			- TODO Lemmatization, stemming, difference between these two?
 		- Port Stemmer (1980)
@@ -59,8 +61,15 @@
 			- TODO Watch a video on how do the [[portstemmer]] work?
 			-
 - # Lecture 3
+	- ![lec3a.pdf](../assets/lec3a_1737998208327_0.pdf)
+	-
 	- ## Matter
 	- TODO do [[Levenshtein Distance]]
+		- How similar are two strings?
+		- Which is closest?
+		- Machine Translation
+		- Information Extraction
+		- Speech Recognition
 	- Statistical language Models
 		- TODO [[N-Grams]]
 		- Benefits:
