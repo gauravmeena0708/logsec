@@ -62,11 +62,10 @@
 			-
 - # Lecture 3
 	- ![lec3a.pdf](../assets/lec3a_1737998208327_0.pdf)
-	-
 	- ## Matter
 	- TODO do [[Levenshtein Distance]]
 		- Solves: How similar are two strings? Which is closest?
-		- Uses: Dynamic
+		- Uses: Dynamic Programming
 		- Uses:
 			- Machine Translation
 			- Information Extraction
