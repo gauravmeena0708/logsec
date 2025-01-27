@@ -67,8 +67,9 @@
 	- TODO do [[Levenshtein Distance]]
 		- How similar are two strings?
 		- Which is closest?
-		- Machine Translation
-		- Information Extraction
+		- Uses:
+			- Machine Translation
+			- Information Extraction
 		- Speech Recognition
 	- Statistical language Models
 		- TODO [[N-Grams]]
