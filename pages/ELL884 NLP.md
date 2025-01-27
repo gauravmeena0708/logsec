@@ -17,7 +17,9 @@
 	- ![lec2.pdf](../assets/lec2_1737997815813_0.pdf)
 	- ((6797be1a-3b26-4991-952d-6dcb22bd0beb))
 	- Type I error: False Positive
-	- Type II error: Fals
+	- Type II error: False Negative
+	- Accuracy or Precision:-> Minimising False Positive
+	- Coverage or Recall -> Minimizing False negative
 	- ## Matter
 		- Regular Expression
 			- Range - [wW], [a-z], [A-Za-z]
