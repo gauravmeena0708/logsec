@@ -301,7 +301,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["ELL884 NLP" "AIL721 Deep Learning" "BML738 BioMedical Data Analysis" "COL761 Data Mining"]
+ :favorites ["AIV790" "ELL884 NLP" "AIL721 Deep Learning" "BML738 BioMedical Data Analysis" "COL761 Data Mining"]
 
  ;; Set flashcards interval.
  ;; Expected value:
