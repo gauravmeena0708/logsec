@@ -20,7 +20,6 @@
 		- Qualitative vs Quantitative
 		- Subjective vs Objective
 - # Lecture 3
-  collapsed:: true
 	- Biomedical Data Sources
 		- Height, Weight, Glucose level
 		- ECG, Cancer imaging
@@ -46,7 +45,14 @@
 				  concept of "degrees of freedom" where the last data point in a sample is
 				   not "free" to vary once the mean is calculated from the other data 
 				  points.
-			-
+		- Stats
+			- Mean, SD
+			- Series
+				- Spatial -> Series
+				- Time -> Series
+			- Variables
+				- Univariate
+				- Multivariate
 			-
 			- Inferential
 			-
