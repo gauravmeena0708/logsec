@@ -65,8 +65,8 @@
 	-
 	- ## Matter
 	- TODO do [[Levenshtein Distance]]
-		- How similar are two strings?
-		- Which is closest?
+		- Solves: How similar are two strings? Which is closest?
+		- Uses: Dynamic
 		- Uses:
 			- Machine Translation
 			- Information Extraction
