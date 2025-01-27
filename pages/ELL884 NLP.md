@@ -70,7 +70,8 @@
 		- Uses:
 			- Machine Translation
 			- Information Extraction
-		- Speech Recognition
+			- Speech Recognition
+			- Align two sequences of nucleotide
 	- Statistical language Models
 		- TODO [[N-Grams]]
 		- Benefits:
