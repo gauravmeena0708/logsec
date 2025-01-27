@@ -47,7 +47,7 @@
 				- some language adds prefix or suffix to root word like english, hindi, latin
 				- some languages such as tagalog add infix  or circumfix (german)
 			- TODO Read about Automata Chapter 2 and 3 of Book
-			- TODO Read about basic terminologies
+			- DONE Read about basic terminologies
 			- **Concatenative morphology is easy** -  chapter 2 and 3
 		- Stemming Methods
 			- TODO Lemmatization, stemming, difference between these two?
@@ -61,7 +61,7 @@
 			- TODO Watch a video on how do the [[portstemmer]] work?
 			-
 - # Lecture 3
-	- ![lec3a.pdf](../assets/lec3a_1737998208327_0.pdf)
+	- ![lec3a.pdf](../assets/lec3a_1737998208327_0.pdf) - [[Levenshtein Distance]]
 	- ## Matter
 	- TODO do [[Levenshtein Distance]]
 		- Solves: How similar are two strings? Which is closest?
