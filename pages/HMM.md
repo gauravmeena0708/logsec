@@ -20,4 +20,4 @@
 			- When Laddu is energetic, they play Rock music.
 		- Even though you can't see Laddu's mood directly, by observing their music choices over time, you can make an educated guess about their hidden mood.
 - ## Applications
-	- [[POS Tagging]] in [[ELL884 NLP]]
+	- [[Viterbi Algorithm in POS Tagging]] in [[ELL884 NLP]]

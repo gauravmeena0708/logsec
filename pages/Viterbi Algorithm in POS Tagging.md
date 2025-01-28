@@ -1,8 +1,6 @@
-# Hidden Markov Model (HMM) Mathematics for POS Tagging in NLP
-
-In Part-of-Speech (POS) tagging, the goal is to assign the correct POS tag (e.g., noun, verb, adjective) to each word in a sentence. HMM provides a probabilistic framework for solving this by modeling the problem as finding the most probable sequence of hidden states (POS tags) given the observed sequence (words in the sentence).
-
----
+- In Part-of-Speech (POS) tagging, the goal is to assign the correct POS tag (e.g., noun, verb, adjective) to each word in a sentence. HMM provides a probabilistic framework for solving this by modeling the problem as finding the most probable sequence of hidden states (POS tags) given the observed sequence (words in the sentence).
+  
+  ---
 - ## HMM Components
   
   1. **States**: The POS tags (e.g., Noun, Verb, Adjective). These are the *hidden states*.  
