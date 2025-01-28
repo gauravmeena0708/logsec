@@ -1,0 +1,2 @@
+- Hidden Markov models are derived from [[Markov chains]]. HMM are used when we don't have direct access to the variable that needs to be predicted but we have access to [[Latent Space]] or a variable that depends on the variable that needs to be predited.
+-

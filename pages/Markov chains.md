@@ -45,7 +45,7 @@ Markov Chains are mathematical systems that undergo transitions from one state t
 - ## **Advantages**
 - Simple to implement.
 - Useful for modeling sequential processes.
-- Foundational for advanced probabilistic models like Hidden Markov Models (HMMs).
+- Foundational for advanced probabilistic models like Hidden Markov Models ( [[HMM]] s).
   
   ---
 - ## **Limitations**
