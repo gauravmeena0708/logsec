@@ -101,6 +101,6 @@
 	- Isomorphic graphs -> Graph having similar structure
 	- Size of graph -> number of edges in graph
 - ## Lecture 7
-- ## Lecture 8
+- ## Lecture 8 [[Jan 28th, 2025]]
 	- Prev class:
 		- Canonical labels
