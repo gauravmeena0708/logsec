@@ -2,6 +2,8 @@
 Markov Chains are mathematical systems that undergo transitions from one state to another within a finite or countable state space, following a probabilistic rule. The key characteristic is that the future state depends only on the current state, not on the sequence of past states.
 
 ---
+- watch {{video https://www.youtube.com/watch?v=i3AkTO9HLXo&list=PLM8wYQRetTxBkdvBtz-gw8b9lcVkdXQKV}}
+-
 - ## **Key Properties**
   1. **Markov Property**:
 	- The probability of moving to the next state depends only on the current state.
