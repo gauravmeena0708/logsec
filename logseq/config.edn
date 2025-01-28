@@ -423,4 +423,5 @@
  :file/name-format :triple-lowbar
  :feature/enable-whiteboards? false
  :graph/settings {:journal? false
- :builtin-pages? false}}
+ :builtin-pages? false}
+ :graph/forcesettings {:link-dist 40}}
