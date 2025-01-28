@@ -33,3 +33,13 @@
 	  logseq.order-list-type:: number
 	- Pre-Processing of Training DataSet -> Feature Scaling, Feature extraction, Dimensionality Reduction
 	  logseq.order-list-type:: number
+	- Machine Learning Algorithm
+	  logseq.order-list-type:: number
+	- Predictive Model Candidate
+	  logseq.order-list-type:: number
+	- Evaluate and Iterate via Cross validation
+	  logseq.order-list-type:: number
+	- Final Model
+	  logseq.order-list-type:: number
+	- Apply on test data and get the accuracy
+	  logseq.order-list-type:: number
