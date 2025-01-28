@@ -21,3 +21,4 @@
 		- Even though you can't see Laddu's mood directly, by observing their music choices over time, you can make an educated guess about their hidden mood.
 - ## Applications
 	- [[Viterbi Algorithm in POS Tagging]] in [[ELL884 NLP]]
+- Watch {{video https://www.youtube.com/watch?v=i3AkTO9HLXo&list=PLM8wYQRetTxBkdvBtz-gw8b9lcVkdXQKV}}
