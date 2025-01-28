@@ -11,7 +11,9 @@
 		- Decision Process
 		- Reward System
 		- Learn Series of Actions
-- How Supervised Learning works
+- ### How Supervised Learning works
 	- Labels and Training Data Generate + Algo -> Machine Learning Model
 	- New Data -> Model -> Prediction
 	- Classification, Regression
+- How Unsupervised Learning Works
+	-
