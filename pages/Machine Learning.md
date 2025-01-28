@@ -31,3 +31,5 @@
 		  logseq.order-list-type:: number
 	- DataSet -> Split in Training Dataset, Test Dataset
 	  logseq.order-list-type:: number
+	- Pre-Processing of Training DataSet -> Feature Scaling, Feature extraction, Dimensionality Reduction
+	  logseq.order-list-type:: number
