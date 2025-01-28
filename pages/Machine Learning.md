@@ -1,0 +1,13 @@
+- Three major types
+	- Supervised Learning
+		- Labelled data
+		- Direct Feedback
+		- Predict Outcome/feature/future
+	- Unsupervised Learning
+		- No labels/Target
+		- No Feedback
+		- Find Hidden Structure in Data
+	- Reinforcement Learning
+		- Decision Process
+		- Reward System
+		- Learn Series of Actions
