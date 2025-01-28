@@ -1,4 +1,4 @@
-- Three major types
+## Three major types
 	- Supervised Learning
 		- Labelled data
 		- Direct Feedback
@@ -11,3 +11,6 @@
 		- Decision Process
 		- Reward System
 		- Learn Series of Actions
+- How Supervised Learning works
+	- Labels and Training Data Generate + Algo -> Machine Learning Model
+	- New Data -> Model -> Prediction
