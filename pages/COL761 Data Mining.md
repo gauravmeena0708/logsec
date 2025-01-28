@@ -95,6 +95,8 @@
 	- #Homework Code FP tree and conditional FP via code
 	- #Homework whether candidate generation is faster or conditional FP tree
 - ## Lecture 5
+- [[Frequent SubGraph Mining]]
+-
 - ## Lecture 6
 	- Isomorphic graphs -> Graph having similar structure
 	- Size of graph -> number of edges in graph
