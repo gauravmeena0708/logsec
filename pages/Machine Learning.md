@@ -14,3 +14,4 @@
 - How Supervised Learning works
 	- Labels and Training Data Generate + Algo -> Machine Learning Model
 	- New Data -> Model -> Prediction
+	- Classification, Regression
