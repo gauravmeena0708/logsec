@@ -141,8 +141,4 @@
 		- Kneser ney
 	- [[KLD]], [[Entropy]]
 - ## Lecture 6
-- [[Viterbi Algorithm in POS Tagging]] -> Identifying the Noun/verb/adjective etc from the sentence
-	- It is done using two algorithms and Hidden Markov Model or [[HMM]]
-	- The two algorithms used are:-
-		- [[Viterbi Algorithm in POS Tagging]]
-		- [[Baum-Welch Algorithm]] or EM Algo or Expectation Maximization
+- [[POS Tagging]]-> Identifying the Noun/verb/adjective etc from the sentence

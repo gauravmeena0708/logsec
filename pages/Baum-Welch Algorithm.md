@@ -1,1 +1,1 @@
-- Baum-Welch Algorithm is used in POS Tagging in [[ELL884 NLP]]. It assumes the words of the sentences as latent variables and Noun/verb/Adjectives as Hidden Variables of [[HMM]] model
+- Baum-Welch Algorithm is used in POS Tagging in [[ELL884 NLP]]. It assumes the words of the sentences as latent variables and Noun/verb/Adjectives as Hidden Variables of [[HMM]] model.
