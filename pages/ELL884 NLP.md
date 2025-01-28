@@ -145,4 +145,4 @@
 	- It is done using two algorithms and Hidden Markov Model or [[HMM]]
 	- The two algorithms used are:-
 		- [[Viterbi Algorithm in POS Tagging]]
-		- EM Algo or Expectation Maximization
+		- [[Baum-Welch Algorithm]] or EM Algo or Expectation Maximization
