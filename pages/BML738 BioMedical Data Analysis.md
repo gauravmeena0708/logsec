@@ -64,7 +64,7 @@
 		- Inferential
 			-
 		-
-- # Lecture 4 [[BML738 BioMedical Data Analysis]]
+- # Lecture 4
 	- {{today}}
 	- Box and whisker plot
 		- Q3+1.5IQR, Q3, Q2(median), Q1, Q1-1.5IQR
