@@ -20,6 +20,7 @@
 		- Qualitative vs Quantitative
 		- Subjective vs Objective
 - # Lecture 3
+  collapsed:: true
 	- Biomedical Data Sources
 		- Height, Weight, Glucose level
 		- ECG, Cancer imaging
@@ -102,7 +103,7 @@
 		  | **Variability**    | Includes operator, environment, and equipment changes | Assumes identical operator, environment, and equipment |
 		  | **Purpose**        | Validates reliability across studies        | Validates precision in one setup          |
 			-
-	- ## Lecture 5
+	- # Lecture 5
 		- Review
 			- Data distribution
 			- Skewness, kurtosis
@@ -121,7 +122,7 @@
 			  | **Calculation Basis**            | Raw data values                  | Ranks of data values                   |
 			  | **Use Cases**                    | Measuring linear relationships in scientific or engineering data | Understanding ordinal or monotonic relationships in non-parametric data |
 			-
-- # Lecture [[Jan 23rd, 2025]]
+- # Lecture 6 [[Jan 23rd, 2025]]
 - Bland-altman plot for comparing tests or one test w.r.t golf standard
 - z table, t table, f table
 - 95% CI= 1.96 SD from z table
@@ -138,4 +139,7 @@
   | **Assumptions**     | Normal distribution, known variance.                                    | Normal distribution, independent samples, equal variances.   | Independent samples, variances are normally distributed.  |
   | **Test Statistic**  | \( Z = \frac{\bar{X} - \mu}{\sigma / \sqrt{n}} \)                       | \( t = \frac{\bar{X} - \mu}{s / \sqrt{n}} \)                | \( F = \frac{\text{Variance of group 1}}{\text{Variance of group 2}} \) |
   | **Applications**    | Hypothesis testing, quality control.                                    | Hypothesis testing, comparing means.                         | Analysis of Variance (ANOVA), regression analysis.         |
--
+- # Lecture 13 [[Feb 6th, 2025]]
+	- Dynamic Data
+		- Contrast Agent or Tracer
+		-
