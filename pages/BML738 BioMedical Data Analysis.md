@@ -142,4 +142,4 @@
 - # Lecture 13 [[Feb 6th, 2025]]
 	- Dynamic Data
 		- Contrast Agent or Tracer
-		-
+		- Glucose level
