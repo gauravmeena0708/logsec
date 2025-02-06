@@ -1,7 +1,7 @@
 # Lecture 1
 	- [[Data Analysis]]
 - # Lecture 2
-	- Exam ## Structure
+	- ## Exam Structure
 		- Minor 30
 		- Major 45
 		- Assignment 25
