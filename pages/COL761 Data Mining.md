@@ -136,6 +136,8 @@ collapsed:: true
 		- **Cluster** : for two points to be in same clusted. they must be densely connected
 		- for two points to be part of separate cluster, it should not be densely connected
 		- if a point is not dense and also not densely connected to any other core point, is outlier
+		- if a and be are densely connected, and a and c are densely connected, it is not necessary that b and c are densly connected
+		- **Example**: a-core1-b-core2-c
 		-
 		-
 		-
