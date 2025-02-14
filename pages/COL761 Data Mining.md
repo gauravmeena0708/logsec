@@ -135,6 +135,7 @@ collapsed:: true
 	- **DBSCAN** : Density based spatial clustering of applications with noise
 		- **Cluster** : for two points to be in same clusted. they must be densely connected
 		- for two points to be part of separate cluster, it should not be densely connected
+		- if a point is not dense and also not densely connected to any other core point, is outlier
 		-
 		-
 		-
