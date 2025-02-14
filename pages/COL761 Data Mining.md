@@ -120,4 +120,4 @@ collapsed:: true
 		- Automatically handles outliers
 	- DB scan
 		- Density based scans - find out all high density based regions
-		- inputs required -> maximum radius of neighbourhood, minimum number of points in neighbourhood
+		- inputs required -> maximum radius of neighborhood, minimum number of points in neighborhood
