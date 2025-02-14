@@ -110,4 +110,9 @@ collapsed:: true
 	- Prev class:
 		- Canonical labels
 - # Lecture [[Feb 14th, 2025]]
+	- Limitations of K means
+		- Convex shapes
+		- How do you select k?
+		- Non-homogenous cluster sizes
+		- Susceptibility to outliers
 	-
