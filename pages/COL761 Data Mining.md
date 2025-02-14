@@ -1,4 +1,5 @@
 # Lecture 1
+collapsed:: true
 	- ## Definition
 		- Extracting knowledge from the data - pattern, relationships
 		- overlaps with databases, ML, CS algo
@@ -31,6 +32,7 @@
 			- for N items $2^{n}-1$ combination of subset can be possible
 			-
 - # Lecture 2
+  collapsed:: true
 	- ## Apriori Principle
 		- If Itemset is frequent, all its subset must be frequent
 	- ## Association Rule mining
@@ -56,51 +58,56 @@
 		-
 - # Lecture 3
 - # Lecture 4
-- [[Jan 10th, 2025]]
-- Earlier algo: BFS -> Apriori Algo
-- New algo: DFS -  Frequent Pattern Tree Algo
-- ![Frequent Pattern Mining.pdf](../assets/Frequent_Pattern_Mining_1736504057586_0.pdf)
-- Read ((6780f312-526d-4617-9ed2-e8a8e8718f38))
-- while adding {B, C, D} we link the different Bs as it will help in making the conditional FP trees
-	- ((6780f596-09d2-4ec0-b50e-c914e4bbece2))
-	- Tree can be loaded into memory even if the dataset is large as tree reduces the size
-	- TODO What advantage will frequency based order  give?
-	- |**Node**|**Freq**|
-	  | -------- | ------- |
-	  | A  | 7   |
-	  | B | 8     |
-	  | C    | 7    |
-	  |D|5|
-	  |E|3|
-	- Start from lowest (least freq)->E and try to build all size 2, 3....
-		- Conditional FP Tree
-		- ((6780f9b6-12e4-472e-a73c-a449665e901d))
-		- Header file helps in going to the leaves that contain E
-		- In above B is deleted as B does not satisfy freq criteria (total sum of frequency is less than 2)
-		- Freq AE:2, CE:2, DE:2
-			- Use recursion to build conditional FP tree on D
-				- ((6780fc9c-6a64-42ec-9fce-46184acf5c7e))
-				- size 3-> ADE: 2
-					- Further try recursion but it ends hence returns null
-			- Use recursion to build conditional FP tree on C
-				- A gets prunned
-				- null
-			- Use recursion to build conditional FP tree on A
-				- null
-		- Check with conditional FP on D
-	- ### Benefit
-		- Access of dataset is only two times in FP Tree Algo, no candidate generation
-		- But in Apriori alg dataset access is multiple (k times for candidate of size k) times, no conditional FP tree
-	- #Homework Proove that sorting using freq will help in shorter tree
-	- #Homework Code FP tree and conditional FP via code
-	- #Homework whether candidate generation is faster or conditional FP tree
-- ## Lecture 5
-- [[Frequent SubGraph Mining]]
--
-- ## Lecture 6
+  collapsed:: true
+	- [[Jan 10th, 2025]]
+	- Earlier algo: BFS -> Apriori Algo
+	- New algo: DFS -  Frequent Pattern Tree Algo
+	- ![Frequent Pattern Mining.pdf](../assets/Frequent_Pattern_Mining_1736504057586_0.pdf)
+	- Read ((6780f312-526d-4617-9ed2-e8a8e8718f38))
+	- while adding {B, C, D} we link the different Bs as it will help in making the conditional FP trees
+		- ((6780f596-09d2-4ec0-b50e-c914e4bbece2))
+		- Tree can be loaded into memory even if the dataset is large as tree reduces the size
+		- TODO What advantage will frequency based order  give?
+		- |**Node**|**Freq**|
+		  | -------- | ------- |
+		  | A  | 7   |
+		  | B | 8     |
+		  | C    | 7    |
+		  |D|5|
+		  |E|3|
+		- Start from lowest (least freq)->E and try to build all size 2, 3....
+			- Conditional FP Tree
+			- ((6780f9b6-12e4-472e-a73c-a449665e901d))
+			- Header file helps in going to the leaves that contain E
+			- In above B is deleted as B does not satisfy freq criteria (total sum of frequency is less than 2)
+			- Freq AE:2, CE:2, DE:2
+				- Use recursion to build conditional FP tree on D
+					- ((6780fc9c-6a64-42ec-9fce-46184acf5c7e))
+					- size 3-> ADE: 2
+						- Further try recursion but it ends hence returns null
+				- Use recursion to build conditional FP tree on C
+					- A gets prunned
+					- null
+				- Use recursion to build conditional FP tree on A
+					- null
+			- Check with conditional FP on D
+		- ### Benefit
+			- Access of dataset is only two times in FP Tree Algo, no candidate generation
+			- But in Apriori alg dataset access is multiple (k times for candidate of size k) times, no conditional FP tree
+		- #Homework Proove that sorting using freq will help in shorter tree
+		- #Homework Code FP tree and conditional FP via code
+		- #Homework whether candidate generation is faster or conditional FP tree
+- # Lecture 5
+  collapsed:: true
+	- [[Frequent SubGraph Mining]]
+- # Lecture 6
+  collapsed:: true
 	- Isomorphic graphs -> Graph having similar structure
 	- Size of graph -> number of edges in graph
-- ## Lecture 7
-- ## Lecture 8 [[Jan 28th, 2025]]
+- # Lecture 7
+- # Lecture 8 [[Jan 28th, 2025]]
+  collapsed:: true
 	- Prev class:
 		- Canonical labels
+- # Lecture [[Feb 14th, 2025]]
+	-
