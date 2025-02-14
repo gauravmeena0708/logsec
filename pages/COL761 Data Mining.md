@@ -109,10 +109,13 @@ collapsed:: true
   collapsed:: true
 	- Prev class:
 		- Canonical labels
-- # Lecture [[Feb 14th, 2025]]
+- # Lecture 12 [[Feb 14th, 2025]]
 	- Limitations of K means
 		- Convex shapes
 		- How do you select k?
 		- Non-homogenous cluster sizes
 		- Susceptibility to outliers
-	-
+	- Density based algorithms
+		- Automatically determine k
+		- Automatically handles outliers
+		-
