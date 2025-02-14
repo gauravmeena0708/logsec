@@ -109,6 +109,9 @@ collapsed:: true
   collapsed:: true
 	- Prev class:
 		- Canonical labels
+- # Lecture 9
+- # Lecture 10
+- # Lecture 11
 - # Lecture 12 [[Feb 14th, 2025]]
 	- Limitations of K means
 		- Convex shapes
@@ -121,3 +124,8 @@ collapsed:: true
 	- DB scan
 		- Density based scans - find out all high density based regions
 		- inputs required -> maximum radius of neighborhood, minimum number of points in neighborhood
+		- **Directly density reachable**: if two points are directly reachable through sequential series of points in dense areas
+		- if P1, P2, P3 are density reachable to Pn ... all points P1, P2, P3 have to be core points
+		-
+		-
+		-
