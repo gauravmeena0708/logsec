@@ -125,6 +125,7 @@ collapsed:: true
 		- Density based scans - find out all high density based regions
 		- inputs required -> maximum radius of neighborhood(EPS), minimum number of points in neighborhood(minpts)
 		- **Directly density reachable**: if two points are directly reachable through sequential series of points in dense areas
+		- **Density connected** : two points are density connected if they are density reachable from a common core point
 		- Core point: if a point has  >= Minpts points in radius EPS
 		- if P1, P2, P3 are density reachable to Pn ... all points P1, P2, P3 have to be core points
 		-
