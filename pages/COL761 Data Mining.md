@@ -129,7 +129,7 @@ collapsed:: true
 			- two points can be density connected but not necessarily density reachable P1-core-P2
 			- but if two points density reachable -> they are density connected core1-core2-core3
 			- Density reachble is not symmetric relationship but
-			- Density connected is symmetric
+			- Density connected is symmetric relationship
 		- Core point: if a point has  >= Minpts points in radius EPS
 		- if P1, P2, P3 are density reachable to Pn ... all points P1, P2, P3 have to be core points
 		-
