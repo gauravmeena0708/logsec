@@ -118,4 +118,5 @@ collapsed:: true
 	- Density based algorithms
 		- Automatically determine k
 		- Automatically handles outliers
-		-
+	- DB scan
+		- Density based scans - find out all high density based regions
