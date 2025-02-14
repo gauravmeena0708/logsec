@@ -132,6 +132,10 @@ collapsed:: true
 			- Density connected is symmetric relationship
 		- Core point: if a point has  >= Minpts points in radius EPS
 		- if P1, P2, P3 are density reachable to Pn ... all points P1, P2, P3 have to be core points
+	- **DBSCAN** : Density based spatial clustering of applications with noise
+		- **Cluster** : for two points to be in same clusted. they must be densely connected
+		- for two points to be part of separate cluster, it should not be densely connected
+		-
 		-
 		-
 		-
