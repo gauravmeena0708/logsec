@@ -5,10 +5,13 @@
 	- https://web.stanford.edu/~jurafsky/slp3/
 	- TA : Sahil Mishra, Aswini, Anwoy, Vaibhav
 	- Libraries nltk, sk-learn, Spacy, Stanza, Shallow Parser (Indian Language), Universal Parser(Multi-lingual), CMU ARK, Stanford CoreNLP
-	- Books
-		- Speech Language Processing by Daniel Jurafsky
-		- Introduction to large Language Models by Tanmoy Chakraborty
+		- Useful rescources->
+		- ((67b051d3-9c53-4498-9cd3-268975ee8efd))
 		-
+		- Books
+			- Speech Language Processing by Daniel Jurafsky
+			- Introduction to large Language Models by Tanmoy Chakraborty
+			-
 	- {{video https://www.youtube.com/watch?v=808M7q8QX0E&list=PLaZQkZp6WhWyvdiP49JG-rjyTPck_hvEu&index=1}}
 	- regexpal.com, book link - https://web.stanford.edu/~jurafsky/slp3/ed3bookaug20_2024.pdf
 	- {{youtube-timestamp 16}}
