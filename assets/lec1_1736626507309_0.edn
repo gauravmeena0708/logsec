@@ -75,4 +75,4 @@
                           :page 9},
                :content {:text "Natural Language Toolkit (NLTK)• Stanford CoreNLP• CMU ARK for Noisy Text• Scikit-learn• Spacy• Stanza• Shallow Parser - for Indian Language• Universal Parser - Multi-lingual• HuggingFace9"},
                :properties {:color "yellow"}}],
- :extra {:page 41}}
+ :extra {:page 47}}
