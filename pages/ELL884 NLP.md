@@ -14,7 +14,9 @@
 			- Speech Language Processing by Daniel Jurafsky
 			- Introduction to large Language Models by Tanmoy Chakraborty
 	- **What is NL** : language ->evolved naturally in humans -> through use and repetition -> without concious planning and pre-meditation
-	- **NLP**: a field concerned with
+	- **NLP(processing)**: a field concerned with interactions b/w comp and human languages.
+	- Turing test -> was related to NLP
+	-
 	- {{video https://www.youtube.com/watch?v=808M7q8QX0E&list=PLaZQkZp6WhWyvdiP49JG-rjyTPck_hvEu&index=1}}
 	- regexpal.com, book link - https://web.stanford.edu/~jurafsky/slp3/ed3bookaug20_2024.pdf
 	- {{youtube-timestamp 16}}
