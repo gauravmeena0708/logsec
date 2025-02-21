@@ -58,7 +58,6 @@ collapsed:: true
 		-
 - # Lecture 3
 - # Lecture 4
-  collapsed:: true
 	- [[Jan 10th, 2025]]
 	- Earlier algo: BFS -> Apriori Algo
 	- New algo: DFS -  Frequent Pattern Tree Algo
