@@ -58,6 +58,7 @@ collapsed:: true
 		-
 - # Lecture 3
 - # Lecture 4
+  collapsed:: true
 	- [[Jan 10th, 2025]]
 	- Earlier algo: BFS -> Apriori Algo
 	- New algo: DFS -  Frequent Pattern Tree Algo
@@ -97,8 +98,10 @@ collapsed:: true
 		- #Homework Code FP tree and conditional FP via code
 		- #Homework whether candidate generation is faster or conditional FP tree
 - # Lecture 5
+  collapsed:: true
 	- [[Frequent SubGraph Mining]]
 - # Lecture 6
+  collapsed:: true
 	- Isomorphic graphs -> Graph having similar structure
 	- Size of graph -> number of edges in graph
 - # Lecture 7
@@ -110,6 +113,7 @@ collapsed:: true
 - # Lecture 10
 - # Lecture 11
 - # Lecture 12 [[Feb 14th, 2025]]
+  collapsed:: true
 	- Limitations of K means
 		- Convex shapes
 		- How do you select k?
