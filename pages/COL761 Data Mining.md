@@ -113,7 +113,6 @@ collapsed:: true
 - # Lecture 10
 - # Lecture 11
 - # Lecture 12 [[Feb 14th, 2025]]
-  collapsed:: true
 	- Limitations of K means
 		- Convex shapes
 		- How do you select k?
