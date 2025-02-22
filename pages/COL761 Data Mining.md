@@ -111,7 +111,20 @@ collapsed:: true
 		- Canonical labels
 - # Lecture 9 [[Feb 4th, 2025]]
 	- gSpan
-		- Benefits of
+		- Benefits of gSpan
+			- Detect duplicate without any searching
+			- Using canonical labelling minimize DFS code
+		- Process to compare dfs1 and dfs2
+			- compare tuple by tuple
+			- find out smaller dfs -> first timestamp compare -> then label compare
+		- DFS with canonical labelling
+		- A B 1 2 is deeper hence smaller than A B 0 2 as 2 is discovered later
+			- 0 A    compared with 0 A
+			      |                                  |    \
+			  1  A                              1 A   2 B
+			      |
+			  2  B
+			-
 - # Lecture 10 [[Feb 7th, 2025]]
 - # Lecture 11 [[Feb 11th, 2025]]
 - # Lecture 12 [[Feb 14th, 2025]]
