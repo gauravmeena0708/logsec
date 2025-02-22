@@ -31,7 +31,7 @@ collapsed:: true
 				- if item A has not crossed s, A->B will not be counted
 			- for N items $2^{n}-1$ combination of subset can be possible
 			-
-- # Lecture 2 [[Jan 9th, 2025]]
+- # Lecture 2 [[Jan 10th, 2025]]
   collapsed:: true
 	- ## Apriori Principle
 		- If Itemset is frequent, all its subset must be frequent
@@ -58,7 +58,7 @@ collapsed:: true
 		-
 - # Lecture 3 [[Jan 13th, 2025]]
 	-
-- # Lecture 4 [[Jan 16th, 2025]]
+- # Lecture 4 [[Jan 17th, 2025]]
 	- [[Jan 10th, 2025]]
 	- Earlier algo: BFS -> Apriori Algo
 	- New algo: DFS -  Frequent Pattern Tree Algo
@@ -97,21 +97,23 @@ collapsed:: true
 		- #Homework Proove that sorting using freq will help in shorter tree
 		- #Homework Code FP tree and conditional FP via code
 		- #Homework whether candidate generation is faster or conditional FP tree
-- # Lecture 5
+- # Lecture 5 [[Jan 20th, 2025]]
   collapsed:: true
 	- [[Frequent SubGraph Mining]]
-- # Lecture 6
+- # Lecture 6 [[Jan 24rd, 2025]]
   collapsed:: true
 	- Isomorphic graphs -> Graph having similar structure
 	- Size of graph -> number of edges in graph
 - # Lecture 7
-- # Lecture 8 [[Jan 28th, 2025]]
+- # Lecture 8 [[Jan 28th, 2025]] [[Jan 31th, 2025]]
   collapsed:: true
 	- Prev class:
 		- Canonical labels
-- # Lecture 9
-- # Lecture 10
-- # Lecture 11
+- # Lecture 9 [[Feb 4th, 2025]]
+	- gSpan
+		- Benefits of
+- # Lecture 10 [[Feb 7th, 2025]]
+- # Lecture 11 [[Feb 11th, 2025]]
 - # Lecture 12 [[Feb 14th, 2025]]
   collapsed:: true
 	- Limitations of K means
