@@ -1,4 +1,4 @@
-# Lecture 1
+# Lecture 1 [[Jan 6th, 2025]]
 collapsed:: true
 	- ## Definition
 		- Extracting knowledge from the data - pattern, relationships
@@ -31,7 +31,7 @@ collapsed:: true
 				- if item A has not crossed s, A->B will not be counted
 			- for N items $2^{n}-1$ combination of subset can be possible
 			-
-- # Lecture 2
+- # Lecture 2 [[Jan 9th, 2025]]
   collapsed:: true
 	- ## Apriori Principle
 		- If Itemset is frequent, all its subset must be frequent
@@ -56,9 +56,9 @@ collapsed:: true
 	- Frequent Itemset mining needs more memory and can not be done in RAM
 	- Association rule mining can be done with less memory and with RAM
 		-
-- # Lecture 3
-- # Lecture 4
-  collapsed:: true
+- # Lecture 3 [[Jan 13th, 2025]]
+	-
+- # Lecture 4 [[Jan 16th, 2025]]
 	- [[Jan 10th, 2025]]
 	- Earlier algo: BFS -> Apriori Algo
 	- New algo: DFS -  Frequent Pattern Tree Algo
@@ -113,6 +113,7 @@ collapsed:: true
 - # Lecture 10
 - # Lecture 11
 - # Lecture 12 [[Feb 14th, 2025]]
+  collapsed:: true
 	- Limitations of K means
 		- Convex shapes
 		- How do you select k?
