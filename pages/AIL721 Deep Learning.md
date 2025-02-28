@@ -119,4 +119,30 @@
 	- ![L_9_10.pdf](../assets/L_9_10_1740764147782_0.pdf)
 	- Model Performance
 		- overfitting
-		- Linearity of Expectati
+		- Linearity of Expectation - The **Linearity of Expectation** states that the expectation (or expected value) of the sum of random variables is equal to the sum of their individual expectations, regardless of whether the variables are independent.
+	- Ways to Reduce variance -> Reduce Bias
+	- Reduce Bias -> Complex model,
+	- Bias Variance Trade-off
+		- Bias - Simple model,
+		- Variance - Complex model
+	- Regularization -> reduce the generalization gap between training and testing error
+		- If param is not desired the regularization component should take higher value
+		- L2 norm
+			- Encourages smaller weights
+			- Leads to smoother functions
+			- alleviate overfitting
+			- Generalize for test
+- # Lecture 10 [[Jan 24th, 2025]]
+	- Implicit Regularization
+		- Early stopping
+		- Ensembling - Similar to Dropout
+		- Dropout
+		- Apply Noise
+- # Lecture 11 [[Jan 28th, 2025]]
+	- Computer Vision
+		- Image classification
+		- Object detection
+		- Image segmentation
+		- Caption generation
+	- Problems
+		- Too many params -> Inductive bias
