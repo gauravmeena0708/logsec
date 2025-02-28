@@ -78,6 +78,7 @@
 	-
 - # Lecture 5
 	- [[Jan 15th, 2025]]
-	-
+	- Generative models use MAP (Maximum aposteriori Probablity)
+		- MAP vs MLE
 -
 -
