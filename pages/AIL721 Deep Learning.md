@@ -138,11 +138,25 @@
 		- Ensembling - Similar to Dropout
 		- Dropout
 		- Apply Noise
-- # Lecture 11 [[Jan 28th, 2025]]
+- # Lecture 11 [[Jan 28th, 2025]] Computer vision
+	- ![L_11.pdf](../assets/L_11_1740765150547_0.pdf)
 	- Computer Vision
 		- Image classification
 		- Object detection
 		- Image segmentation
 		- Caption generation
 	- Problems
-		- Too many params -> Inductive bias
+		- Too many params ->
+			- Solution: **Inductive bias**
+				- weight sharing,
+				- hierarchy,
+				- locality of pixels,
+				- Invariant to translation
+				- Equivalent to Translation
+	- Kernal Filter - size, stride, padding dialation
+	- Formula of $size=\frac{n+2p-D\left(f-1\right)+1}{s}+1$
+	- **Translation Equivariance** : Generalize concepts learned in one path of an image to other parts -> eye pixel
+- # Lecture 12 [[Feb 4th, 2025]] Computer Vision
+	- ![L_12.pdf](../assets/L_12_1740765294081_0.pdf)
+-
+-
