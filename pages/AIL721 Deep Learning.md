@@ -107,12 +107,14 @@
 	- Minimize using GDA
 		- Line search - search along line
 		- Trust Region - search along area
-	- Ways to avoid bad minima
+	- Ways to avoid bad minima & Saddle points
 		- Momentum
 		- Learning Rate
 		- Normalize the gradient
 		- Batch Normalization - fixes vanishing and exploding gradients
 		- Normalization, however, sometimes reduce degree of freedom/representation capacity of hidden
-		-
-		-
-		-
+- # Lecture 8 [[Jan 21st, 2025]]
+	- ![L_9_10.pdf](../assets/L_9_10_1740764147782_0.pdf)
+- # Lecture 9 [[Jan 22nd, 2025]]
+	- ![L_9_10.pdf](../assets/L_9_10_1740764147782_0.pdf)
+	-
