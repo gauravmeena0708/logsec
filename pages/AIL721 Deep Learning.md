@@ -66,6 +66,8 @@
 - Deep Network Params
 - ((67c1e30c-ca6c-4022-b6a8-ad1b110711e9))
 - Optimization
+	- Loss function for regression
+	- ((67c1e379-0057-483d-b317-1b3b564e6677))
 	-
 - # Lecture 5
 	- [[Jan 15th, 2025]]
