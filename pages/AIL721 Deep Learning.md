@@ -151,12 +151,27 @@
 				- weight sharing,
 				- hierarchy,
 				- locality of pixels,
-				- Invariant to translation
+				- Invariant to translation - invariant to small changes in position
 				- Equivalent to Translation
+			- **Pooling** help in translation invariance
+			- **Convolution layer** help in translation equivariance
+			-
+			-
 	- Kernal Filter - size, stride, padding dialation
 	- Formula of $size=\frac{n+2p-D\left(f-1\right)+1}{s}+1$
-	- **Translation Equivariance** : Generalize concepts learned in one path of an image to other parts -> eye pixel
+	- **Translation Equivariance** : Generalize concepts learned in one path of an image to other parts -> eye pixels in one location should be same in other location.
+	- Question:
+	- ((67c1f9f5-4fb5-4668-a7c9-43b56338add3))
+	- Solution:
+		- Layer 1 : 4+4(out channels)\*3(in channels)\*3\*3 = 108 + 4
+		- Layer 2: 10+10(out channels)\*4(in channels)*5*5=1000+10
 - # Lecture 12 [[Feb 4th, 2025]] Computer Vision
 	- ![L_12.pdf](../assets/L_12_1740765294081_0.pdf)
--
--
+	- Application of CNN
+		- Image classification
+		- Object Detection and localization
+		- Image Segmentation - Downsampling -> Upsampling
+	- Image net competition
+	- Residual Networks
+	- Sequential Processing
+	-
