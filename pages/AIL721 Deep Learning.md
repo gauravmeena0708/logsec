@@ -68,6 +68,13 @@
 - Optimization
 	- Loss function for regression
 	- ((67c1e379-0057-483d-b317-1b3b564e6677))
+	- Given normal distribution ((67c1e5ba-72a6-4e05-9c37-550889440829))
+	- The optimum parameters derived are
+	- ((67c1e5d8-78cb-4bce-91b7-be56098718f4))
+	- For Binary Classification or bernaulli distribution
+	- ((67c1e63d-1514-4355-8aae-f95ede0fe754))
+	- Loss function
+	- ((67c1e67d-6c40-4fd7-8e6b-3d8d39ade8a5))
 	-
 - # Lecture 5
 	- [[Jan 15th, 2025]]
