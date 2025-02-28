@@ -80,5 +80,29 @@
 	- [[Jan 15th, 2025]]
 	- Generative models use MAP (Maximum aposteriori Probablity)
 		- MAP vs MLE
--
+		- MAP -> $P\left(\theta\left|Data\right|\right)=P\left(Data\left|\theta\right.\right).P\left(\theta\right)$
+		- Posterior = Likelihood*Prior
+		- Applying MAP on binary classification and probabilistic model
+- # Lecture 6
+	- Entropy
+		- $H\left(x\right)=-\sum_{x}^{}P\left(x\right)\log_2P\left(x\right)$
+	- Dirac Delta Function
+	- KL Divergence
+	- Homework: Prove negative likelihood loss is equal to Cross entropy loss
+		- **Summary: Negative Log-Likelihood (NLL) Loss = Cross-Entropy Loss**
+		- The probability of class kk given input xx is modeled using softmax:
+		  $P(y=k∣x;W)=ewkTx∑j=1KewjTxP(y = k | x; W) = \frac{e^{w_k^T x}}{\sum_{j=1}^{K} e^{w_j^T x}}$
+		-
+		- The **Negative Log-Likelihood (NLL) Loss** is:
+		  $LNLL(W)=−∑i=1Nlog⁡P(yi∣xi;W)L_{\text{NLL}}(W) = -\sum_{i=1}^{N} \log P(y_i | x_i; W)$
+		-
+		- The **Cross-Entropy Loss** is:
+		  $LCE(W)=−∑i=1N∑k=1Kyi,klog⁡P(y=k∣xi;W)L_{\text{CE}}(W) = -\sum_{i=1}^{N} \sum_{k=1}^{K} y_{i,k} \log P(y = k | x_i; W)$
+			- Since one-hot encoding ensures only the correct class contributes:
+			  LCE(W)=−∑i=1Nlog⁡P(yi∣xi;W)L_{\text{CE}}(W) = -\sum_{i=1}^{N} \log P(y_i | x_i; W)
+			  
+			  Thus, **NLL loss and Cross-Entropy loss are identical** when using softmax for classification.
+			  
+			  Would you like a Python snippet for verification? 🚀
+		-
 -
