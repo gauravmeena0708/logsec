@@ -175,7 +175,14 @@
 	- Residual Networks - helps to avoid Shattered gradients(chaotic fluctuation in deep network)
 	- ((67c1fc9a-3f0a-49f1-ac01-2842b1ae80a9))
 	- Networks with residual links suffer less from shattered gradients
-- # Lecture 13 [[Feb 4th, 2025]] NLP
-	-
 	- Sequential Processing
+- # Lecture 13 [[Feb 4th, 2025]] NLP
+	- Textual embedding
+		- oneHot Encoding
+		- Word Embedding
+		- word similarity
+	- Text Representation -> word are represented as vector embeddings
+	- Two kind of Embedding
+		- Tf-idf
+		- Word2vec
 	-
