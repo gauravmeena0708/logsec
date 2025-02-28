@@ -117,4 +117,6 @@
 	- ![L_9_10.pdf](../assets/L_9_10_1740764147782_0.pdf)
 - # Lecture 9 [[Jan 22nd, 2025]]
 	- ![L_9_10.pdf](../assets/L_9_10_1740764147782_0.pdf)
-	-
+	- Model Performance
+		- overfitting
+		- Linearity of Expectati
