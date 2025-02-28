@@ -92,17 +92,27 @@
 		- **Summary: Negative Log-Likelihood (NLL) Loss = Cross-Entropy Loss**
 		- The probability of class kk given input xx is modeled using softmax:
 		  $P(y=k∣x;W)=ewkTx∑j=1KewjTxP(y = k | x; W) = \frac{e^{w_k^T x}}{\sum_{j=1}^{K} e^{w_j^T x}}$
-		-
 		- The **Negative Log-Likelihood (NLL) Loss** is:
 		  $LNLL(W)=−∑i=1Nlog⁡P(yi∣xi;W)L_{\text{NLL}}(W) = -\sum_{i=1}^{N} \log P(y_i | x_i; W)$
-		-
 		- The **Cross-Entropy Loss** is:
 		  $LCE(W)=−∑i=1N∑k=1Kyi,klog⁡P(y=k∣xi;W)L_{\text{CE}}(W) = -\sum_{i=1}^{N} \sum_{k=1}^{K} y_{i,k} \log P(y = k | x_i; W)$
-			- Since one-hot encoding ensures only the correct class contributes:
-			  LCE(W)=−∑i=1Nlog⁡P(yi∣xi;W)L_{\text{CE}}(W) = -\sum_{i=1}^{N} \log P(y_i | x_i; W)
-			  
-			  Thus, **NLL loss and Cross-Entropy loss are identical** when using softmax for classification.
-			  
-			  Would you like a Python snippet for verification? 🚀
+		- Since one-hot encoding ensures only the correct class contributes:
+		  $LCE(W)=−∑i=1Nlog⁡P(yi∣xi;W)L_{\text{CE}}(W) = -\sum_{i=1}^{N} \log P(y_i | x_i; W)$
+		- Thus, **NLL loss and Cross-Entropy loss are identical** when using softmax for classification.
+		  
+		  Would you like a Python snippet for verification? 🚀
 		-
--
+- # Lecture 7 - Optimization
+	- ![L_7_8.pdf](../assets/L_7_8_1740763433241_0.pdf)
+	- Minimize using GDA
+		- Line search - search along line
+		- Trust Region - search along area
+	- Ways to avoid bad minima
+		- Momentum
+		- Learning Rate
+		- Normalize the gradient
+		- Batch Normalization - fixes vanishing and exploding gradients
+		- Normalization, however, sometimes reduce degree of freedom/representation capacity of hidden
+		-
+		-
+		-
