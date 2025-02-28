@@ -60,7 +60,13 @@
 	- TODO Check python package Visualtorch and torchview
 - # Lecture 4
 - in notebook [[Jan 10th, 2025]]
--
+- ![L_4_5_6.pdf](../assets/L_4_5_6_1740759750982_0.pdf)
+- Shallow network parameters
+- ((67c1e2f6-1a59-4e0d-af70-7f37fc1dbf80))
+- Deep Network Params
+- ((67c1e30c-ca6c-4022-b6a8-ad1b110711e9))
+- Optimization
+	-
 - # Lecture 5
 	- [[Jan 15th, 2025]]
 	-
