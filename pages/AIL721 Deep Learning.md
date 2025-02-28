@@ -165,13 +165,17 @@
 	- Solution:
 		- Layer 1 : 4+4(out channels)\*3(in channels)\*3\*3 = 108 + 4
 		- Layer 2: 10+10(out channels)\*4(in channels)*5*5=1000+10
-- # Lecture 12 [[Feb 4th, 2025]] Computer Vision
+- # Lecture 12 [[Jan 30th, 2025]] Computer Vision
 	- ![L_12.pdf](../assets/L_12_1740765294081_0.pdf)
 	- Application of CNN
 		- Image classification
 		- Object Detection and localization
 		- Image Segmentation - Downsampling -> Upsampling
 	- Image net competition
-	- Residual Networks
+	- Residual Networks - helps to avoid Shattered gradients(chaotic fluctuation in deep network)
+	- ((67c1fc9a-3f0a-49f1-ac01-2842b1ae80a9))
+	- Networks with residual links suffer less from shattered gradients
+- # Lecture 13 [[Feb 4th, 2025]] NLP
+	-
 	- Sequential Processing
 	-

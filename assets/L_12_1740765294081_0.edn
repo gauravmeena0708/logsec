@@ -61,5 +61,17 @@
                                    :height 449.4375}),
                           :page 10},
                :content {:text "Image Segmentation Downsampling Upsampling[Image from Bishop 2024 DL Book]"},
+               :properties {:color "red"}}
+              {:id #uuid "67c1fc9a-3f0a-49f1-ac01-2842b1ae80a9",
+               :page 28,
+               :position {:bounding {:x1 387,
+                                     :y1 285,
+                                     :x2 793,
+                                     :y2 427,
+                                     :width 799,
+                                     :height 449.4375},
+                          :rects (),
+                          :page 28},
+               :content {:text "[:span]", :image 1740766361068},
                :properties {:color "red"}}],
- :extra {:page 22}}
+ :extra {:page 35}}
