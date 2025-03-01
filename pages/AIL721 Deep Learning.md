@@ -185,4 +185,8 @@
 	- Two kind of Embedding
 		- Tf-idf
 		- Word2vec
-	-
+- # Lecture 14 [[Feb 7th, 2025]]
+- # Lecture 15 [[Feb 11th, 2025]]
+- # Lecture 16 [[Feb 14th, 2025]]
+- # Lecture 17 [[Feb 18th, 2025]]
+-
