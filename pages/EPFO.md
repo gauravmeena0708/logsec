@@ -3,11 +3,37 @@
 		- Database is not centralised
 		- Double entry book keeping system not in place
 		- Old Fragmented Policies and Manual of accounting Procedure
-	- ## Policy
-		- Adhoc Policy making - There is no policy of policy making.
-		- Circulars - No version control.  Irrational changes.
-		- Policy Circulars should have a standard format and should convey in What document "Which words" have been replaced with "Which words"
-		- Rules - Hard to understand by common man. Need of experts or consultant
+	## Policy Management
+		### Problems
+
+		- **Lack of Policy Governance:**
+			-  There is no formal process for creating, reviewing, or approving policies.
+			- This leads to inconsistent, ad-hoc policy creation, causing confusion and inefficiency.
+		- **Circular Management:**
+			- Circulars lack version control, making it difficult to track changes and understand the current policy.
+			- Policy changes are made without a formal review process, leading to issues and inconsistencies.
+			- Changes done without impact analysis.
+			- Circulars are often changed without any reference to the document they are changing.
+		- **Complex Language:**
+			- Policy documents and rules are written in a complex, legalistic style that is difficult for the average person to understand.
+			- This requires people to consult with experts.
+		### Ideas
+		- **Policy Development Framework:**
+			- Create a formal policy for policy creation, including steps for drafting, review, approval, and communication. (Addresses "Lack of Policy Governance" and part of "Circular Management".)
+		- **Version Control System:**
+			- Implement a version control system for all policy documents and circulars. (Addresses "Circular Management".)
+		- **Standardized Circular Format:**
+			- Develop a standard format for circulars that clearly indicates:
+				- The document being amended.
+				- The previous text and the new text. (Addresses "Circular Management".)
+				- The author of change.
+				- The approver of change.
+				- The impact analysis document link.
+		- **Plain Language Drafting:**
+			- Establish guidelines for writing policy documents and rules in clear, concise language, avoiding unnecessary legal jargon.
+		- **Impact Analysis:**
+			- Implement a change impact analysis policy for any policy/circular change.
+
 	- ## Establishment Identity Verification
 		- A pensioner getting pension of 1000 Rs. per month has to file LC every year.
 		- But there is no proper system for ensuring identity and running condition of Establishment.

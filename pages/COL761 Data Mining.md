@@ -1,4 +1,4 @@
-# Lecture 1
+# Lecture 1 [[Jan 6th, 2025]]
 collapsed:: true
 	- ## Definition
 		- Extracting knowledge from the data - pattern, relationships
@@ -31,7 +31,7 @@ collapsed:: true
 				- if item A has not crossed s, A->B will not be counted
 			- for N items $2^{n}-1$ combination of subset can be possible
 			-
-- # Lecture 2
+- # Lecture 2 [[Jan 10th, 2025]]
   collapsed:: true
 	- ## Apriori Principle
 		- If Itemset is frequent, all its subset must be frequent
@@ -56,9 +56,9 @@ collapsed:: true
 	- Frequent Itemset mining needs more memory and can not be done in RAM
 	- Association rule mining can be done with less memory and with RAM
 		-
-- # Lecture 3
-- # Lecture 4
-  collapsed:: true
+- # Lecture 3 [[Jan 13th, 2025]]
+	-
+- # Lecture 4 [[Jan 17th, 2025]]
 	- [[Jan 10th, 2025]]
 	- Earlier algo: BFS -> Apriori Algo
 	- New algo: DFS -  Frequent Pattern Tree Algo
@@ -97,22 +97,38 @@ collapsed:: true
 		- #Homework Proove that sorting using freq will help in shorter tree
 		- #Homework Code FP tree and conditional FP via code
 		- #Homework whether candidate generation is faster or conditional FP tree
-- # Lecture 5
+- # Lecture 5 [[Jan 20th, 2025]]
   collapsed:: true
 	- [[Frequent SubGraph Mining]]
-- # Lecture 6
+- # Lecture 6 [[Jan 24rd, 2025]]
   collapsed:: true
 	- Isomorphic graphs -> Graph having similar structure
 	- Size of graph -> number of edges in graph
 - # Lecture 7
-- # Lecture 8 [[Jan 28th, 2025]]
+- # Lecture 8 [[Jan 28th, 2025]] [[Jan 31th, 2025]]
   collapsed:: true
 	- Prev class:
 		- Canonical labels
-- # Lecture 9
-- # Lecture 10
-- # Lecture 11
+- # Lecture 9 [[Feb 4th, 2025]]
+	- gSpan
+		- Benefits of gSpan
+			- Detect duplicate without any searching
+			- Using canonical labelling minimize DFS code
+		- Process to compare dfs1 and dfs2
+			- compare tuple by tuple
+			- find out smaller dfs -> first timestamp compare -> then label compare
+		- DFS with canonical labelling
+		- A B 1 2 is deeper hence smaller than A B 0 2 as 2 is discovered later
+			- 0 A    compared with 0 A
+			      |                                  |    \
+			  1  A                              1 A   2 B
+			      |
+			  2  B
+			-
+- # Lecture 10 [[Feb 7th, 2025]]
+- # Lecture 11 [[Feb 11th, 2025]]
 - # Lecture 12 [[Feb 14th, 2025]]
+  collapsed:: true
 	- Limitations of K means
 		- Convex shapes
 		- How do you select k?

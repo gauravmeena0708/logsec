@@ -60,9 +60,129 @@
 	- TODO Check python package Visualtorch and torchview
 - # Lecture 4
 - in notebook [[Jan 10th, 2025]]
--
+- ![L_4_5_6.pdf](../assets/L_4_5_6_1740759750982_0.pdf)
+- Shallow network parameters
+- ((67c1e2f6-1a59-4e0d-af70-7f37fc1dbf80))
+- Deep Network Params
+- ((67c1e30c-ca6c-4022-b6a8-ad1b110711e9))
+- Optimization
+	- Loss function for regression
+	- ((67c1e379-0057-483d-b317-1b3b564e6677))
+	- Given normal distribution ((67c1e5ba-72a6-4e05-9c37-550889440829))
+	- The optimum parameters derived are
+	- ((67c1e5d8-78cb-4bce-91b7-be56098718f4))
+	- For Binary Classification or bernaulli distribution
+	- ((67c1e63d-1514-4355-8aae-f95ede0fe754))
+	- Loss function
+	- ((67c1e67d-6c40-4fd7-8e6b-3d8d39ade8a5))
+	-
 - # Lecture 5
 	- [[Jan 15th, 2025]]
+	- Generative models use MAP (Maximum aposteriori Probablity)
+		- MAP vs MLE
+		- MAP -> $P\left(\theta\left|Data\right|\right)=P\left(Data\left|\theta\right.\right).P\left(\theta\right)$
+		- Posterior = Likelihood*Prior
+		- Applying MAP on binary classification and probabilistic model
+- # Lecture 6
+	- Entropy
+		- $H\left(x\right)=-\sum_{x}^{}P\left(x\right)\log_2P\left(x\right)$
+	- Dirac Delta Function
+	- KL Divergence
+	- Homework: Prove negative likelihood loss is equal to Cross entropy loss
+		- **Summary: Negative Log-Likelihood (NLL) Loss = Cross-Entropy Loss**
+		- The probability of class kk given input xx is modeled using softmax:
+		  $P(y=k∣x;W)=ewkTx∑j=1KewjTxP(y = k | x; W) = \frac{e^{w_k^T x}}{\sum_{j=1}^{K} e^{w_j^T x}}$
+		- The **Negative Log-Likelihood (NLL) Loss** is:
+		  $LNLL(W)=−∑i=1Nlog⁡P(yi∣xi;W)L_{\text{NLL}}(W) = -\sum_{i=1}^{N} \log P(y_i | x_i; W)$
+		- The **Cross-Entropy Loss** is:
+		  $LCE(W)=−∑i=1N∑k=1Kyi,klog⁡P(y=k∣xi;W)L_{\text{CE}}(W) = -\sum_{i=1}^{N} \sum_{k=1}^{K} y_{i,k} \log P(y = k | x_i; W)$
+		- Since one-hot encoding ensures only the correct class contributes:
+		  $LCE(W)=−∑i=1Nlog⁡P(yi∣xi;W)L_{\text{CE}}(W) = -\sum_{i=1}^{N} \log P(y_i | x_i; W)$
+		- Thus, **NLL loss and Cross-Entropy loss are identical** when using softmax for classification.
+		  
+		  Would you like a Python snippet for verification? 🚀
+		-
+- # Lecture 7 - Optimization
+	- ![L_7_8.pdf](../assets/L_7_8_1740763433241_0.pdf)
+	- Minimize using GDA
+		- Line search - search along line
+		- Trust Region - search along area
+	- Ways to avoid bad minima & Saddle points
+		- Momentum
+		- Learning Rate
+		- Normalize the gradient
+		- Batch Normalization - fixes vanishing and exploding gradients
+		- Normalization, however, sometimes reduce degree of freedom/representation capacity of hidden
+- # Lecture 8 [[Jan 21st, 2025]]
+	- ![L_9_10.pdf](../assets/L_9_10_1740764147782_0.pdf)
+- # Lecture 9 [[Jan 22nd, 2025]]
+	- ![L_9_10.pdf](../assets/L_9_10_1740764147782_0.pdf)
+	- Model Performance
+		- overfitting
+		- Linearity of Expectation - The **Linearity of Expectation** states that the expectation (or expected value) of the sum of random variables is equal to the sum of their individual expectations, regardless of whether the variables are independent.
+	- Ways to Reduce variance -> Reduce Bias
+	- Reduce Bias -> Complex model,
+	- Bias Variance Trade-off
+		- Bias - Simple model,
+		- Variance - Complex model
+	- Regularization -> reduce the generalization gap between training and testing error
+		- If param is not desired the regularization component should take higher value
+		- L2 norm
+			- Encourages smaller weights
+			- Leads to smoother functions
+			- alleviate overfitting
+			- Generalize for test
+- # Lecture 10 [[Jan 24th, 2025]]
+	- Implicit Regularization
+		- Early stopping
+		- Ensembling - Similar to Dropout
+		- Dropout
+		- Apply Noise
+- # Lecture 11 [[Jan 28th, 2025]] Computer vision
+	- ![L_11.pdf](../assets/L_11_1740765150547_0.pdf)
+	- Computer Vision
+		- Image classification
+		- Object detection
+		- Image segmentation
+		- Caption generation
+	- Problems
+		- Too many params ->
+			- Solution: **Inductive bias**
+				- weight sharing,
+				- hierarchy,
+				- locality of pixels,
+				- Invariant to translation - invariant to small changes in position
+				- Equivalent to Translation
+			- **Pooling** help in translation invariance
+			- **Convolution layer** help in translation equivariance
+			-
+			-
+	- Kernal Filter - size, stride, padding dialation
+	- Formula of $size=\frac{n+2p-D\left(f-1\right)+1}{s}+1$
+	- **Translation Equivariance** : Generalize concepts learned in one path of an image to other parts -> eye pixels in one location should be same in other location.
+	- Question:
+	- ((67c1f9f5-4fb5-4668-a7c9-43b56338add3))
+	- Solution:
+		- Layer 1 : 4+4(out channels)\*3(in channels)\*3\*3 = 108 + 4
+		- Layer 2: 10+10(out channels)\*4(in channels)*5*5=1000+10
+- # Lecture 12 [[Jan 30th, 2025]] Computer Vision
+	- ![L_12.pdf](../assets/L_12_1740765294081_0.pdf)
+	- Application of CNN
+		- Image classification
+		- Object Detection and localization
+		- Image Segmentation - Downsampling -> Upsampling
+	- Image net competition
+	- Residual Networks - helps to avoid Shattered gradients(chaotic fluctuation in deep network)
+	- ((67c1fc9a-3f0a-49f1-ac01-2842b1ae80a9))
+	- Networks with residual links suffer less from shattered gradients
+	- Sequential Processing
+- # Lecture 13 [[Feb 4th, 2025]] NLP
+	- Textual embedding
+		- oneHot Encoding
+		- Word Embedding
+		- word similarity
+	- Text Representation -> word are represented as vector embeddings
+	- Two kind of Embedding
+		- Tf-idf
+		- Word2vec
 	-
--
--
