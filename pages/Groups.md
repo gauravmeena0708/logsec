@@ -1,11 +1,32 @@
-- **AI/ML Subfields**
-	- [[Natural Language Processing (NLP)]]
-	- [[Reinforcement Learning (RL)]]
-	- [[Computer Vision]]
-	- [[Graph Analysis]]
-	- [[Time Series Analysis]]
-	- [[Bioinformatics]]
-- **Data Mining**
+- **AI/ML Subfields** 🧠
+	- [[Natural Language Processing (NLP)]] 📚
+		- [[N-Grams]]
+		- [[Viterbi Algorithm]]
+		- [[POS Tagging]]
+	- [[Reinforcement Learning (RL)]] 🤖
+		- [[Markov Decision Processes (MDPs)]]
+	- [[Computer Vision]] 👁️
+		- [[Markov Random Fields (MRFs)]]
+	- [[Graph Analysis]] 📊
+		- [[PageRank]]
+		- [[Random Walks]]
+	- [[Time Series Analysis]] ⏳
+		- [[HMMs]]
+	- [[Bioinformatics]] 🧬
+		- [[Sequence Analysis]]
+- **Data Mining** ⛏️
 	- [[Frequent Subgraph Mining]]
 	- [[Apriori Principle]]
 	- [[Association Rule Mining]]
+- **Generative AI** 🎨
+	- [[GAN]]
+	- [[Diffusion Models]]
+	- [[Latent Space]]
+- **University** 🏫
+	- [[CoL761 Data Mining]]
+		- Homework: Implement Apriori Algorithm.
+	- [[ALL721 Deep Learning]]
+		- Homework: Train a GAN model.
+- **Templates**
+	- [[Homework]]
+	- [[Playlists]]
