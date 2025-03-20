@@ -1,0 +1,130 @@
+- **Transformer Architecture**
+	- **Overview**
+		- Introduced in the paper "Attention is All You Need" (Vaswani et al., 2017).
+		- Revolutionized NLP by replacing RNNs and CNNs with self-attention mechanisms.
+		- Key features: Parallel processing, scalability, and state-of-the-art performance.
+	- **Key Components**
+		- [[Self-Attention Mechanism]]
+		- [[Multi-Head Attention]]
+		- [[Positional Encoding]]
+		- [[Feed-Forward Neural Networks]]
+		- [[Layer Normalization]]
+		- [[Residual Connections]]
+	- **Architecture Diagram**
+		- Encoder-Decoder structure:
+			- **Encoder**: Processes input sequences.
+			- **Decoder**: Generates output sequences (used in tasks like translation).
+		- Both encoder and decoder consist of multiple layers of self-attention and feed-forward networks.
+	- **Applications**
+		- Machine translation (e.g., Google Translate).
+		- Text generation (e.g., GPT models).
+		- Text classification (e.g., BERT).
+- **Self-Attention Mechanism**
+	- **Definition**
+		- Allows the model to focus on different parts of the input sequence when processing each element.
+		- Computes a weighted sum of all input elements, where weights are determined by their relevance to the current element.
+	- **Steps**
+	  1. **Input Representation**
+		- Input: Sequence of embeddings \( X = (x_1, x_2, ..., x_n) \).
+		  2. **Compute Queries, Keys, and Values**
+		- Linear transformations:
+			- \( Q = XW_Q \) (Queries).
+			- \( K = XW_K \) (Keys).
+			- \( V = XW_V \) (Values).
+			  3. **Attention Scores**
+		- Compute dot products between queries and keys:
+			- \( \text{Score}(Q, K) = \frac{QK^T}{\sqrt{d_k}} \), where \( d_k \) is the dimension of keys.
+			  4. **Softmax**
+		- Apply softmax to obtain attention weights:
+			- \( \text{Attention Weights} = \text{Softmax}(\text{Score}(Q, K)) \).
+			  5. **Weighted Sum**
+		- Compute output as a weighted sum of values:
+			- \( \text{Output} = \text{Attention Weights} \cdot V \).
+	- **Intuition**
+		- Queries: What the model is looking for.
+		- Keys: What the input elements offer.
+		- Values: The actual content of the input elements.
+	- **Advantages**
+		- Captures long-range dependencies efficiently.
+		- Parallelizable and scalable.
+- **Multi-Head Attention**
+	- **Definition**
+		- Extends self-attention by applying multiple attention mechanisms in parallel.
+		- Allows the model to focus on different parts of the input simultaneously.
+	- **Steps**
+	  1. Split queries, keys, and values into \( h \) heads.
+	  2. Apply self-attention independently to each head.
+	  3. Concatenate the outputs of all heads.
+	  4. Apply a linear transformation to the concatenated output.
+	- **Advantages**
+		- Captures diverse relationships in the data.
+		- Improves model performance and interpretability.
+- **Positional Encoding**
+	- **Purpose**
+		- Adds information about the position of each element in the sequence (since transformers lack recurrence or convolution).
+	- **Method**
+		- Uses sine and cosine functions of different frequencies:
+			- \( PE_{(pos, 2i)} = \sin(pos / 10000^{2i/d_{\text{model}}}) \).
+			- \( PE_{(pos, 2i+1)} = \cos(pos / 10000^{2i/d_{\text{model}}}) \).
+		- Added to input embeddings before feeding into the transformer.
+	- **Intuition**
+		- Provides a unique representation for each position, enabling the model to understand sequence order.
+- **Feed-Forward Neural Networks**
+	- **Role**
+		- Applied after the self-attention layer in each transformer block.
+		- Processes each position independently and identically.
+	- **Structure**
+		- Two linear transformations with a ReLU activation in between:
+			- \( \text{FFN}(x) = \max(0, xW_1 + b_1)W_2 + b_2 \).
+	- **Purpose**
+		- Adds non-linearity and transforms the attention output.
+- **Layer Normalization and Residual Connections**
+	- **Layer Normalization**
+		- **Purpose**
+			- Stabilizes training by normalizing the inputs across features.
+		- **Applied After**
+			- Self-attention and feed-forward layers.
+	- **Residual Connections**
+		- **Purpose**
+			- Helps with gradient flow and prevents vanishing gradients.
+		- **Structure**
+			- Adds the input of a layer to its output:
+				- \( \text{Output} = \text{Layer}(x) + x \).
+- **Encoder and Decoder**
+	- **Encoder**
+		- **Structure**
+			- Stack of \( N \) identical layers.
+			- Each layer consists of:
+				- Multi-Head Attention.
+				- Feed-Forward Neural Network.
+				- Layer Normalization and Residual Connections.
+		- **Purpose**
+			- Processes input sequences to generate contextualized representations.
+	- **Decoder**
+		- **Structure**
+			- Stack of \( N \) identical layers.
+			- Each layer consists of:
+				- Masked Multi-Head Attention (to prevent looking ahead).
+				- Multi-Head Attention over encoder outputs.
+				- Feed-Forward Neural Network.
+				- Layer Normalization and Residual Connections.
+		- **Purpose**
+			- Generates output sequences based on encoder representations and previous outputs.
+- **Applications of Transformers**
+	- **Applications**
+		- **Machine Translation**
+			- Example: Google Translate.
+		- **Text Generation**
+			- Example: GPT models.
+		- **Text Classification**
+			- Example: BERT.
+		- **Image Processing**
+			- Example: Vision Transformers (ViTs).
+		- **Speech Processing**
+			- Example: Speech Transformers.
+- **Summary**
+	- **Summary**
+		- Transformers rely on self-attention to process sequences efficiently.
+		- Key components: Self-attention, multi-head attention, positional encoding, feed-forward networks, layer normalization, and residual connections.
+		- Applications span NLP, vision, and speech processing.
+		- Advantages: Parallel processing, scalability, and state-of-the-art performance.
