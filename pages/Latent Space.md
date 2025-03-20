@@ -6,9 +6,8 @@
 	- Loop -> find the difference between $P_{\theta}$ and $Q_{\phi}$ by either cross [[Entropy]] or [[KLD]]
 		- adjust $Q_{\phi}$ with loss and again find loss ... and continue
 		- once loss is minimized -> Generate samples from $Q_{\phi}
--
-	- **Latent Space**
-		- A lower-dimensional representation of data, often used in [[Generative AI]] and [[GANs]].
-	- **SVD (Singular Value Decomposition)**
-		- A matrix factorization technique used in dimensionality reduction and recommendation systems.
+- **Latent Space**
+	- A lower-dimensional representation of data, often used in [[Generative AI]] and [[GANs]].
+- **SVD (Singular Value Decomposition)**
+	- A matrix factorization technique used in dimensionality reduction and recommendation systems.
 	-
