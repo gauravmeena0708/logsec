@@ -31,6 +31,8 @@
 		- P(X|Y) - Conditional Probability
 		- E[x] - Expectation
 		- $P\left(Y\left|Y\right|\right)=\frac{P\left(X\left|Y\right|\right)P\left(Y\right)}{P\left(X\right)}$
+		- Posterior = $\frac{\left(Likelihood\cdot Prior\right)}{Evidence}$ = $\frac{P\left(X,Y\right)}{P\left(X\right)}$
+		-
 		-
 		-
 		-
