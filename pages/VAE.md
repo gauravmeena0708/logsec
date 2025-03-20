@@ -7,5 +7,9 @@
 		- Coding the VAE in Google Colab
 	- Stacked Auto-Encoders
 		- Image Reconstruction
+		- {{youtube-timestamp 147}} Input -> Encoder -> Bottleneck -> Decoder -> Output
+		-
+		-
+		-
 	-
 	-
