@@ -54,3 +54,58 @@ Markov Chains are mathematical systems that undergo transitions from one state t
 - Assumes the Markov property, which may not hold for all systems.
 - State space size can grow exponentially, making computation difficult.
 - Transition probabilities can be hard to estimate for complex systems.
+-
+- **Markov Chains in AI/ML**
+	- **Overview**
+		- Markov chains leverage the **Markov property** (memorylessness), where future states depend only on the current state.
+		- Applications span NLP, Graph Analysis, Reinforcement Learning, Time Series, Computer Vision, Bioinformatics, and more.
+	- **Subfields**
+		- [[NLP]]
+			- **Text Generation**
+				- N-gram models predict the next word based on the previous \( n-1 \) words.
+				- Hidden Markov Models (HMMs) for tasks like part-of-speech tagging, named entity recognition, and speech recognition.
+			- **Language Modeling**
+				- Early statistical language models relied on Markov assumptions for tasks like machine translation and auto-completion.
+		- [[Graph Analysis]]
+			- **PageRank**
+				- Models web surfing as a Markov chain, where transitions between web pages are probabilistic.
+			- **Random Walks**
+				- Analyze graph structure (e.g., social networks, recommendation systems) by simulating transitions between nodes.
+			- **Diffusion Processes**
+				- Model information or influence spread in networks using Markovian dynamics.
+		- [[Reinforcement Learning (RL)]]
+			- **Markov Decision Processes (MDPs)**
+				- Formally define RL environments, where agents choose actions based on the current state to maximize rewards.
+			- **Partial Observability (POMDPs)**
+				- Extend MDPs for partially observable states while retaining Markovian transitions.
+			- **Model-Based RL**
+				- Learn transition dynamics as Markov chains to simulate state transitions and plan optimal policies.
+		- [[Time Series Analysis]]
+			- **State Prediction**
+				- Use HMMs to infer hidden states (e.g., market regimes, weather conditions) from observed data.
+			- **Regime-Switching Models**
+				- Capture economic or financial cycles (e.g., recession vs. growth) with Markovian transitions.
+			- **Autoregressive Models**
+				- Assume Markov properties for short-term dependencies (e.g., ARIMA).
+		- [[Computer Vision]]
+			- **Markov Random Fields (MRFs)**
+				- Model spatial dependencies in images for tasks like denoising, segmentation, and stereo matching.
+			- **MCMC Sampling**
+				- Techniques like Gibbs sampling infer posterior distributions in MRFs.
+		- [[Bioinformatics]]
+			- **Sequence Analysis**
+				- HMMs predict gene structures, protein folding, and align DNA/RNA sequences by modeling transitions between biological states.
+		- [[Probabilistic Inference]]
+			- **Markov Chain Monte Carlo (MCMC)**
+				- Sample from complex distributions (e.g., Bayesian networks) using chains that converge to target distributions.
+		- [[Recommendation Systems]]
+			- **User Behavior Modeling**
+				- Track transitions between user states (e.g., product views, clicks) to predict next actions and recommend items.
+	- **Strengths and Limitations**
+		- **Strengths**
+			- Computationally efficient, analytically tractable, and foundational for sequential decision-making.
+		- **Limitations**
+			- The memoryless assumption may fail for long-range dependencies, leading to the use of deeper models (e.g., RNNs, Transformers).
+	- **Summary**
+		- Markov chains and their generalizations (HMMs, MDPs, MRFs) provide a versatile framework for modeling sequential, spatial, and state-dependent processes across AI/ML.
+		- They enable efficient algorithms for prediction, inference, and optimization, even as more complex models address their limitations in capturing long-term dependencies.
