@@ -1,0 +1,11 @@
+- {{video https://www.youtube.com/watch?v=w8F7_rQZxXk&list=PLdxQ7SoCLQANizknbIiHzL_hYjEaI-wUe&index=1}}
+	- Summary
+		- Review of stacked Auto Encoders
+		- Basics of Probability
+		- KL Divergence and its significance
+		- Derivation of loss function for VAE
+		- Coding the VAE in Google Colab
+	- Stacked Auto-Encoders
+		- Image Reconstruction
+	-
+	-
