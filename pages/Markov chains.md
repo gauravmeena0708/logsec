@@ -60,7 +60,7 @@ Markov Chains are mathematical systems that undergo transitions from one state t
 		- Markov chains leverage the **Markov property** (memorylessness), where future states depend only on the current state.
 		- Applications span NLP, Graph Analysis, Reinforcement Learning, Time Series, Computer Vision, Bioinformatics, and more.
 	- **Subfields**
-		- [[NLP]]
+		- [[Natural Language Processing (NLP)]]
 			- **Text Generation**
 				- N-gram models predict the next word based on the previous \( n-1 \) words.
 				- Hidden Markov Models (HMMs) for tasks like part-of-speech tagging, named entity recognition, and speech recognition.
