@@ -21,11 +21,16 @@
 		- Original input->partially destroyed input -> Encoder -> Bottleneck -> decoder -> Output
 		- Loss $\mathcal{L}(\phi,\theta)=\frac{1}{n}\sum_{i=1}^{n}(x_{i}-f_{\theta}(g_{\phi}(\tilde{x}_{i})))^2$
 	- Variational Encoder
-		- Input -> Probabilistic Encoder ($\mu,\sigma$) -> Sampled Latent vector -> Probabilistic Decoder -> Ouput
+		- Input -> **Probabilistic Encoder ($\mu,\sigma$)** -> Sampled Latent vector -> **Probabilistic Decoder** -> Ouput
 		- Loss KL $\mathcal{L}_{KL}=\frac12\sum_{j=1}^{J}\left(\mu_{j}^2+\sigma_{j}^2-1-\log\sigma_{j}^2\right)$
 		- Loss reconstruction $\mathcal{L}_{rec}(\phi,\theta)=\frac{1}{n}\sum_{i=1}^{n}(x_{i}-f_{\theta}(g_{\phi}(x_{i})))^2$
 		- Total Loss = Loss kl + Loss Reconstruction
-		-
+	- Prerequisite
+		- [[KLD]]
+		- P(x) - Probability
+		- P(X|Y) - Conditional Probability
+		- E[x] - Expectation
+		- $P\left(Y\left|Y\right|\right)=\frac{P\left(X\left|Y\right|\right)P\left(Y\right)}{P\left(X\right)}$
 		-
 		-
 		-
