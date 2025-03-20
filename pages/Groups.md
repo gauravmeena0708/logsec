@@ -1,0 +1,11 @@
+- **AI/ML Subfields**
+	- [[Natural Language Processing (NLP)]]
+	- [[Reinforcement Learning (RL)]]
+	- [[Computer Vision]]
+	- [[Graph Analysis]]
+	- [[Time Series Analysis]]
+	- [[Bioinformatics]]
+- **Data Mining**
+	- [[Frequent Subgraph Mining]]
+	- [[Apriori Principle]]
+	- [[Association Rule Mining]]
