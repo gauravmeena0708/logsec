@@ -13,7 +13,14 @@
 		- Decoder $\hat{x}=f(z;\theta)$
 		- Bottleneck/ Reparameterization certificate $z=\mu+\sigma\odot\epsilon,\quad\epsilon\sim\mathcal{N}(0,I)$
 		- $\theta, \phi$ are weights and biases
+		- Benefits:
+			- Represent the original image in compressed size of bottleneck
+			- reduces need of bandwidth in telecommunication channel
 	- Denoising Autoencoder
+		- Partially Destroyed input = input + Noise
+		- Original input->partially destroyed input -> Encoder -> Bottleneck -> decoder -> Output
+		- Loss $\mathcal{L}(\phi,\theta)=\frac{1}{n}\sum_{i=1}^{n}(x_{i}-f_{\theta}(g_{\phi}(\tilde{x}_{i})))^2$
+	- Variational Encoder
 		-
 		-
 		-
