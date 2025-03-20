@@ -109,3 +109,6 @@ Markov Chains are mathematical systems that undergo transitions from one state t
 	- **Summary**
 		- Markov chains and their generalizations (HMMs, MDPs, MRFs) provide a versatile framework for modeling sequential, spatial, and state-dependent processes across AI/ML.
 		- They enable efficient algorithms for prediction, inference, and optimization, even as more complex models address their limitations in capturing long-term dependencies.
+	- **Markov Chains**
+		- Used in [[N-Grams]] for text generation.
+		- Applied in [[Viterbi Algorithm]] for POS tagging.
