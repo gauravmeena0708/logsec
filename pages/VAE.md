@@ -8,6 +8,9 @@
 	- Stacked Auto-Encoders
 		- Image Reconstruction
 		- {{youtube-timestamp 147}} Input -> Encoder -> Bottleneck -> Decoder -> Output
+		- Reconstruction loss $\mathcal{L}_{rec}(\phi,\theta)=\frac{1}{n}\sum_{i=1}^{n}(x_{i}-f_{\theta}(g_{\phi}(x_{i})))^2$
+		-
+		-
 		-
 		-
 		-
