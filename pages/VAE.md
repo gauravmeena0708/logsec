@@ -9,10 +9,11 @@
 		- Image Reconstruction
 		- {{youtube-timestamp 147}} Input -> Encoder -> Bottleneck -> Decoder -> Output
 		- Reconstruction loss $\mathcal{L}_{rec}(\phi,\theta)=\frac{1}{n}\sum_{i=1}^{n}(x_{i}-f_{\theta}(g_{\phi}(x_{i})))^2$
-		- Encoder $\mu=f_{\mu}(x;\phi),\quad\log\sigma^2=f_{\sigma}(x;\phi)$
-		- Decoder $\hat{x}=g(z;\theta)$
+		- Encoder $\mu=g_{\mu}(x;\phi),\quad\log\sigma^2=g_{\sigma}(x;\phi)$
+		- Decoder $\hat{x}=f(z;\theta)$
 		- Bottleneck/ Reparameterization certificate $z=\mu+\sigma\odot\epsilon,\quad\epsilon\sim\mathcal{N}(0,I)$
 		- $\theta, \phi$ are weights and biases
+	- Denoising Autoencoder
 		-
 		-
 		-
