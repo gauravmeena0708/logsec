@@ -10,6 +10,9 @@
 	- P(y|x) = $\frac{1}{z}\prod_{k}^{}\exp\left(\phi k\left(x,y\right)\right)$
 	- Sequential CRF one of the architechture
 - Points
-	- In HMM, emissions consider one word at a time.
+	- In HMM, emissions consider one word at a time. ->
 	- CRFs support features over many words simultaneously, non-independent, featues (suffix and prefix), doesn't have to be generative model
+	- CRFs are discriminative
+- Sparse linear functions
+- Neural CRFs
 	-
