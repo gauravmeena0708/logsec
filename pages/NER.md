@@ -20,6 +20,7 @@
 - Caching is important
 	- Exploit and Solve sparsity
 - ## Forward and Backward Algo
-	- Viterbi takes max, here we sum all values
+- Viterbi takes max, here we sum all values
+- [[CRF]] are same
 	-
 	-
