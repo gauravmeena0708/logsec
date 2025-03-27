@@ -3,3 +3,8 @@
 - if Barak Obama -> B-Per B-Per -> it means Barak and obama are two different persons
 - If it is two word name of single person it should be -> B-Per I-Per
 - Barak obama will travel -> B-Per I-Per O O
+- Why [[HMM]]s are not good fit?
+	- Lot's of O's
+	- Insufficient features/capacity with multinomials (especially for unks)
+	-
+-
