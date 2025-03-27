@@ -16,4 +16,5 @@
 	- CRFs are discriminative
 - Sparse linear functions
 - Neural CRFs
+- Gradient of Loss function =  Gold function - Expectation of Result Function
 	-
