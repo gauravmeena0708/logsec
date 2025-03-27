@@ -19,4 +19,7 @@
 - Gradient of Loss function =  Gold function - Expectation of Result Function
 - Caching is important
 	- Exploit and Solve sparsity
+- ## Forward and Backward Algo
+	- Viterbi takes max, here we sum all values
+	-
 	-
