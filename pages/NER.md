@@ -9,4 +9,6 @@
 - Solution Conditional random fields or CRFs
 	- P(y|x) = $\frac{1}{z}\prod_{k}^{}\exp\left(\phi k\left(x,y\right)\right)$
 	- Sequential CRF one of the architechture
-	-
+- points
+	- In HMM, emissions consider one word at a time.
+	- CRFs support features over many words simultaneously, non-independent, featues (suffix and prefix),
