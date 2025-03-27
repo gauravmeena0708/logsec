@@ -1,4 +1,5 @@
 - {{video https://www.youtube.com/watch?v=8AnHsHhiJ4U&list=PL8v3IpKUdE9D6RBHHu7vRlmcyevOr65T_&index=3}}
 - BIO Tagset - Begin, Inside, Out
 - if Barak Obama -> B-Per B-Per -> it means Barak and obama are two different persons
-- If it is stwo word name of single person
+- If it is two word name of single person it should be -> B-Per I-Per
+- Barak obama will travel -> B-Per I-Per O O
