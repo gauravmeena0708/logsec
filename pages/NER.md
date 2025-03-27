@@ -6,5 +6,7 @@
 - Why [[HMM]]s are not good fit?
 	- Lot's of O's
 	- Insufficient features/capacity with multinomials (especially for unks)
-- Solution Conditional random fields
--
+- Solution Conditional random fields or CRFs
+	- P(y|x) = $\frac{1}{z}\prod_{k}^{}\exp\left(\phi k\left(x,y\right)\right)$
+	- Sequential CRF one of the architechture
+	-
