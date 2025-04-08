@@ -24,4 +24,6 @@
 	- Problem
 		- Variable length
 		- Sequence matters
-		-
+	- RNN is similar to ANN with 2 big diff
+		- whole input doesn't go at a time -> input goes sequentially
+		- RNN's are not feed forward -> concept of state -> gives feedback
