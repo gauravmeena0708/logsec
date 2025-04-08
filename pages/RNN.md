@@ -10,3 +10,7 @@
 		- One-hot
 		- Bag of words
 		- Tf-IDF
+	- Problem
+		- One vector for each word
+		- pass vector of each word of sentence as input
+		- if vector size is 12, 4 word sentence will have input size of 48 and 5 word sentence will have input of 60.
