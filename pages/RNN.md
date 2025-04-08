@@ -4,4 +4,9 @@
 	- Sentence
 	- Time series
 	- Speech
-- Problem: Text
+- Problem: Text classification of sentences
+	- {{youtube-timestamp 523}}
+	- How to give input to NN? -> Vectorize
+		- One-hot
+		- Bag of words
+		- Tf-IDF
