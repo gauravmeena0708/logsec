@@ -1,2 +1,4 @@
-- Applications
-	-
+- Applications - sequential data
+	- Sentence
+	- Time series
+	- Speech
