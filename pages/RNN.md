@@ -1,3 +1,4 @@
+- Recurrent NN
 - Applications - sequential data
 	- Sentence
 	- Time series
