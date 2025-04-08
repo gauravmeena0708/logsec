@@ -1,5 +1,7 @@
+- {{video https://www.youtube.com/watch?v=4KpRP-YUw6c}}
 - Recurrent NN
 - Applications - sequential data
 	- Sentence
 	- Time series
 	- Speech
+- Problem: Text
